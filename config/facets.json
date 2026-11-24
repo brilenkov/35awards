@@ -1,0 +1,116 @@
+{
+  "source": {
+    "title": "Тип",
+    "options": {
+      "nomination": "Номинации",
+      "theme": "Темы"
+    }
+  },
+  "award": {
+    "title": "Награда",
+    "options": {
+      "win": "WIN · 100 лучших",
+      "best": "BEST OF CONTEST",
+      "top": "TOP %",
+      "stage": "III stage",
+      "top35": "Топ-35"
+    }
+  },
+  "light": {
+    "title": "Свет",
+    "options": {
+      "studio": "Студийный",
+      "natural": "Естественный",
+      "soft": "Мягкий",
+      "hard": "Жёсткий",
+      "loop": "Петлевой (loop)",
+      "rembrandt": "Рембрандт",
+      "split": "Боковой",
+      "backlight": "Контровой / ореол",
+      "window": "Оконный",
+      "low-key": "Низкий ключ"
+    }
+  },
+  "color": {
+    "title": "Цвет",
+    "options": {
+      "color": "Цвет",
+      "bw": "Ч/Б",
+      "warm": "Тёплый",
+      "cool": "Холодный",
+      "muted": "Приглушённый",
+      "saturated": "Насыщенный"
+    }
+  },
+  "technique": {
+    "title": "Техника",
+    "options": {
+      "studio": "Студия",
+      "natural-light": "Естественный свет",
+      "staged": "Постановка",
+      "documentary": "Документальное",
+      "fine-art": "Fine art",
+      "fashion": "Fashion",
+      "experimental": "Эксперимент"
+    }
+  },
+  "image": {
+    "title": "Образ",
+    "options": {
+      "beauty": "Beauty",
+      "character": "Характер",
+      "fashion": "Fashion",
+      "minimal": "Минимализм",
+      "fine-art": "Fine art",
+      "documentary": "Документальный",
+      "staged": "Постановочный",
+      "vintage": "Винтаж",
+      "cinematic": "Кинематографичный",
+      "surreal": "Сюрреализм"
+    }
+  },
+  "emotion": {
+    "title": "Эмоция",
+    "options": {
+      "calm": "Спокойствие",
+      "tender": "Нежность",
+      "tense": "Напряжение",
+      "dramatic": "Драма",
+      "mystery": "Загадка",
+      "strength": "Сила",
+      "sadness": "Грусть"
+    }
+  },
+  "season": {
+    "title": "Сезон",
+    "options": {
+      "unspecified": "Не указан",
+      "spring": "Весна",
+      "summer": "Лето",
+      "autumn": "Осень",
+      "winter": "Зима"
+    }
+  },
+  "focal": {
+    "title": "Фокусное",
+    "options": {
+      "wide": "24–35 мм",
+      "normal": "50 мм",
+      "short-tele": "85–105 мм",
+      "tele": "135 мм+"
+    }
+  },
+  "multi": {
+    "title": "Мульти-участие",
+    "options": {
+      "multi": "2+ конкурса",
+      "contests_3": "3+ конкурса",
+      "contests_4": "4+ конкурса",
+      "multi_award": "2+ награды",
+      "awards_3": "3+ награды",
+      "awards_4": "4+ награды",
+      "multi_nomination": "2+ номинации",
+      "multi_theme": "2+ темы"
+    }
+  }
+}

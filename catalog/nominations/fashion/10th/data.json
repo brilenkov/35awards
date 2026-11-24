@@ -1,0 +1,4528 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:27:04+00:00",
+  "nomination": {
+    "slug": "fashion",
+    "name": "Fashion & Glamour",
+    "name_ru": "Фэшн и гламур",
+    "description_ru": "Фэшн и гламур — мода, стиль, свет и работа с моделью. В подборке — верхняя часть рейтинга номинации за разные годы.",
+    "source_url": "https://35awards.com/winners10th/nomination/1024/",
+    "works_count": "",
+    "authors_count": ""
+  },
+  "edition": {
+    "slug": "10th",
+    "year": 2024,
+    "title": "10th 35AWARDS",
+    "source_url": "https://35awards.com/winners10th/nomination/1024/",
+    "photographers_url": "https://35awards.com/winners10th/nomination/1024/photographers/"
+  },
+  "limit": 35,
+  "photos": [
+    {
+      "rank": 1,
+      "id": 11751507,
+      "title": "Стеклянные",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11751507",
+      "source_url": "https://35awards.com/gallery/photo/11751507/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2350/11751507_1500n.jpg",
+        "full": "photos/full/01_pavvolga_11751507.jpg",
+        "thumb": "photos/thumb/01_pavvolga_11751507.jpg",
+        "width": 1138,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1119,
+        "likes": 1,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "pavvolga",
+        "name": "Ольга Паволга",
+        "name_ru": "Ольга Паволга",
+        "name_native": "Olga Pavolga",
+        "profile_url": "https://35awards.com/author/pavvolga/",
+        "external_profile": "https://35photo.pro/pavvolga/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 24,
+        "following": 0,
+        "photos_count": 94,
+        "rank_in_nomination": 40,
+        "genres": [
+          "Fashion",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 92
+          },
+          {
+            "name": "Nikon AF85MM F/1.8D",
+            "count": 28
+          },
+          {
+            "name": "Nikon 50mm f/1.4D AF Nikkor",
+            "count": 18
+          },
+          {
+            "name": "Nikon AF-S Nikkor 35mm f/1.8G ED",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 11845186,
+      "title": "Swimming the Dunes",
+      "description": "Outdoors conceptual art fashion",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11845186",
+      "source_url": "https://35awards.com/gallery/photo/11845186/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2369/11845186_1500n.jpg",
+        "full": "photos/full/02_bolgov_11845186.jpg",
+        "thumb": "photos/thumb/02_bolgov_11845186.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1042,
+        "likes": 3,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "bolgov",
+        "name": "Руслан Болгов (Axe)",
+        "name_ru": "Болгов Руслан",
+        "name_native": "Ruslan Bolgov",
+        "profile_url": "https://35awards.com/author/bolgov/",
+        "external_profile": "https://35photo.pro/bolgov/",
+        "avatar": "avatars/bolgov.jpg",
+        "country": "Lithuania",
+        "country_code": "LT",
+        "flag": "assets/flags/lt.svg",
+        "city": "Klaipeda",
+        "followers": 2130,
+        "following": 90,
+        "photos_count": 179,
+        "rank_in_nomination": 5,
+        "genres": [
+          "Fashion"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS-1D X",
+            "count": 8
+          },
+          {
+            "name": "Tamron SP 24-70mm f/2.8 Di VC USD G2 (A032)",
+            "count": 7
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 6
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 11663828,
+      "title": "Kora - The Mother World",
+      "description": "In a distant galaxy, the Mother World dominates and imposes its power with arrogance and deceit. Everything is crushed and destroyed except hope. Kora, daughter of fire and wind, guilty of a crime she did not commit and betrayed by what she once called \"family\", is forced to flee. She reaches a new World, initially hostile and distant from her own. She will have to adapt, mastering her warrior instincts, full of revenge and hatred. Little by little she will learn to love, living in harmony with nature. She will find a home, friends and something to fight for, defending what she can finally call \"family\".",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11663828",
+      "source_url": "https://35awards.com/gallery/photo/11663828/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2332/11663828_1500n.jpg",
+        "full": "photos/full/03_gveneziani_11663828.jpg",
+        "thumb": "photos/thumb/03_gveneziani_11663828.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1097,
+        "likes": 1,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "gveneziani",
+        "name": "Giandomenico Veneziani",
+        "name_ru": "Giandomenico Veneziani",
+        "name_native": "Giandomenico Veneziani",
+        "profile_url": "https://35awards.com/author/gveneziani/",
+        "external_profile": "https://35photo.pro/gveneziani/",
+        "avatar": "avatars/gveneziani.jpg",
+        "country": "Italy",
+        "country_code": "IT",
+        "flag": "assets/flags/it.svg",
+        "city": "Bisceglie",
+        "followers": 76,
+        "following": 0,
+        "photos_count": 291,
+        "rank_in_nomination": 8,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 174
+          },
+          {
+            "name": "Nikon D5500",
+            "count": 100
+          },
+          {
+            "name": "Sigma 35mm F1.4 DG HSM",
+            "count": 27
+          },
+          {
+            "name": "Canon EOS 1100D",
+            "count": 7
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 11471100,
+      "title": "",
+      "description": "Rose",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11471100",
+      "source_url": "https://35awards.com/gallery/photo/11471100/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2294/11471100_1500n.jpg",
+        "full": "photos/full/04_freelook_11471100.jpg",
+        "thumb": "photos/thumb/04_freelook_11471100.jpg",
+        "width": 1500,
+        "height": 1499
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1867,
+        "likes": 2,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "freelook",
+        "name": "Денис Боровских",
+        "name_ru": "Denis Borovskikh",
+        "name_native": "Denis Borovskikh",
+        "profile_url": "https://35awards.com/author/freelook/",
+        "external_profile": "https://35photo.pro/freelook/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 34,
+        "following": 0,
+        "photos_count": 196,
+        "rank_in_nomination": 43,
+        "genres": [
+          "Portrait",
+          "Architecture",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 600D",
+            "count": 67
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 66
+          },
+          {
+            "name": "Sigma 24-70mm f/2.8 IF EX DG HSM or Tamron SP 24-70mm f/2.8 Di VC USD",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 9
+          },
+          {
+            "name": "HUAWEI EML-L29",
+            "count": 7
+          },
+          {
+            "name": "Sony ILCE-7SM2",
+            "count": 2
+          },
+          {
+            "name": "Sony ILCE-6000",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 11727911,
+      "title": "The nation of ten arrows",
+      "description": "md: Aidai Omuralieva\r\nstyle: Bema Lazareva\r\ndress: By Yntysh \r\nmuah: Aiganysh Toichubekova\r\npp: Sveta Kyssa",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11727911",
+      "source_url": "https://35awards.com/gallery/photo/11727911/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2345/11727911_1500n.jpg",
+        "full": "photos/full/05_gsvoow_11727911.jpg",
+        "thumb": "photos/thumb/05_gsvoow_11727911.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1769,
+        "likes": 2,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "gsvoow",
+        "name": "Наташа Янкелевич",
+        "name_ru": "Наташа Янкелевич",
+        "name_native": "Natasha Yankelevich",
+        "profile_url": "https://35awards.com/author/gsvoow/",
+        "external_profile": "https://35photo.pro/gsvoow/",
+        "avatar": "avatars/gsvoow.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 1268,
+        "following": 11,
+        "photos_count": 167,
+        "rank_in_nomination": 1,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7",
+            "count": 21
+          },
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 11873642,
+      "title": "Forward to the Past",
+      "description": "Фотопроект “Forward to the Past”\r\nПродюсер, фотограф: Анжелика Рейн\r\nМодель: Нина Лисник\r\nХудожник по костюмам: Ольга Московенко\r\nВизажист, прическа:  Дарья Рябова\r\nАссистент по свету: Игорь Мищенко",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11873642",
+      "source_url": "https://35awards.com/gallery/photo/11873642/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2374/11873642_1500n.jpg",
+        "full": "photos/full/06_angelikareyn_11873642.jpg",
+        "thumb": "photos/thumb/06_angelikareyn_11873642.jpg",
+        "width": 1072,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 641,
+        "likes": 1,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "angelikareyn",
+        "name": "Angelica",
+        "name_ru": "Angelica",
+        "name_native": "Angelica",
+        "profile_url": "https://35awards.com/author/angelikareyn/",
+        "external_profile": "https://35photo.pro/angelikareyn/",
+        "avatar": "",
+        "country": "United States",
+        "country_code": "US",
+        "flag": "assets/flags/us.svg",
+        "city": "North Hollywood",
+        "followers": 4,
+        "following": 1,
+        "photos_count": 17,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 7,
+      "id": 11350987,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11350987",
+      "source_url": "https://35awards.com/gallery/photo/11350987/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2270/11350987_1500n.jpg",
+        "full": "photos/full/07_plotnikoff_11350987.jpg",
+        "thumb": "photos/thumb/07_plotnikoff_11350987.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2643,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "plotnikoff",
+        "name": "Антон Плотников",
+        "name_ru": "Антон Плотников",
+        "name_native": "Anton Plotnikov",
+        "profile_url": "https://35awards.com/author/plotnikoff/",
+        "external_profile": "https://35photo.pro/plotnikoff/",
+        "avatar": "avatars/plotnikoff.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Оренбург",
+        "followers": 663,
+        "following": 11,
+        "photos_count": 207,
+        "rank_in_nomination": 17,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon Z7_2",
+            "count": 96
+          },
+          {
+            "name": "Nikon D610",
+            "count": 75
+          },
+          {
+            "name": "Nikon Z85/1.8S",
+            "count": 12
+          },
+          {
+            "name": "Nikon Z 35/1.8S",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 10508796,
+      "title": "Five senses - Diligence Miệt Mài - Ngũ Quan",
+      "description": "From ancient times to modern times, art has always been expressed magically in the way of feeling with the subtle sensitivity and flexibility of the senses. With our eyes, the marriage of color, light and lines in painting makes us fascinated, as if we are lost in a world of many shapes and forms, connected to the stories of joy, anger, love and sadness in the world. group. Just like that, art holds on to Beauty through long years, a place for people to take refuge and dialogue with themselves.\r\nHowever, how many people can sympathize with the feelings of the characters in the painting who have to re-enact a play for the public's upliftment? Will these characters ever be able to speak their hearts out to express all the human problems in their lives?\r\nThe photo series hopes to bring a new perspective on paintings by turning the silent characters in the paintings into living souls. There, they escaped a state of silence that had been hidden for centuries, to live and express all their original beauty. On the beautiful natural background of Vietnamese lacquer paintings, each character is like a traveler wandering in the countryside landscape, blending together to add a touch of charm and sophistication, symbolizing the the rustic beauty of Vietnamese people.\r\n“Then the characters will break their own “cocoon” to find their own story, where they explore the world starting from the five senses.”\r\nTự cổ chí kim, nghệ thuật luôn được trình hiện đầy linh diệu trong cung cách cảm nhận bằng sự nhạy cảm tế vi và linh động của các giác quan. Với thị giác, cuộc hôn phối của màu sắc, ánh sáng và đường nét trong hội họa khiến ta mê đắm tựa hồ lạc bước vào thế giới muôn hình vạn trạng, được nối kết với những câu chuyện hỉ nộ ái ố ở cõi thế đa đoan. Cứ thế, nghệ thuật níu giữ cái Đẹp qua năm tháng miên trường, là nơi chốn để con người nương náu và đối thoại với chính mình. \r\nThế nhưng, mấy ai thấu cảm được nỗi niềm của những nhân vật trong tranh đã phải diễn đi diễn lại một vở kịch cho sự thăng hoa của công chúng? Liệu rằng, những nhân vật ấy có bao giờ cất lên được tiếng lòng tuyệt tận để mong cầu giãi bày muôn nỗi nhân sinh trong cuộc đời mình?\r\nBộ ảnh mong muốn mang một góc nhìn mới về tranh ảnh khi biến những nhân vật lặng tiếng trong tranh như sống động một linh hồn. Nơi đó, họ thoát khỏi trạng thái im lặng chìm khuất hàng thế kỷ, để sống và thể hiện tất cả vẻ đẹp nguyên khôi của mình. Trên nền thiên nhiên tươi đẹp trong hơi thở của tranh sơn mài Việt Nam, mỗi nhân vật như một người lữ thứ phiêu diêu trong quang cảnh thôn dã điền viên, hòa quyện như điểm tô thêm một nét duyên dáng, ý nhị biểu trưng cho vẻ đẹp chân quê của người Việt. \r\n“Rồi những nhân vật sẽ tự phá vỡ chiếc “kén\" để tìm kiếm một câu chuyện riêng mình, nơi mà họ khám phá thế giới bắt đầu từ ngũ quan.”",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_10508796",
+      "source_url": "https://35awards.com/gallery/photo/10508796/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2101/10508796_1500n.jpg",
+        "full": "photos/full/08_tnphcvng_10508796.jpg",
+        "thumb": "photos/thumb/08_tnphcvng_10508796.jpg",
+        "width": 1500,
+        "height": 1071
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1994,
+        "likes": 1,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "tnphcvng",
+        "name": "Tấn Phúc Vương",
+        "name_ru": "Phuc Vuong",
+        "name_native": "Vuong Tan Phuc",
+        "profile_url": "https://35awards.com/author/tnphcvng/",
+        "external_profile": "https://35photo.pro/tnphcvng/",
+        "avatar": "avatars/tnphcvng.jpg",
+        "country": "Viet Nam",
+        "country_code": "VN",
+        "flag": "assets/flags/vn.svg",
+        "city": "Hồ Chi Minh",
+        "followers": 6,
+        "following": 0,
+        "photos_count": 41,
+        "rank_in_nomination": 16,
+        "genres": [
+          "Fashion"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 12
+          },
+          {
+            "name": "Fujifilm GFX50S II",
+            "count": 10
+          },
+          {
+            "name": "Sony ILCE-7CM2",
+            "count": 3
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 2
+          },
+          {
+            "name": "Sony ILCE-7RM5",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm X-T4",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 11832794,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11832794",
+      "source_url": "https://35awards.com/gallery/photo/11832794/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2366/11832794_1500n.jpg",
+        "full": "photos/full/09_keerl_11832794.jpg",
+        "thumb": "photos/thumb/09_keerl_11832794.jpg",
+        "width": 1500,
+        "height": 1001
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "1639",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Red + Blue",
+          "contest_key": "theme:928",
+          "contest_id": "928",
+          "under_id": "1260",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/928/"
+        },
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1009",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1009/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        },
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Conceptual photo",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1010",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1010/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best",
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Red + Blue",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "928",
+          "under_id": "1260",
+          "link": "https://35awards.com/page/contests/num/928/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1009",
+          "link": "https://35awards.com/winners10th/nomination/1009/",
+          "badge": "II stage",
+          "tier": "stage"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Conceptual photo",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1010",
+          "link": "https://35awards.com/winners10th/nomination/1010/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 4310,
+        "likes": 2,
+        "favorites": 25
+      },
+      "author": {
+        "slug": "keerl",
+        "name": "Лилуш Кир",
+        "name_ru": "Лилуш Кир",
+        "name_native": "Leeloush Keer",
+        "profile_url": "https://35awards.com/author/keerl/",
+        "external_profile": "https://35photo.pro/keerl/",
+        "avatar": "avatars/keerl.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Тула",
+        "followers": 284,
+        "following": 8,
+        "photos_count": 46,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": []
+      }
+    },
+    {
+      "rank": 10,
+      "id": 11958707,
+      "title": "Custom poison outfit",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11958707",
+      "source_url": "https://35awards.com/gallery/photo/11958707/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2391/11958707_1500n.jpg",
+        "full": "photos/full/10_honestbear_11958707.jpg",
+        "thumb": "photos/thumb/10_honestbear_11958707.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1206,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "honestbear",
+        "name": "Филиппов Михаил",
+        "name_ru": "Филиппов Михаил",
+        "name_native": "Mikhail Filippov",
+        "profile_url": "https://35awards.com/author/honestbear/",
+        "external_profile": "https://35photo.pro/honestbear/",
+        "avatar": "avatars/honestbear.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 69,
+        "following": 1,
+        "photos_count": 25,
+        "rank_in_nomination": 15,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 11,
+      "id": 11800994,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11800994",
+      "source_url": "https://35awards.com/gallery/photo/11800994/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2360/11800994_1500n.jpg",
+        "full": "photos/full/11_sergeyurunbaev_11800994.jpg",
+        "thumb": "photos/thumb/11_sergeyurunbaev_11800994.jpg",
+        "width": 1002,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 846,
+        "likes": 1,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "sergeyurunbaev",
+        "name": "Сергей Урунбаев",
+        "name_ru": "Сергей Урунбаев",
+        "name_native": "Сергей Урунбаев",
+        "profile_url": "https://35awards.com/author/sergeyurunbaev/",
+        "external_profile": "https://35photo.pro/sergeyurunbaev/",
+        "avatar": "avatars/sergeyurunbaev.jpg",
+        "country": "Uzbekistan",
+        "country_code": "UZ",
+        "flag": "assets/flags/uz.svg",
+        "city": "Ташкент",
+        "followers": 3,
+        "following": 1,
+        "photos_count": 103,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 31
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 27
+          },
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 16
+          },
+          {
+            "name": "Sony ILCE-7RM4A",
+            "count": 9
+          }
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "id": 11992497,
+      "title": "Snake girl",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11992497",
+      "source_url": "https://35awards.com/gallery/photo/11992497/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2398/11992497_1500n.jpg",
+        "full": "photos/full/12_danialnadimi_11992497.jpg",
+        "thumb": "photos/thumb/12_danialnadimi_11992497.jpg",
+        "width": 1171,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1171,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "danialnadimi",
+        "name": "Danialnadimi",
+        "name_ru": "Danialnadimi",
+        "name_native": "Danial nadimi",
+        "profile_url": "https://35awards.com/author/danialnadimi/",
+        "external_profile": "https://35photo.pro/danialnadimi/",
+        "avatar": "avatars/danialnadimi.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "Isfahan",
+        "followers": 44,
+        "following": 4,
+        "photos_count": 37,
+        "rank_in_nomination": 20,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": []
+      }
+    },
+    {
+      "rank": 13,
+      "id": 12001935,
+      "title": "BEAUTY BLOSSOM",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_12001935",
+      "source_url": "https://35awards.com/gallery/photo/12001935/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2400/12001935_1500n.jpg",
+        "full": "photos/full/13_educornejo_12001935.jpg",
+        "thumb": "photos/thumb/13_educornejo_12001935.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 528,
+        "likes": 2,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "educornejo",
+        "name": "EDU CORNEJO",
+        "name_ru": "EDU CORNEJO",
+        "name_native": "Edu Cornejo",
+        "profile_url": "https://35awards.com/author/educornejo/",
+        "external_profile": "https://35photo.pro/educornejo/",
+        "avatar": "avatars/educornejo.jpg",
+        "country": "United Arab Emirates",
+        "country_code": "AE",
+        "flag": "assets/flags/ae.svg",
+        "city": "Dubai",
+        "followers": 13,
+        "following": 0,
+        "photos_count": 36,
+        "rank_in_nomination": 2,
+        "genres": [
+          "Fashion",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 28
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "id": 11059519,
+      "title": "",
+      "description": "Green",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11059519",
+      "source_url": "https://35awards.com/gallery/photo/11059519/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2211/11059519_1500n.jpg",
+        "full": "photos/full/14_ioannidiart_11059519.jpg",
+        "thumb": "photos/thumb/14_ioannidiart_11059519.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2161,
+        "likes": 0,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "ioannidiart",
+        "name": "Дарa",
+        "name_ru": "Дарa",
+        "name_native": "Дарa",
+        "profile_url": "https://35awards.com/author/ioannidiart/",
+        "external_profile": "https://35photo.pro/ioannidiart/",
+        "avatar": "avatars/ioannidiart.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 32,
+        "rank_in_nomination": 50,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "id": 11868244,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11868244",
+      "source_url": "https://35awards.com/gallery/photo/11868244/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2373/11868244_1500n.jpg",
+        "full": "photos/full/15_ivanovainna_11868244.jpg",
+        "thumb": "photos/thumb/15_ivanovainna_11868244.jpg",
+        "width": 1044,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 637,
+        "likes": 1,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "ivanovainna",
+        "name": "Инна Бочарникова",
+        "name_ru": "Инна Бочарникова",
+        "name_native": "Inna Bocharnikova",
+        "profile_url": "https://35awards.com/author/ivanovainna/",
+        "external_profile": "https://35photo.pro/ivanovainna/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Екатеринбург",
+        "followers": 131,
+        "following": 54,
+        "photos_count": 268,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Still life",
+          "Child portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R",
+            "count": 259
+          },
+          {
+            "name": "Canon RF 24-70 f 2.8 L IS USM",
+            "count": 19
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 11
+          },
+          {
+            "name": "Canon RF 85mm F2 MACRO IS STM",
+            "count": 5
+          },
+          {
+            "name": "Apple iPhone 17 Pro Max",
+            "count": 2
+          },
+          {
+            "name": "Apple iPhone 15 Pro",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "id": 11861599,
+      "title": "Plan wreck iceland 2024",
+      "description": "Photo/edit/hair/makeup: Melanie Dietze\r\nModel: Meike\r\nDress: Katrin Eulenstein Couture",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11861599",
+      "source_url": "https://35awards.com/gallery/photo/11861599/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2372/11861599_1500n.jpg",
+        "full": "photos/full/16_dietze_11861599.jpg",
+        "thumb": "photos/thumb/16_dietze_11861599.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1599,
+        "likes": 1,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "dietze",
+        "name": "Melanie Dietze",
+        "name_ru": "Melanie Dietze",
+        "name_native": "Melanie Dietze",
+        "profile_url": "https://35awards.com/author/dietze/",
+        "external_profile": "https://35photo.pro/dietze/",
+        "avatar": "avatars/dietze.jpg",
+        "country": "Germany",
+        "country_code": "DE",
+        "flag": "assets/flags/de.svg",
+        "city": "MeiSsen",
+        "followers": 9,
+        "following": 0,
+        "photos_count": 61,
+        "rank_in_nomination": 14,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 51
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "id": 11975945,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11975945",
+      "source_url": "https://35awards.com/gallery/photo/11975945/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2395/11975945_1500n.jpg",
+        "full": "photos/full/17_samirahesami_11975945.jpg",
+        "thumb": "photos/thumb/17_samirahesami_11975945.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 573,
+        "likes": 1,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "samirahesami",
+        "name": "samira hesami",
+        "name_ru": "samira hesami",
+        "name_native": "samira hesami",
+        "profile_url": "https://35awards.com/author/samirahesami/",
+        "external_profile": "https://35photo.pro/samirahesami/",
+        "avatar": "avatars/samirahesami.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "Tehran",
+        "followers": 425,
+        "following": 9,
+        "photos_count": 139,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R8",
+            "count": 30
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 10
+          },
+          {
+            "name": "Sigma 85mm f/1.4 DG HSM A016",
+            "count": 9
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "id": 11945318,
+      "title": "***",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11945318",
+      "source_url": "https://35awards.com/gallery/photo/11945318/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2389/11945318_1500n.jpg",
+        "full": "photos/full/18_imwarrior_11945318.jpg",
+        "thumb": "photos/thumb/18_imwarrior_11945318.jpg",
+        "width": 1500,
+        "height": 843
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1062,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "imwarrior",
+        "name": "Георгий Чернядьев",
+        "name_ru": "Георгий Чернядьев",
+        "name_native": "Georgy Chernyadyev",
+        "profile_url": "https://35awards.com/author/imwarrior/",
+        "external_profile": "https://35photo.pro/imwarrior/",
+        "avatar": "avatars/imwarrior.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 13414,
+        "following": 15,
+        "photos_count": 299,
+        "rank_in_nomination": 10,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D610",
+            "count": 14
+          },
+          {
+            "name": "Nikon D750",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "id": 10936920,
+      "title": "thoughts sound loud",
+      "description": "Agam",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_10936920",
+      "source_url": "https://35awards.com/gallery/photo/10936920/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2187/10936920_1500n.jpg",
+        "full": "photos/full/19_sicocxle_10936920.jpg",
+        "thumb": "photos/thumb/19_sicocxle_10936920.jpg",
+        "width": 1023,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1440,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "sicocxle",
+        "name": "Natia Dundua",
+        "name_ru": "Natia Dundua",
+        "name_native": "נטיה דונדואה",
+        "profile_url": "https://35awards.com/author/sicocxle/",
+        "external_profile": "https://35photo.pro/sicocxle/",
+        "avatar": "avatars/sicocxle.jpg",
+        "country": "Israel",
+        "country_code": "IL",
+        "flag": "assets/flags/il.svg",
+        "city": "Petah Tikva",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 16,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 14
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "id": 10598658,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_10598658",
+      "source_url": "https://35awards.com/gallery/photo/10598658/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2119/10598658_1500n.jpg",
+        "full": "photos/full/20_efimovphoto_10598658.jpg",
+        "thumb": "photos/thumb/20_efimovphoto_10598658.jpg",
+        "width": 1159,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1759,
+        "likes": 1,
+        "favorites": 13
+      },
+      "author": {
+        "slug": "efimovphoto",
+        "name": "Ефимов Станислав",
+        "name_ru": "Станислав Ефимов",
+        "name_native": "Stanislav Efimov",
+        "profile_url": "https://35awards.com/author/efimovphoto/",
+        "external_profile": "https://35photo.pro/efimovphoto/",
+        "avatar": "avatars/efimovphoto.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Владивосток",
+        "followers": 49,
+        "following": 0,
+        "photos_count": 145,
+        "rank_in_nomination": 58,
+        "genres": [
+          "Fashion",
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 64
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 4
+          },
+          {
+            "name": "Sony DSLR-A350",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 21,
+      "id": 11118673,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11118673",
+      "source_url": "https://35awards.com/gallery/photo/11118673/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2223/11118673_1500n.jpg",
+        "full": "photos/full/21_amandaperon_11118673.jpg",
+        "thumb": "photos/thumb/21_amandaperon_11118673.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2107,
+        "likes": 0,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "amandaperon",
+        "name": "AMANDA OLIVEIRA PERON",
+        "name_ru": "Amanda Peron",
+        "name_native": "Amanda Oliveira Peron",
+        "profile_url": "https://35awards.com/author/amandaperon/",
+        "external_profile": "https://35photo.pro/amandaperon/",
+        "avatar": "",
+        "country": "Brazil",
+        "country_code": "BR",
+        "flag": "assets/flags/br.svg",
+        "city": "Campinas",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 2,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 22,
+      "id": 11438622,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11438622",
+      "source_url": "https://35awards.com/gallery/photo/11438622/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2287/11438622_1500n.jpg",
+        "full": "photos/full/22_evgeniykir_11438622.jpg",
+        "thumb": "photos/thumb/22_evgeniykir_11438622.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 3%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "1606",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "TOP 3%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        },
+        {
+          "label": "TOP 3%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Art Photography",
+          "contest_key": "theme:912",
+          "contest_id": "912",
+          "under_id": "1219",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/912/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "TOP 3%",
+          "tier": "top"
+        },
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "Art Photography",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "912",
+          "under_id": "1219",
+          "link": "https://35awards.com/page/contests/num/912/",
+          "badge": "TOP 3%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3345,
+        "likes": 1,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "evgeniykir",
+        "name": "Евгений Кириллов",
+        "name_ru": "Евгений Кириллов",
+        "name_native": "Evgenii Kirillov",
+        "profile_url": "https://35awards.com/author/evgeniykir/",
+        "external_profile": "https://35photo.pro/evgeniykir/",
+        "avatar": "avatars/evgeniykir.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 503,
+        "following": 0,
+        "photos_count": 518,
+        "rank_in_nomination": 3,
+        "genres": [
+          "Fashion",
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 419
+          },
+          {
+            "name": "Sony FE 135mm F1.8 GM (SEL135F18GM)",
+            "count": 35
+          },
+          {
+            "name": "Nikon D800",
+            "count": 31
+          },
+          {
+            "name": "Nikon D810",
+            "count": 12
+          },
+          {
+            "name": "Nikon Z6_2",
+            "count": 10
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 9
+          },
+          {
+            "name": "Sony ILCE-7C",
+            "count": 8
+          },
+          {
+            "name": "Nikon D700",
+            "count": 4
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 3
+          },
+          {
+            "name": "Sony SEL85F18 (FE 85mm f/1.8)",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 23,
+      "id": 11618082,
+      "title": "Beauty Beyond Boundaries ",
+      "description": "a compelling piece of visual art that communicates a powerful message about diversity, unity, and the redefinition of beauty. It encourages viewers to see beyond superficial differences and appreciate the inherent beauty in diversity",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11618082",
+      "source_url": "https://35awards.com/gallery/photo/11618082/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2323/11618082_1500n.jpg",
+        "full": "photos/full/23_jalalibrahimj87_11618082.jpg",
+        "thumb": "photos/thumb/23_jalalibrahimj87_11618082.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1841,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "jalalibrahimj87",
+        "name": "Jalal Ibrahim",
+        "name_ru": "Jalal Ibrahim",
+        "name_native": "Jalal Ibrahim",
+        "profile_url": "https://35awards.com/author/jalalibrahimj87/",
+        "external_profile": "https://35photo.pro/jalalibrahimj87/",
+        "avatar": "avatars/jalalibrahimj87.jpg",
+        "country": "United Arab Emirates",
+        "country_code": "AE",
+        "flag": "assets/flags/ae.svg",
+        "city": "Dubai",
+        "followers": 3,
+        "following": 3,
+        "photos_count": 163,
+        "rank_in_nomination": 9,
+        "genres": [
+          "Portrait",
+          "Male portrait",
+          "Fashion",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 95
+          },
+          {
+            "name": "Nikon D610",
+            "count": 48
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 6
+          },
+          {
+            "name": "Nikon AF-S Nikkor 70-200mm f/2.8E FL ED VR",
+            "count": 2
+          },
+          {
+            "name": "Nikon D5500",
+            "count": 2
+          },
+          {
+            "name": "GoPro HERO6 Black",
+            "count": 2
+          },
+          {
+            "name": "Nikon D5200",
+            "count": 2
+          },
+          {
+            "name": "Sony ILCE-6000",
+            "count": 1
+          },
+          {
+            "name": "Xiaomi M2101K6G",
+            "count": 1
+          },
+          {
+            "name": "Nikon D750",
+            "count": 1
+          },
+          {
+            "name": "Canon SM-N910C",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 24,
+      "id": 11559620,
+      "title": "",
+      "description": "She was covered in beautiful lace with a sparkle in her eyes... something on the border of beauty that can be discussed. Is this woman happy, or is it just the tinsel we see on social networks... a look into her soul, into her eyes is what we often don\\\\\\'t find interesting... maybe for another time.",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11559620",
+      "source_url": "https://35awards.com/gallery/photo/11559620/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2311/11559620_1500n.jpg",
+        "full": "photos/full/24_durisova_11559620.jpg",
+        "thumb": "photos/thumb/24_durisova_11559620.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1967,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "durisova",
+        "name": "Durisova Michaela",
+        "name_ru": "Durisova Michaela",
+        "name_native": "Durisova Michaela",
+        "profile_url": "https://35awards.com/author/durisova/",
+        "external_profile": "https://35photo.pro/durisova/",
+        "avatar": "avatars/durisova.jpg",
+        "country": "Slovakia",
+        "country_code": "SK",
+        "flag": "assets/flags/sk.svg",
+        "city": "Bratislava",
+        "followers": 41,
+        "following": 3,
+        "photos_count": 101,
+        "rank_in_nomination": 53,
+        "genres": [
+          "Staged photography",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 67
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 25,
+      "id": 11705043,
+      "title": "Ice and flame",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11705043",
+      "source_url": "https://35awards.com/gallery/photo/11705043/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2341/11705043_1500n.jpg",
+        "full": "photos/full/25_valentina795_11705043.jpg",
+        "thumb": "photos/thumb/25_valentina795_11705043.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1997,
+        "likes": 1,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "valentina795",
+        "name": "Суворова Валентина",
+        "name_ru": "Суворова Валентина",
+        "name_native": "Valentina Suvorova",
+        "profile_url": "https://35awards.com/author/valentina795/",
+        "external_profile": "https://35photo.pro/valentina795/",
+        "avatar": "avatars/valentina795.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Тольятти",
+        "followers": 261,
+        "following": 3,
+        "photos_count": 336,
+        "rank_in_nomination": 6,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 194
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 90
+          },
+          {
+            "name": "Nikon D850",
+            "count": 32
+          }
+        ]
+      }
+    },
+    {
+      "rank": 26,
+      "id": 11706875,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11706875",
+      "source_url": "https://35awards.com/gallery/photo/11706875/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2341/11706875_1500n.jpg",
+        "full": "photos/full/26_gridnevskaya_11706875.jpg",
+        "thumb": "photos/thumb/26_gridnevskaya_11706875.jpg",
+        "width": 1053,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Monochrome Fashion",
+        "contest_key": "theme:942",
+        "contest_id": "942",
+        "under_id": "1298",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/942/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Monochrome Fashion",
+          "contest_key": "theme:942",
+          "contest_id": "942",
+          "under_id": "1298",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/942/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Monochrome Fashion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "942",
+          "under_id": "1298",
+          "link": "https://35awards.com/page/contests/num/942/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2409,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "gridnevskaya",
+        "name": "Елена Гридневская",
+        "name_ru": "Елена Гридневская",
+        "name_native": "Elena Gridnevskaya",
+        "profile_url": "https://35awards.com/author/gridnevskaya/",
+        "external_profile": "https://35photo.pro/gridnevskaya/",
+        "avatar": "avatars/gridnevskaya.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 67,
+        "following": 0,
+        "photos_count": 238,
+        "rank_in_nomination": 69,
+        "genres": [
+          "Portrait",
+          "Male portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon Z7_2",
+            "count": 202
+          },
+          {
+            "name": "Nikon D850",
+            "count": 10
+          },
+          {
+            "name": "Nikon Nikkor Z 70-200mm f/2.8 VR S",
+            "count": 9
+          },
+          {
+            "name": "Nikon D700",
+            "count": 7
+          },
+          {
+            "name": "Nikon Z85/1.8S",
+            "count": 3
+          },
+          {
+            "name": "Apple iPhone 12 Pro Max",
+            "count": 2
+          },
+          {
+            "name": "Sigma 70-200mm F2.8 EX APO DG Macro HSM II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 27,
+      "id": 12040744,
+      "title": "Пастушка и джем ",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_12040744",
+      "source_url": "https://35awards.com/gallery/photo/12040744/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2408/12040744_1500n.jpg",
+        "full": "photos/full/27_katskiti_12040744.jpg",
+        "thumb": "photos/thumb/27_katskiti_12040744.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 455,
+        "likes": 1,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "katskiti",
+        "name": "Екатерина Рублевская",
+        "name_ru": "Екатерина Рублевская",
+        "name_native": "Katerina Rublevskaya",
+        "profile_url": "https://35awards.com/author/katskiti/",
+        "external_profile": "https://35photo.pro/katskiti/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 106,
+        "rank_in_nomination": 55,
+        "genres": [
+          "Fashion",
+          "Portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R",
+            "count": 106
+          },
+          {
+            "name": "Canon RF 50mm F1.2L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 28,
+      "id": 11049034,
+      "title": "marshmallow",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11049034",
+      "source_url": "https://35awards.com/gallery/photo/11049034/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2209/11049034_1500n.jpg",
+        "full": "photos/full/28_larchenkova_11049034.jpg",
+        "thumb": "photos/thumb/28_larchenkova_11049034.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1517,
+        "likes": 1,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "larchenkova",
+        "name": "Элина Ларченкова",
+        "name_ru": "Элина Ларченкова",
+        "name_native": "Elina Larchenkova",
+        "profile_url": "https://35awards.com/author/larchenkova/",
+        "external_profile": "https://35photo.pro/larchenkova/",
+        "avatar": "avatars/larchenkova.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 94,
+        "following": 1,
+        "photos_count": 510,
+        "rank_in_nomination": 19,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Fashion",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 292
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 103
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 81
+          },
+          {
+            "name": "Canon RF 50mm F1.8 STM",
+            "count": 14
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 12
+          },
+          {
+            "name": "Canon EOS 450D",
+            "count": 12
+          },
+          {
+            "name": "Canon RF 24-70 f 2.8 L IS USM",
+            "count": 5
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L USM II",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 50 mm f/1.8 II",
+            "count": 1
+          },
+          {
+            "name": "Canon RF 35mm F1.4 L VCM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 29,
+      "id": 11522888,
+      "title": "Duality of Hearts",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11522888",
+      "source_url": "https://35awards.com/gallery/photo/11522888/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2304/11522888_1500n.jpg",
+        "full": "photos/full/29_best4me_11522888.jpg",
+        "thumb": "photos/thumb/29_best4me_11522888.jpg",
+        "width": 1030,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1296,
+        "likes": 1,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "best4me",
+        "name": "Margarita Malkova",
+        "name_ru": "Margarita Malkova",
+        "name_native": "Margarita Malkova",
+        "profile_url": "https://35awards.com/author/best4me/",
+        "external_profile": "https://35photo.pro/best4me/",
+        "avatar": "avatars/best4me.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Saint Petersburg",
+        "followers": 4,
+        "following": 5,
+        "photos_count": 202,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Fashion",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Fujifilm X-T4",
+            "count": 134
+          },
+          {
+            "name": "Apple iPhone 13 Pro",
+            "count": 25
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 30,
+      "id": 11812974,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11812974",
+      "source_url": "https://35awards.com/gallery/photo/11812974/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2362/11812974_1500n.jpg",
+        "full": "photos/full/30_grishanat_11812974.jpg",
+        "thumb": "photos/thumb/30_grishanat_11812974.jpg",
+        "width": 1135,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1792,
+        "likes": 0,
+        "favorites": 18
+      },
+      "author": {
+        "slug": "grishanat",
+        "name": "Наталья Филиппова",
+        "name_ru": "Наталья Филиппова",
+        "name_native": "Natalya Filippova",
+        "profile_url": "https://35awards.com/author/grishanat/",
+        "external_profile": "https://35photo.pro/grishanat/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 84,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 73
+          },
+          {
+            "name": "Apple iPhone 13 Pro",
+            "count": 1
+          },
+          {
+            "name": "HUAWEI PCT-L29",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 31,
+      "id": 11809000,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11809000",
+      "source_url": "https://35awards.com/gallery/photo/11809000/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2361/11809000_1500n.jpg",
+        "full": "photos/full/31_valaym_11809000.jpg",
+        "thumb": "photos/thumb/31_valaym_11809000.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1758,
+        "likes": 0,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "valaym",
+        "name": "Валентина",
+        "name_ru": "Валентина Малышева",
+        "name_native": "Valentine Malisheva",
+        "profile_url": "https://35awards.com/author/valaym/",
+        "external_profile": "https://35photo.pro/valaym/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Иркутск",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 12,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D7100",
+            "count": 6
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 32,
+      "id": 11520788,
+      "title": "Luiza Maicá",
+      "description": "Photography @mahmoudaphotography\r\nHair & Makeup @agneshkah\r\nStyling @mahmoudsaad_\r\nModel: @luizamaica",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11520788",
+      "source_url": "https://35awards.com/gallery/photo/11520788/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2304/11520788_1500n.jpg",
+        "full": "photos/full/32_adv3dm26_11520788.jpg",
+        "thumb": "photos/thumb/32_adv3dm26_11520788.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1079,
+        "likes": 1,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "adv3dm26",
+        "name": "Mahmoudaphotography",
+        "name_ru": "Mahmoudaphotography",
+        "name_native": "mahmoud ahmed",
+        "profile_url": "https://35awards.com/author/adv3dm26/",
+        "external_profile": "https://35photo.pro/adv3dm26/",
+        "avatar": "avatars/adv3dm26.jpg",
+        "country": "Egypt",
+        "country_code": "EG",
+        "flag": "assets/flags/eg.svg",
+        "city": "Cairo",
+        "followers": 163,
+        "following": 17,
+        "photos_count": 355,
+        "rank_in_nomination": 45,
+        "genres": [
+          "Portrait",
+          "Fashion",
+          "Female portrait",
+          "Still life"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 148
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 145
+          },
+          {
+            "name": "Canon EOS 60D",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 50 mm f/1.8 stm",
+            "count": 7
+          },
+          {
+            "name": "Canon RF 85mm F2 MACRO IS STM",
+            "count": 5
+          },
+          {
+            "name": "Apple iPhone 11",
+            "count": 5
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 2
+          },
+          {
+            "name": "Canon RF 70-200mm F2.8L IS USM",
+            "count": 2
+          },
+          {
+            "name": "Canon 70-200mm f/2.8L IS III USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 33,
+      "id": 11957239,
+      "title": "Линии и цвета",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11957239",
+      "source_url": "https://35awards.com/gallery/photo/11957239/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2391/11957239_1500n.jpg",
+        "full": "photos/full/33_evgeniykir_11957239.jpg",
+        "thumb": "photos/thumb/33_evgeniykir_11957239.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 521,
+        "likes": 1,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "evgeniykir",
+        "name": "Евгений Кириллов",
+        "name_ru": "Евгений Кириллов",
+        "name_native": "Evgenii Kirillov",
+        "profile_url": "https://35awards.com/author/evgeniykir/",
+        "external_profile": "https://35photo.pro/evgeniykir/",
+        "avatar": "avatars/evgeniykir.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 503,
+        "following": 0,
+        "photos_count": 518,
+        "rank_in_nomination": 3,
+        "genres": [
+          "Fashion",
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 419
+          },
+          {
+            "name": "Sony FE 135mm F1.8 GM (SEL135F18GM)",
+            "count": 35
+          },
+          {
+            "name": "Nikon D800",
+            "count": 31
+          },
+          {
+            "name": "Nikon D810",
+            "count": 12
+          },
+          {
+            "name": "Nikon Z6_2",
+            "count": 10
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 9
+          },
+          {
+            "name": "Sony ILCE-7C",
+            "count": 8
+          },
+          {
+            "name": "Nikon D700",
+            "count": 4
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 3
+          },
+          {
+            "name": "Sony SEL85F18 (FE 85mm f/1.8)",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 34,
+      "id": 11791618,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_11791618",
+      "source_url": "https://35awards.com/gallery/photo/11791618/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2358/11791618_1500n.jpg",
+        "full": "photos/full/34_natali2083_11791618.jpg",
+        "thumb": "photos/thumb/34_natali2083_11791618.jpg",
+        "width": 1199,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1809,
+        "likes": 0,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "natali2083",
+        "name": "Natalia Prokhorova",
+        "name_ru": "Natalia Prokhorova",
+        "name_native": "Natalia Prokhorova",
+        "profile_url": "https://35awards.com/author/natali2083/",
+        "external_profile": "https://35photo.pro/natali2083/",
+        "avatar": "avatars/natali2083.jpg",
+        "country": "Switzerland",
+        "country_code": "CH",
+        "flag": "assets/flags/ch.svg",
+        "city": "Zurich",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 8,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 35,
+      "id": 12030258,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1024/#photo_12030258",
+      "source_url": "https://35awards.com/gallery/photo/12030258/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2406/12030258_1500n.jpg",
+        "full": "photos/full/35_aldzena_12030258.jpg",
+        "thumb": "photos/thumb/35_aldzena_12030258.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1024",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1024/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1024",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1024/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "fashion"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1127,
+        "likes": 0,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "aldzena",
+        "name": "Екатерина Вишневская",
+        "name_ru": "Екатерина Вишневская",
+        "name_native": "Ekateryna Vishnevskaya",
+        "profile_url": "https://35awards.com/author/aldzena/",
+        "external_profile": "https://35photo.pro/aldzena/",
+        "avatar": "avatars/aldzena.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 3,
+        "following": 3,
+        "photos_count": 203,
+        "rank_in_nomination": 71,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 67
+          },
+          {
+            "name": "Sony ILCE-7RM2",
+            "count": 11
+          }
+        ]
+      }
+    }
+  ]
+}

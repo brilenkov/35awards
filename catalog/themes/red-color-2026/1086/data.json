@@ -1,0 +1,1381 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:12:10+00:00",
+  "theme": {
+    "slug": "red-color-2026",
+    "title": "Red Color",
+    "name_ru": "Красный цвет 2026",
+    "contest_id": 1086,
+    "year": 2026,
+    "category": "color",
+    "description_ru": "Красный как доминанта: цвет, фактура, свет и эмоция.",
+    "source_url": "https://35awards.com/page/contests/num/1086/"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 11473826,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_11473826",
+      "source_url": "https://35awards.com/gallery/photo/11473826/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2294/11473826_1500n.jpg",
+        "full": "photos/full/01_ceclii_11473826.jpg",
+        "thumb": "photos/thumb/01_ceclii_11473826.jpg",
+        "width": 1500,
+        "height": 999
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 559,
+        "likes": 2,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "ceclii",
+        "name": "Цветан Ганев",
+        "name_ru": "Tsvetan Ganev",
+        "name_native": "Tsvetan Ganev",
+        "profile_url": "https://35awards.com/author/ceclii",
+        "external_profile": "https://35photo.pro/ceclii/",
+        "avatar": "avatars/ceclii.jpg",
+        "country": "Bulgaria",
+        "country_code": "",
+        "flag": "",
+        "city": "Byala",
+        "followers": 534,
+        "following": 65,
+        "photos_count": 212,
+        "rank_in_nomination": null,
+        "genres": [
+          "Macro"
+        ],
+        "gear": [
+          {
+            "name": "Nikon Z6_2",
+            "count": 104
+          },
+          {
+            "name": "Nikon D3400",
+            "count": 20
+          },
+          {
+            "name": "NIKON Z6_3",
+            "count": 10
+          },
+          {
+            "name": "Nikon D5600",
+            "count": 7
+          },
+          {
+            "name": "LG-H815",
+            "count": 4
+          },
+          {
+            "name": "Nikon D7200",
+            "count": 3
+          },
+          {
+            "name": "Nikon NIKKOR Z MC 105mm f/2.8 VR S",
+            "count": 2
+          },
+          {
+            "name": "Canon SM-N910C",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 14241236,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_14241236",
+      "source_url": "https://35awards.com/gallery/photo/14241236/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2848/14241236_1500n.jpg",
+        "full": "photos/full/02_artspbru_14241236.jpg",
+        "thumb": "photos/thumb/02_artspbru_14241236.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 590,
+        "likes": 5,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "artspbru",
+        "name": "Pl Ruslan",
+        "name_ru": "Ruslan Pl",
+        "name_native": "Ruslan Pl",
+        "profile_url": "https://35awards.com/author/artspbru",
+        "external_profile": "https://35photo.pro/artspbru/",
+        "avatar": "avatars/artspbru.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 167,
+        "following": 26,
+        "photos_count": 92,
+        "rank_in_nomination": null,
+        "genres": [
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5m2",
+            "count": 38
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 35
+          },
+          {
+            "name": "Canon RF 100-400mm F5.6-8 IS USM + RF2x",
+            "count": 21
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 4
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 11514878,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_11514878",
+      "source_url": "https://35awards.com/gallery/photo/11514878/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2302/11514878_1500n.jpg",
+        "full": "photos/full/03_mihaylova101_11514878.jpg",
+        "thumb": "photos/thumb/03_mihaylova101_11514878.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Ballet",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "882",
+          "under_id": "1130",
+          "link": "https://35awards.com/page/contests/num/882/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1111,
+        "likes": 5,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "mihaylova101",
+        "name": "Елена Михайлова",
+        "name_ru": "Михайлова Елена",
+        "name_native": "Elena Mikhailova",
+        "profile_url": "https://35awards.com/author/mihaylova101",
+        "external_profile": "https://35photo.pro/mihaylova101/",
+        "avatar": "avatars/mihaylova101.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 1559,
+        "following": 70,
+        "photos_count": 203,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 35
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 26
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 12852872,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_12852872",
+      "source_url": "https://35awards.com/gallery/photo/12852872/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2570/12852872_1500n.jpg",
+        "full": "photos/full/04_andreykrapiva_12852872.jpg",
+        "thumb": "photos/thumb/04_andreykrapiva_12852872.jpg",
+        "width": 1223,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Underwater photography",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1212",
+          "link": "https://35awards.com/winners11th/nomination/1212/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1603,
+        "likes": 2,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "andreykrapiva",
+        "name": "Андрей Крапивной",
+        "name_ru": "Андрей Крапивной",
+        "name_native": "Andrey Krapivnoy",
+        "profile_url": "https://35awards.com/author/andreykrapiva",
+        "external_profile": "https://35photo.pro/andreykrapiva/",
+        "avatar": "avatars/andreykrapiva.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 2,
+        "following": 1,
+        "photos_count": 34,
+        "rank_in_nomination": null,
+        "genres": [
+          "Underwater photo"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 20
+          },
+          {
+            "name": "Nikon D610",
+            "count": 8
+          },
+          {
+            "name": "Nikon AF-S 14-24mm f/2,8G ED",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S Micro Nikkor 60mm f/2.8G ED",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 16 Pro Max",
+            "count": 1
+          },
+          {
+            "name": "Nikon 16MM F/2.8 FISHEYE",
+            "count": 1
+          },
+          {
+            "name": "Sony ILCE-6600",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 13659745,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_13659745",
+      "source_url": "https://35awards.com/gallery/photo/13659745/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2731/13659745_1500n.jpg",
+        "full": "photos/full/05_tormento_13659745.jpg",
+        "thumb": "photos/thumb/05_tormento_13659745.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Orange Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1056",
+          "under_id": "1567",
+          "link": "https://35awards.com/page/contests/num/1056/",
+          "badge": "TOP 6%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 398,
+        "likes": 4,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "tormento",
+        "name": "Игорь Крюков",
+        "name_ru": "Игорь Крюков",
+        "name_native": "Igor Kryukov",
+        "profile_url": "https://35awards.com/author/tormento",
+        "external_profile": "https://35photo.pro/tormento/",
+        "avatar": "avatars/tormento.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Керчь",
+        "followers": 23,
+        "following": 2,
+        "photos_count": 76,
+        "rank_in_nomination": null,
+        "genres": [
+          "Conceptual Photo",
+          "Still life"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7CR",
+            "count": 32
+          },
+          {
+            "name": "Sony ILCE-7M2",
+            "count": 16
+          },
+          {
+            "name": "Pentax K-3",
+            "count": 8
+          },
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 6
+          },
+          {
+            "name": "Sony ILCE-7RM2",
+            "count": 2
+          },
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 1
+          },
+          {
+            "name": "Sony ILCE-7RM3A",
+            "count": 1
+          },
+          {
+            "name": "Pentax K-r",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 11832794,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_11832794",
+      "source_url": "https://35awards.com/gallery/photo/11832794/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2366/11832794_1500n.jpg",
+        "full": "photos/full/06_keerl_11832794.jpg",
+        "thumb": "photos/thumb/06_keerl_11832794.jpg",
+        "width": 1500,
+        "height": 1001
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Red + Blue",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "928",
+          "under_id": "1260",
+          "link": "https://35awards.com/page/contests/num/928/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1009",
+          "link": "https://35awards.com/winners10th/nomination/1009/",
+          "badge": "II stage",
+          "tier": "stage"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1024",
+          "link": "https://35awards.com/winners10th/nomination/1024/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Conceptual photo",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1010",
+          "link": "https://35awards.com/winners10th/nomination/1010/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 4310,
+        "likes": 2,
+        "favorites": 25
+      },
+      "author": {
+        "slug": "keerl",
+        "name": "Лилуш Кир",
+        "name_ru": "Лилуш Кир",
+        "name_native": "Leeloush Keer",
+        "profile_url": "https://35awards.com/author/keerl",
+        "external_profile": "https://35photo.pro/keerl/",
+        "avatar": "avatars/keerl.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Тула",
+        "followers": 284,
+        "following": 8,
+        "photos_count": 46,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": []
+      }
+    },
+    {
+      "rank": 7,
+      "id": 12581165,
+      "title": "Serpula vermicularis",
+      "description": "Serpula vermicularis,  the jaw-dropping marine worm! Fairly common throughout the Mediterranean, it should be searched for in darker crevices. In this photo, the largest part, colored light red, is visible in the foreground, consisting of a gill tuft with which it breathes and feeds. You can also see the small, conical \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"trumpet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" with a light yellow/almost white stem, ending in a darker umbrella dotted with orange. This is the operculum, which, once retracted, protects it from attackers_Taken during diving at \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"La Formica\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" dive site, near Casteldaccia, Sicily_2025",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_12581165",
+      "source_url": "https://35awards.com/gallery/photo/12581165/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2516/12581165_1500n.jpg",
+        "full": "photos/full/07_venturelli_12581165.jpg",
+        "thumb": "photos/thumb/07_venturelli_12581165.jpg",
+        "width": 1500,
+        "height": 1200
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Underwater photography",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1212",
+          "link": "https://35awards.com/winners11th/nomination/1212/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2101,
+        "likes": 5,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "venturelli",
+        "name": "ANTONIO VENTURELLI",
+        "name_ru": "ANTONIO VENTURELLI",
+        "name_native": "VENTURELLI",
+        "profile_url": "https://35awards.com/author/venturelli",
+        "external_profile": "https://35photo.pro/venturelli/",
+        "avatar": "avatars/venturelli.jpg",
+        "country": "Italy",
+        "country_code": "",
+        "flag": "",
+        "city": "PALERMO",
+        "followers": 1,
+        "following": 1,
+        "photos_count": 58,
+        "rank_in_nomination": null,
+        "genres": [
+          "Underwater photo"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 44
+          },
+          {
+            "name": "Canon EOS 7D",
+            "count": 14
+          },
+          {
+            "name": "Canon RF 100mm F2.8L Macro IS USM",
+            "count": 11
+          },
+          {
+            "name": "Canon EF 100 mm f/2.8L Macro IS USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 11154846,
+      "title": "",
+      "description": "Red dragon fly portrait",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_11154846",
+      "source_url": "https://35awards.com/gallery/photo/11154846/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2230/11154846_1500n.jpg",
+        "full": "photos/full/08_ngocphotograph_11154846.jpg",
+        "thumb": "photos/thumb/08_ngocphotograph_11154846.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Macro",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1011",
+          "link": "https://35awards.com/winners10th/nomination/1011/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3245,
+        "likes": 2,
+        "favorites": 13
+      },
+      "author": {
+        "slug": "ngocphotograph",
+        "name": "Tran The Ngoc",
+        "name_ru": "Tran The Ngoc",
+        "name_native": "TRAN THE NGOC",
+        "profile_url": "https://35awards.com/author/ngocphotograph",
+        "external_profile": "https://35photo.pro/ngocphotograph/",
+        "avatar": "avatars/ngocphotograph.jpg",
+        "country": "Viet Nam",
+        "country_code": "",
+        "flag": "",
+        "city": "Mong Cai",
+        "followers": 137,
+        "following": 54,
+        "photos_count": 172,
+        "rank_in_nomination": null,
+        "genres": [
+          "Macro"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 38
+          },
+          {
+            "name": "Sony ILCE-7RM3A",
+            "count": 11
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 10
+          },
+          {
+            "name": "OM System OM-1MarkII",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS R5m2",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 11966071,
+      "title": "Узоры на воде",
+      "description": "Капля воды",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_11966071",
+      "source_url": "https://35awards.com/gallery/photo/11966071/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2393/11966071_1500n.jpg",
+        "full": "photos/full/09_tolmachevsergey_11966071.jpg",
+        "thumb": "photos/thumb/09_tolmachevsergey_11966071.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Macro",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1011",
+          "link": "https://35awards.com/winners10th/nomination/1011/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1492,
+        "likes": 8,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "tolmachevsergey",
+        "name": "Сергей Толмачев",
+        "name_ru": "Толмачев Сергей",
+        "name_native": "Sergey Tolmachev",
+        "profile_url": "https://35awards.com/author/tolmachevsergey",
+        "external_profile": "https://35photo.pro/tolmachevsergey/",
+        "avatar": "avatars/tolmachevsergey.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 448,
+        "following": 37,
+        "photos_count": 61,
+        "rank_in_nomination": null,
+        "genres": [
+          "Macro"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D800",
+            "count": 40
+          },
+          {
+            "name": "Nikon D850",
+            "count": 10
+          },
+          {
+            "name": "Samsung Galaxy S25 Ultra",
+            "count": 2
+          },
+          {
+            "name": "Samsung Galaxy S23+",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 14196362,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1086/#photo_14196362",
+      "source_url": "https://35awards.com/gallery/photo/14196362/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2839/14196362_1500n.jpg",
+        "full": "photos/full/10_karinemmenegger_14196362.jpg",
+        "thumb": "photos/thumb/10_karinemmenegger_14196362.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Red Color",
+        "contest_key": "theme:1086",
+        "contest_id": "1086",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1086/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Red Color",
+          "contest_key": "theme:1086",
+          "contest_id": "1086",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1086/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "red-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Red Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1086",
+          "under_id": "1639",
+          "link": "https://35awards.com/page/contests/num/1086/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 623,
+        "likes": 3,
+        "favorites": 1
+      },
+      "author": {
+        "slug": "karinemmenegger",
+        "name": "karin bruhin",
+        "name_ru": "karin bruhin",
+        "name_native": "Karin Bruhin",
+        "profile_url": "https://35awards.com/author/karinemmenegger",
+        "external_profile": "https://35photo.pro/karinemmenegger/",
+        "avatar": "avatars/karinemmenegger.jpg",
+        "country": "Switzerland",
+        "country_code": "",
+        "flag": "",
+        "city": "buttikon",
+        "followers": 13,
+        "following": 0,
+        "photos_count": 57,
+        "rank_in_nomination": null,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 54
+          },
+          {
+            "name": "Sigma 105mm F1.4 DG HSM | A",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z 35/1.8S",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z7",
+            "count": 3
+          },
+          {
+            "name": "Nikon Nikkor Z 70-200mm f/2.8 VR S",
+            "count": 2
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 1
+          },
+          {
+            "name": "Sigma 50mm F1.4 DG HSM | A",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

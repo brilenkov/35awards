@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block title %}{{ nomination.name_ru or nomination.name }} — 35AWARDS Archive{% endblock %}
+{% block description %}{{ nomination.description_ru }}{% endblock %}
+
+{% block content %}
+<main>
+  <div class="container breadcrumbs">
+    <a href="{{ root_prefix }}index.html">Главная</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ nomination.name_ru or nomination.name }}</span>
+  </div>
+
+  <section class="nomination-hero container">
+    <div class="nomination-hero__copy">
+      <div class="hero__kicker">Номинация · 35AWARDS</div>
+      <h1>{{ nomination.name_ru or nomination.name }}</h1>
+      <div class="nomination-hero__original">{{ nomination.name }}</div>
+      <p>{{ nomination.description_ru }}</p>
+      <div class="chip-row">
+        <span class="chip">{{ nomination.year_range }}</span>
+        <span class="chip">{{ nomination.photo_count }} {{ nomination.photo_count|plural('работа', 'работы', 'работ') }} в архиве</span>
+        {% if nomination.works_count %}<span class="chip">{{ nomination.works_count }} работ в номинации</span>{% endif %}
+      </div>
+      <div class="hero-actions">
+        <a class="button" href="{{ nomination.catalog_url }}">Открыть в общем каталоге →</a>
+      </div>
+    </div>
+    {% if nomination.cover %}
+    <figure class="nomination-hero__media">
+      <img src="{{ nomination.cover_edition }}/{{ nomination.cover.image.thumb }}"
+           alt="{{ nomination.cover.author.name }} — {{ nomination.name }}"
+           width="800" height="1000">
+      <figcaption>
+        <span class="rank-mark">{{ '%02d'|format(nomination.cover.rank) }}</span>
+        <span>{{ nomination.cover.author.name }}</span>
+        {{ ui.award_chip(nomination.cover, compact=true) }}
+      </figcaption>
+    </figure>
+    {% endif %}
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">01</span>
+        <h2>Все работы номинации</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">фильтр по годам</span>
+      </div>
+
+      <div class="toolbar">
+        <div class="filter" role="group" aria-label="Фильтр по годам">
+          <button class="filter__btn is-active" type="button" data-filter-group="year" data-filter-value="all">Все годы <span>{{ photos|length }}</span></button>
+          {% for year in years %}
+          <button class="filter__btn" type="button" data-filter-group="year" data-filter-value="{{ year.value }}">{{ year.label }} <span>{{ year.count }}</span></button>
+          {% endfor %}
+        </div>
+        <div class="toolbar__hint">Нажмите на фотографию — откроется карточка автора, метрики и разбор</div>
+      </div>
+
+      <div class="photo-grid" id="photoGrid">
+        {% for photo in photos %}
+        {{ ui.photo_card(photo) }}
+        {% endfor %}
+      </div>
+      <div class="load-more-wrap"><button class="button button--ghost" id="loadMore" type="button" hidden>Показать ещё</button></div>
+      <div class="empty-state" id="emptyState" hidden>В этом году пока нет работ в архиве.</div>
+      <div class="filter-result filter-result--edition">
+        <span id="filterCount">{{ photos|length }} {{ photos|length|plural('работа', 'работы', 'работ') }}</span>
+      </div>
+    </div>
+  </section>
+
+  {% if authors %}
+  <section class="section section--muted">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">02</span>
+        <h2>Лучшие фотографы</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">рейтинг Great photographers</span>
+      </div>
+      <div class="author-grid">
+        {% for item in authors %}
+        <a class="author-card" href="{{ item.author.profile_url }}" target="_blank" rel="noopener">
+          {% if item.author.avatar %}
+          <img class="author-card__avatar" src="{{ item.edition_slug }}/{{ item.author.avatar }}" alt="{{ item.author.name }}" loading="lazy">
+          {% else %}
+          <span class="author-card__avatar avatar-fallback">{{ item.author.name[:1]|upper }}</span>
+          {% endif %}
+          <div class="author-card__body">
+            {% if item.author.rank_in_nomination %}
+            <div class="author-card__rank">#{{ item.author.rank_in_nomination }} в номинации</div>
+            {% endif %}
+            <div class="author-card__name">{{ item.author.name }}</div>
+            <div class="author-card__meta">{{ ui.flag(item.author) }}{{ item.author.city or item.author.country }}</div>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+</main>
+
+{% include "_lightbox.html" %}
+
+<script>
+  window.CATALOG_ROOT = "{{ root_prefix }}";
+  window.CATALOG_DATA = {{ page_data|tojson }};
+</script>
+{% endblock %}

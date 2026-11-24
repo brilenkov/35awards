@@ -1,0 +1,1409 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:12:08+00:00",
+  "theme": {
+    "slug": "blue-color-2026",
+    "title": "Blue Color",
+    "name_ru": "Синий цвет 2026",
+    "contest_id": 1074,
+    "year": 2026,
+    "category": "color",
+    "description_ru": "Синий как главный герой кадра: вода, свет, атмосфера и цветовые акценты.",
+    "source_url": "https://35awards.com/page/contests/num/1074/"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 3651701,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_3651701",
+      "source_url": "https://35awards.com/gallery/photo/3651701/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/730/3651701_1500n.jpg",
+        "full": "photos/full/01_andreysavin_3651701.jpg",
+        "thumb": "photos/thumb/01_andreysavin_3651701.jpg",
+        "width": 1080,
+        "height": 675
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 339,
+        "likes": 4,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "andreysavin",
+        "name": "Андрей Савин",
+        "name_ru": "Савин Андрей",
+        "name_native": "Andrei Savin",
+        "profile_url": "https://35awards.com/author/andreysavin",
+        "external_profile": "https://35photo.pro/andreysavin/",
+        "avatar": "avatars/andreysavin.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 194,
+        "following": 4,
+        "photos_count": 387,
+        "rank_in_nomination": null,
+        "genres": [
+          "Underwater photo",
+          "Macro"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM5",
+            "count": 72
+          },
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 40
+          },
+          {
+            "name": "Panasonic DC-GH5",
+            "count": 7
+          },
+          {
+            "name": "Olympus E-M5 Mark II",
+            "count": 4
+          },
+          {
+            "name": "Olympus E-M1MarkII",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 8719612,
+      "title": "Фантазия в синем",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_8719612",
+      "source_url": "https://35awards.com/gallery/photo/8719612/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1743/8719612_1500n.jpg",
+        "full": "photos/full/02_fotoiren_8719612.jpg",
+        "thumb": "photos/thumb/02_fotoiren_8719612.jpg",
+        "width": 1500,
+        "height": 1007
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "867",
+          "under_id": "1100",
+          "link": "https://35awards.com/page/contests/num/867/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "8th 35AWARDS",
+          "under_title": "Still life",
+          "type": "nomination",
+          "contest_id": "663",
+          "under_id": "771",
+          "link": "https://35awards.com/winners8th/nomination/771/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2855,
+        "likes": 12,
+        "favorites": 30
+      },
+      "author": {
+        "slug": "fotoiren",
+        "name": "Шипунова Ирина",
+        "name_ru": "Шипунова Ирина",
+        "name_native": "Shipunova Irina",
+        "profile_url": "https://35awards.com/author/fotoiren",
+        "external_profile": "https://35photo.pro/fotoiren/",
+        "avatar": "avatars/fotoiren.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Нальчик",
+        "followers": 1736,
+        "following": 773,
+        "photos_count": 417,
+        "rank_in_nomination": null,
+        "genres": [
+          "Still life",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D5500",
+            "count": 374
+          },
+          {
+            "name": "Nikon AF-S DX Nikkor 18-55mm f/3.5-5.6G VR II",
+            "count": 39
+          },
+          {
+            "name": "HUAWEI YAL-L41",
+            "count": 30
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 85 мм f/1,8G",
+            "count": 6
+          },
+          {
+            "name": "Nikon D7000",
+            "count": 4
+          },
+          {
+            "name": "HUAWEI Pura 80 Pro",
+            "count": 4
+          },
+          {
+            "name": "Nikon 35mm f/1.8G AF-S DX Nikkor",
+            "count": 3
+          },
+          {
+            "name": "Sony DSC-HX200V",
+            "count": 3
+          },
+          {
+            "name": "Tamron AF 18-270mm f/3.5-6.3 Di II VC PZD (B008)",
+            "count": 1
+          },
+          {
+            "name": "Samsung GT-I9300",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 14245592,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_14245592",
+      "source_url": "https://35awards.com/gallery/photo/14245592/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2849/14245592_1500n.jpg",
+        "full": "photos/full/03_finnishman108_14245592.jpg",
+        "thumb": "photos/thumb/03_finnishman108_14245592.jpg",
+        "width": 1500,
+        "height": 1125
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 296,
+        "likes": 6,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "finnishman108",
+        "name": "Govinda Thompson",
+        "name_ru": "Govinda Thompson",
+        "name_native": "Govinda Thompson",
+        "profile_url": "https://35awards.com/author/finnishman108",
+        "external_profile": "https://35photo.pro/finnishman108/",
+        "avatar": "avatars/finnishman108.jpg",
+        "country": "Hungary",
+        "country_code": "",
+        "flag": "",
+        "city": "Somogyvamos",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 11,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 7
+          },
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 8309107,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_8309107",
+      "source_url": "https://35awards.com/gallery/photo/8309107/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1661/8309107_1500n.jpg",
+        "full": "photos/full/04_alcaline_8309107.jpg",
+        "thumb": "photos/thumb/04_alcaline_8309107.jpg",
+        "width": 1043,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Art photography 2022",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "703",
+          "under_id": "827",
+          "link": "https://35awards.com/page/contests/num/703/",
+          "badge": "TOP 3%",
+          "tier": "top"
+        },
+        {
+          "name": "8th 35AWARDS",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "663",
+          "under_id": "772",
+          "link": "https://35awards.com/winners8th/nomination/772/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2350,
+        "likes": 6,
+        "favorites": 31
+      },
+      "author": {
+        "slug": "alcaline",
+        "name": "Galina Gordeeva",
+        "name_ru": "Galina Gordeeva",
+        "name_native": "Galina Gordeeva",
+        "profile_url": "https://35awards.com/author/alcaline",
+        "external_profile": "https://35photo.pro/alcaline/",
+        "avatar": "avatars/alcaline.jpg",
+        "country": "Czech Republic",
+        "country_code": "",
+        "flag": "",
+        "city": "Prague",
+        "followers": 9,
+        "following": 0,
+        "photos_count": 81,
+        "rank_in_nomination": null,
+        "genres": [
+          "Conceptual Photo"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 76
+          },
+          {
+            "name": "Canon EF 24-105 mm F/4.0 L IS USM",
+            "count": 10
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 1
+          },
+          {
+            "name": "Panasonic DMC-GX8",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 14238211,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_14238211",
+      "source_url": "https://35awards.com/gallery/photo/14238211/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2847/14238211_1500n.jpg",
+        "full": "photos/full/05_sinitsinada_14238211.jpg",
+        "thumb": "photos/thumb/05_sinitsinada_14238211.jpg",
+        "width": 1262,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 694,
+        "likes": 4,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "sinitsinada",
+        "name": "Sinitsina Daria",
+        "name_ru": "Sinitsina Daria",
+        "name_native": "Daria Sinitsina",
+        "profile_url": "https://35awards.com/author/sinitsinada",
+        "external_profile": "https://35photo.pro/sinitsinada/",
+        "avatar": "avatars/sinitsinada.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 16,
+        "following": 0,
+        "photos_count": 99,
+        "rank_in_nomination": null,
+        "genres": [
+          "Underwater photo"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-6700",
+            "count": 43
+          },
+          {
+            "name": "Sony ILCE-6400",
+            "count": 39
+          },
+          {
+            "name": "Apple iPhone 6s",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 13 Pro",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 14234365,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_14234365",
+      "source_url": "https://35awards.com/gallery/photo/14234365/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2846/14234365_1500n.jpg",
+        "full": "photos/full/06_isfoto_14234365.jpg",
+        "thumb": "photos/thumb/06_isfoto_14234365.jpg",
+        "width": 1500,
+        "height": 1376
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 442,
+        "likes": 6,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "isfoto",
+        "name": "Шерман Игорь",
+        "name_ru": "Шерман Игорь",
+        "name_native": "Igor Sherman",
+        "profile_url": "https://35awards.com/author/isfoto",
+        "external_profile": "https://35photo.pro/isfoto/",
+        "avatar": "avatars/isfoto.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 58,
+        "rank_in_nomination": null,
+        "genres": [
+          "Landscape",
+          "Black and white"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 31
+          },
+          {
+            "name": "Canon EF 17-40 mm F/4.0 L USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS-1Ds Mark III",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8 L USM",
+            "count": 2
+          },
+          {
+            "name": "HUAWEI JSN-L22",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS-1D Mark II N",
+            "count": 1
+          },
+          {
+            "name": "realme 9 Pro+",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 14164112,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_14164112",
+      "source_url": "https://35awards.com/gallery/photo/14164112/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2832/14164112_1500n.jpg",
+        "full": "photos/full/07_torchuck_14164112.jpg",
+        "thumb": "photos/thumb/07_torchuck_14164112.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 641,
+        "likes": 3,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "torchuck",
+        "name": "Андрей Нарчук",
+        "name_ru": "Андрей Нарчук",
+        "name_native": "Andrey Narchuk",
+        "profile_url": "https://35awards.com/author/torchuck",
+        "external_profile": "https://35photo.pro/torchuck/",
+        "avatar": "avatars/torchuck.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 217,
+        "following": 19,
+        "photos_count": 160,
+        "rank_in_nomination": null,
+        "genres": [
+          "Underwater photo",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 69
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 30
+          },
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 19
+          },
+          {
+            "name": "Canon EF 100 mm F/2.8 MACRO USM",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 15 mm F/2.8 FISHEYE",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS 5D",
+            "count": 7
+          },
+          {
+            "name": "Canon EF 8-15mm f/4L Fisheye USM",
+            "count": 3
+          },
+          {
+            "name": "Sony ILCE-7R",
+            "count": 2
+          },
+          {
+            "name": "Olympus E-M1",
+            "count": 2
+          },
+          {
+            "name": "OLYMPUS M.12-40mm F2.8",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8 L USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L USM II",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 14234567,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_14234567",
+      "source_url": "https://35awards.com/gallery/photo/14234567/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2846/14234567_1500n.jpg",
+        "full": "photos/full/08_kazharski23_14234567.jpg",
+        "thumb": "photos/thumb/08_kazharski23_14234567.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 273,
+        "likes": 1,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "kazharski23",
+        "name": "Александр Кожарский",
+        "name_ru": "Александр Кожарский",
+        "name_native": "Aleksandr Kazharski",
+        "profile_url": "https://35awards.com/author/kazharski23",
+        "external_profile": "https://35photo.pro/kazharski23/",
+        "avatar": "avatars/kazharski23.jpg",
+        "country": "Belarus",
+        "country_code": "",
+        "flag": "",
+        "city": "Минск",
+        "followers": 4,
+        "following": 0,
+        "photos_count": 55,
+        "rank_in_nomination": null,
+        "genres": [
+          "Fashion"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 48
+          },
+          {
+            "name": "Tamron SP 24-70mm f/2.8 Di VC USD G2 (A032)",
+            "count": 11
+          },
+          {
+            "name": "Fujifilm X100F",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 9537079,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_9537079",
+      "source_url": "https://35awards.com/gallery/photo/9537079/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1907/9537079_1500n.jpg",
+        "full": "photos/full/09_detrit099_9537079.jpg",
+        "thumb": "photos/thumb/09_detrit099_9537079.jpg",
+        "width": 1396,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "9th 35AWARDS",
+          "under_title": "Aerial photography",
+          "type": "nomination",
+          "contest_id": "717",
+          "under_id": "844",
+          "link": "https://35awards.com/winners9th/nomination/844/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1677,
+        "likes": 4,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "detrit099",
+        "name": "Anton Gavrilov",
+        "name_ru": "Anton Gavrilov",
+        "name_native": "Anton Gavrilov",
+        "profile_url": "https://35awards.com/author/detrit099",
+        "external_profile": "https://35photo.pro/detrit099/",
+        "avatar": "avatars/detrit099.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 54,
+        "following": 12,
+        "photos_count": 238,
+        "rank_in_nomination": null,
+        "genres": [
+          "Aerial photography",
+          "Architecture",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R8",
+            "count": 66
+          },
+          {
+            "name": "DJI Mavic Air 2 (FC3170)",
+            "count": 52
+          },
+          {
+            "name": "Canon EOS M50",
+            "count": 17
+          },
+          {
+            "name": "Canon RF 100-400mm F5.6-8 IS USM",
+            "count": 7
+          },
+          {
+            "name": "DJI Mavic Pro / Mavic Pro Platinum (FC220)",
+            "count": 6
+          },
+          {
+            "name": "DJI FC3411",
+            "count": 6
+          },
+          {
+            "name": "Samsung SM-A705FN",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 24-105 mm F/4.0 L IS USM",
+            "count": 1
+          },
+          {
+            "name": "Canon RF 24-105mm F4-7.1 IS STM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 14170113,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1074/#photo_14170113",
+      "source_url": "https://35awards.com/gallery/photo/14170113/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2834/14170113_1500n.jpg",
+        "full": "photos/full/10_sharmingkohda_14170113.jpg",
+        "thumb": "photos/thumb/10_sharmingkohda_14170113.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "blue-color-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 941,
+        "likes": 3,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "sharmingkohda",
+        "name": "Kohda Sharming",
+        "name_ru": "Kohda Sharming",
+        "name_native": "Sharming Kohda",
+        "profile_url": "https://35awards.com/author/sharmingkohda",
+        "external_profile": "https://35photo.pro/sharmingkohda/",
+        "avatar": "avatars/sharmingkohda.jpg",
+        "country": "Japan",
+        "country_code": "",
+        "flag": "",
+        "city": "KANAGAWA",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 61,
+        "rank_in_nomination": null,
+        "genres": [
+          "Macro",
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-1",
+            "count": 50
+          },
+          {
+            "name": "Sony ILCE-9",
+            "count": 3
+          },
+          {
+            "name": "Olympus E-M1",
+            "count": 2
+          },
+          {
+            "name": "Olympus mZuiko Digital 45mm f/1.8",
+            "count": 2
+          },
+          {
+            "name": "Olympus E-M5 Mark II",
+            "count": 2
+          },
+          {
+            "name": "Sony NEX-5R",
+            "count": 1
+          },
+          {
+            "name": "OLYMPUS M.12-45mm F4.0",
+            "count": 1
+          },
+          {
+            "name": "Xiaomi Redmi Note 13 Pro 5G",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

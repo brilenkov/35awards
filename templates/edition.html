@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block title %}{{ nomination.name_ru or nomination.name }} — {{ edition.title }} — 35AWARDS Archive{% endblock %}
+{% block description %}Топ-{{ photos|length }} работ номинации «{{ nomination.name_ru or nomination.name }}» конкурса {{ edition.title }} ({{ edition.year }}). Авторы, метрики, награды и профессиональный разбор.{% endblock %}
+
+{% block content %}
+<main>
+  <div class="container breadcrumbs">
+    <a href="{{ root_prefix }}index.html">Главная</a>
+    <span aria-hidden="true">/</span>
+    <a href="../index.html">{{ nomination.name_ru or nomination.name }}</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ edition.title }}</span>
+  </div>
+
+  <section class="edition-hero container">
+    <div>
+      <div class="hero__kicker">{{ edition.title }} · {{ edition.year }}</div>
+      <h1>{{ nomination.name_ru or nomination.name }}</h1>
+      <div class="edition-hero__original">{{ nomination.name }} <span>·</span> {{ edition.title }} <span>·</span> топ-{{ photos|length }}</div>
+    </div>
+    <div class="edition-hero__stats">
+      {% if nomination.works_count %}
+      <div class="stat"><b>{{ nomination.works_count }}</b><span>работ в номинации</span></div>
+      {% endif %}
+      {% if nomination.authors_count %}
+      <div class="stat"><b>{{ nomination.authors_count }}</b><span>фотографов</span></div>
+      {% endif %}
+      <div class="stat"><b>{{ photos|length }}</b><span>в подборке</span></div>
+    </div>
+  </section>
+
+  <section class="container edition-body">
+    <div class="toolbar">
+      <div class="filter" role="group" aria-label="Фильтр работ">
+        <button class="filter__btn is-active" type="button" data-filter-group="award" data-filter-value="all">Все работы <span>{{ photos|length }}</span></button>
+        <button class="filter__btn" type="button" data-filter-group="award" data-filter-value="win">WIN <span>{{ win_count }}</span></button>
+        {% if best_count %}<button class="filter__btn" type="button" data-filter-group="award" data-filter-value="best">BEST <span>{{ best_count }}</span></button>{% endif %}
+        {% if top_count %}<button class="filter__btn" type="button" data-filter-group="award" data-filter-value="top">TOP % <span>{{ top_count }}</span></button>{% endif %}
+      </div>
+      <div class="toolbar__hint">Нажмите на фотографию — откроется карточка автора, метрики и разбор света, оптики и цвета</div>
+    </div>
+
+    <div class="photo-grid" id="photoGrid">
+      {% for photo in photos %}
+      {{ ui.photo_card(photo) }}
+      {% endfor %}
+    </div>
+    <div class="load-more-wrap"><button class="button button--ghost" id="loadMore" type="button" hidden>Показать ещё</button></div>
+
+    <div class="empty-state" id="emptyState" hidden>В этой подборке пока нет работ с выбранной наградой.</div>
+    <div class="filter-result filter-result--edition">
+      <span id="filterCount">{{ photos|length }} {{ photos|length|plural('работа', 'работы', 'работ') }}</span>
+    </div>
+  </section>
+
+  <section class="section section--muted">
+    <div class="container edition-source">
+      <div>
+        <div class="kicker">Источник</div>
+        <p>Официальные результаты номинации «{{ nomination.name }}» конкурса {{ edition.title }} на сайте 35AWARDS.</p>
+      </div>
+      <div class="source-links">
+        <a class="button" href="{{ nomination.source_url }}" target="_blank" rel="noopener">Страница результатов ↗</a>
+        <a class="button button--ghost" href="{{ edition.photographers_url }}" target="_blank" rel="noopener">Рейтинг фотографов ↗</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+{% include "_lightbox.html" %}
+
+<script>
+  window.CATALOG_ROOT = "{{ root_prefix }}";
+  window.CATALOG_DATA = {{ page_data|tojson }};
+</script>
+{% endblock %}

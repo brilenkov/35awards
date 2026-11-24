@@ -1,0 +1,5098 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T08:13:47+00:00",
+  "nomination": {
+    "slug": "motion",
+    "name": "Motion",
+    "name_ru": "Движение",
+    "description_ru": "Движение — фотография, в которой главное не объект, а динамика: танец, спорт, сцена, жест, размытие и энергия момента.",
+    "source_url": "https://35awards.com/winners11th/nomination/1203/",
+    "works_count": "10.5K",
+    "authors_count": "8.1K"
+  },
+  "edition": {
+    "slug": "11th",
+    "year": 2025,
+    "title": "11th 35AWARDS",
+    "source_url": "https://35awards.com/winners11th/nomination/1203/",
+    "photographers_url": "https://35awards.com/winners11th/nomination/1203/photographers/"
+  },
+  "limit": 35,
+  "photos": [
+    {
+      "rank": 1,
+      "id": 13154784,
+      "title": "mengapai mimpi",
+      "description": "foto ini saya konsep dengan menggunakan box yang dibuat khusus untuk pengambilan foto-foto serangga (makro)",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13154784",
+      "source_url": "https://35awards.com/gallery/photo/13154784/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2630/13154784_1500n.jpg",
+        "full": "photos/full/01_deniard1_13154784.jpg",
+        "thumb": "photos/thumb/01_deniard1_13154784.jpg",
+        "width": 1500,
+        "height": 1001
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1122,
+        "likes": 2,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "deniard1",
+        "name": "deniard ian",
+        "name_ru": "Deniard",
+        "name_native": "Deni Ardian",
+        "profile_url": "https://35awards.com/author/deniard1/",
+        "external_profile": "https://35photo.pro/deniard1/",
+        "avatar": "avatars/deniard1.jpg",
+        "country": "Indonesia",
+        "country_code": "ID",
+        "flag": "assets/flags/id.svg",
+        "city": "Bogor",
+        "followers": 6,
+        "following": 2,
+        "photos_count": 21,
+        "rank_in_nomination": 55,
+        "genres": [
+          "Macro"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D7500",
+            "count": 12
+          },
+          {
+            "name": "Canon EOS 60D",
+            "count": 3
+          },
+          {
+            "name": "Nikon AF-S VR Micro-Nikkor 105mm f/2.8G IF-ED",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 13336126,
+      "title": "Man and nature",
+      "description": "The competition between man and nature is small and fragile.",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13336126",
+      "source_url": "https://35awards.com/gallery/photo/13336126/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2667/13336126_1500n.jpg",
+        "full": "photos/full/02_1712703049_13336126.jpg",
+        "thumb": "photos/thumb/02_1712703049_13336126.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 932,
+        "likes": 4,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "1712703049",
+        "name": "魏壮涛",
+        "name_ru": "Wei ZhuangTao",
+        "name_native": "魏壮涛",
+        "profile_url": "https://35awards.com/author/1712703049/",
+        "external_profile": "https://35photo.pro/1712703049/",
+        "avatar": "avatars/1712703049.jpg",
+        "country": "China",
+        "country_code": "CN",
+        "flag": "assets/flags/cn.svg",
+        "city": "深圳市",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 5,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon Z7_2",
+            "count": 2
+          },
+          {
+            "name": "Nikon NIKKOR Z 14-30mm f/4 S",
+            "count": 1
+          },
+          {
+            "name": "TAMRON 70-300mm F/4.5-6.3 Di III RXD A047Z",
+            "count": 1
+          },
+          {
+            "name": "DJI Mini 3 Pro (FC3582)",
+            "count": 1
+          },
+          {
+            "name": "DJI FC8284",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 13364467,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13364467",
+      "source_url": "https://35awards.com/gallery/photo/13364467/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2672/13364467_1500n.jpg",
+        "full": "photos/full/03_phamvu77c_13364467.jpg",
+        "thumb": "photos/thumb/03_phamvu77c_13364467.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 888,
+        "likes": 0,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "phamvu77c",
+        "name": "Pham Anh Vu",
+        "name_ru": "Pham Anh Vu",
+        "name_native": "Pham Anh Vu",
+        "profile_url": "https://35awards.com/author/phamvu77c/",
+        "external_profile": "https://35photo.pro/phamvu77c/",
+        "avatar": "avatars/phamvu77c.jpg",
+        "country": "Viet Nam",
+        "country_code": "VN",
+        "flag": "assets/flags/vn.svg",
+        "city": "Quy Nhon city",
+        "followers": 11,
+        "following": 0,
+        "photos_count": 192,
+        "rank_in_nomination": 87,
+        "genres": [
+          "Animals",
+          "Landscape",
+          "Black and white"
+        ],
+        "gear": [
+          {
+            "name": "Olympus E-M1",
+            "count": 35
+          },
+          {
+            "name": "Olympus OM-1",
+            "count": 34
+          },
+          {
+            "name": "Olympus E-M1MarkIII",
+            "count": 25
+          },
+          {
+            "name": "Olympus E-M1X",
+            "count": 19
+          },
+          {
+            "name": "Panasonic DMC-G85",
+            "count": 12
+          },
+          {
+            "name": "Olympus E-M1MarkII",
+            "count": 10
+          },
+          {
+            "name": "DJI Osmo Action",
+            "count": 5
+          },
+          {
+            "name": "Olympus E-P5",
+            "count": 4
+          },
+          {
+            "name": "Panasonic DMC-GX85",
+            "count": 3
+          },
+          {
+            "name": "DJI Mavic Pro / Mavic Pro Platinum (FC220)",
+            "count": 3
+          },
+          {
+            "name": "Sony NEX-6",
+            "count": 3
+          },
+          {
+            "name": "Olympus E-30",
+            "count": 3
+          },
+          {
+            "name": "OLYMPUS M.300mm F4.0",
+            "count": 2
+          },
+          {
+            "name": "OLYMPUS M.12-100mm F4.0",
+            "count": 1
+          },
+          {
+            "name": "Olympus E-PM2",
+            "count": 1
+          },
+          {
+            "name": "Nikon D700",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm FinePix S3Pro",
+            "count": 1
+          },
+          {
+            "name": "Olympus E-M5 Mark II",
+            "count": 1
+          },
+          {
+            "name": "Sony Nex-F3",
+            "count": 1
+          },
+          {
+            "name": "Pentax K-5 II s",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 750D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 12546244,
+      "title": "Split-Second Focus",
+      "description": "When patience isn’t an option, only action.",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12546244",
+      "source_url": "https://35awards.com/gallery/photo/12546244/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2509/12546244_1500n.jpg",
+        "full": "photos/full/04_juditmrton_12546244.jpg",
+        "thumb": "photos/thumb/04_juditmrton_12546244.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1398,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "juditmrton",
+        "name": "Judit Márton",
+        "name_ru": "Judit Marton",
+        "name_native": "Judit Marton",
+        "profile_url": "https://35awards.com/author/juditmrton/",
+        "external_profile": "https://35photo.pro/juditmrton/",
+        "avatar": "avatars/juditmrton.jpg",
+        "country": "Hungary",
+        "country_code": "HU",
+        "flag": "assets/flags/hu.svg",
+        "city": "Dunaalmas",
+        "followers": 4,
+        "following": 0,
+        "photos_count": 47,
+        "rank_in_nomination": null,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 12792811,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12792811",
+      "source_url": "https://35awards.com/gallery/photo/12792811/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2558/12792811_1500n.jpg",
+        "full": "photos/full/05_karinemmenegger_12792811.jpg",
+        "thumb": "photos/thumb/05_karinemmenegger_12792811.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Pets in Nature",
+        "contest_key": "theme:967",
+        "contest_id": "967",
+        "under_id": "1358",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/967/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Pets in Nature",
+          "contest_key": "theme:967",
+          "contest_id": "967",
+          "under_id": "1358",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/967/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        },
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Pets",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1205",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1205/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Pets",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1205",
+          "link": "https://35awards.com/winners11th/nomination/1205/",
+          "badge": "II stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Pets in Nature",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "967",
+          "under_id": "1358",
+          "link": "https://35awards.com/page/contests/num/967/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 2304,
+        "likes": 1,
+        "favorites": 17
+      },
+      "author": {
+        "slug": "karinemmenegger",
+        "name": "karin bruhin",
+        "name_ru": "karin bruhin",
+        "name_native": "Karin Bruhin",
+        "profile_url": "https://35awards.com/author/karinemmenegger/",
+        "external_profile": "https://35photo.pro/karinemmenegger/",
+        "avatar": "avatars/karinemmenegger.jpg",
+        "country": "Switzerland",
+        "country_code": "CH",
+        "flag": "assets/flags/ch.svg",
+        "city": "buttikon",
+        "followers": 13,
+        "following": 0,
+        "photos_count": 57,
+        "rank_in_nomination": 10,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 54
+          },
+          {
+            "name": "Sigma 105mm F1.4 DG HSM | A",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z 35/1.8S",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z7",
+            "count": 3
+          },
+          {
+            "name": "Nikon Nikkor Z 70-200mm f/2.8 VR S",
+            "count": 2
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 1
+          },
+          {
+            "name": "Sigma 50mm F1.4 DG HSM | A",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 13343160,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13343160",
+      "source_url": "https://35awards.com/gallery/photo/13343160/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2668/13343160_1500n.jpg",
+        "full": "photos/full/06_shaklein_13343160.jpg",
+        "thumb": "photos/thumb/06_shaklein_13343160.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 927,
+        "likes": 0,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "shaklein",
+        "name": "Шаклеин Алексей",
+        "name_ru": "Шаклеин Алексей",
+        "name_native": "Shaklein Alex",
+        "profile_url": "https://35awards.com/author/shaklein/",
+        "external_profile": "https://35photo.pro/shaklein/",
+        "avatar": "avatars/shaklein.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Екатеринбург",
+        "followers": 800,
+        "following": 35,
+        "photos_count": 132,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 17
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 12677078,
+      "title": "Удачливый рыбак",
+      "description": "Бурый медведь с пойманной рыбой",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12677078",
+      "source_url": "https://35awards.com/gallery/photo/12677078/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2535/12677078_1500n.jpg",
+        "full": "photos/full/07_leonidgolmsk_12677078.jpg",
+        "thumb": "photos/thumb/07_leonidgolmsk_12677078.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1140,
+        "likes": 0,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "leonidgolmsk",
+        "name": "Голубков Леонид",
+        "name_ru": "Леонид Голубков",
+        "name_native": "Leonid Golubkov",
+        "profile_url": "https://35awards.com/author/leonidgolmsk/",
+        "external_profile": "https://35photo.pro/leonidgolmsk/",
+        "avatar": "avatars/leonidgolmsk.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 73,
+        "following": 108,
+        "photos_count": 391,
+        "rank_in_nomination": 12,
+        "genres": [
+          "Landscape",
+          "Animals",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R3",
+            "count": 151
+          },
+          {
+            "name": "Apple iPhone 14 Pro",
+            "count": 58
+          },
+          {
+            "name": "Canon EOS R1",
+            "count": 38
+          },
+          {
+            "name": "Canon EOS R5m2",
+            "count": 37
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 36
+          },
+          {
+            "name": "Canon RF 70-200mm F2.8L IS USM or Canon RF 70-200mm F2.8 L IS USM Z",
+            "count": 34
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 20
+          },
+          {
+            "name": "DJI Mini 3 Pro (FC3582)",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 13
+          },
+          {
+            "name": "Canon RF 600mm F4L IS USM",
+            "count": 10
+          },
+          {
+            "name": "Apple iPhone X",
+            "count": 9
+          },
+          {
+            "name": "Apple iPhone 15 Pro Max",
+            "count": 6
+          },
+          {
+            "name": "DJI Mavic 4 Pro (L3D-100c)",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 11-24mm f/4L USM",
+            "count": 6
+          },
+          {
+            "name": "DJI FC8482",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 400mm f/2.8L IS II USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 400mm f/2.8L IS II USM + 1.4x",
+            "count": 3
+          },
+          {
+            "name": "Canon EF 70-300mm f/4-5.6 IS USM",
+            "count": 3
+          },
+          {
+            "name": "Canon RF 600mm F4L IS USM + RF2x",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 70D",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 35-350mm f/3.5-5.6L USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 1
+          },
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 1
+          },
+          {
+            "name": "Canon RF 15-35/2.8 L IS USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L USM II",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 11 Pro Max",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 15 Plus",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 5",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 13224251,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13224251",
+      "source_url": "https://35awards.com/gallery/photo/13224251/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2644/13224251_1500n.jpg",
+        "full": "photos/full/08_chazov_13224251.jpg",
+        "thumb": "photos/thumb/08_chazov_13224251.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color",
+          "muted"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 917,
+        "likes": 0,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "chazov",
+        "name": "Александр Чазов",
+        "name_ru": "Александр Чазов",
+        "name_native": "Aleksandr Chazov",
+        "profile_url": "https://35awards.com/author/chazov/",
+        "external_profile": "https://35photo.pro/chazov/",
+        "avatar": "avatars/chazov.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Пермь",
+        "followers": 80,
+        "following": 22,
+        "photos_count": 295,
+        "rank_in_nomination": 46,
+        "genres": [
+          "Landscape",
+          "Aerial photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 10
+          },
+          {
+            "name": "Canon EOS 550D",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 17-40 mm F/4.0 L USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 1
+          },
+          {
+            "name": "DJI Mavic 2 Pro (L1D-20c)",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 12812203,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12812203",
+      "source_url": "https://35awards.com/gallery/photo/12812203/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2562/12812203_1500n.jpg",
+        "full": "photos/full/09_cherepok92_12812203.jpg",
+        "thumb": "photos/thumb/09_cherepok92_12812203.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1155,
+        "likes": 2,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "cherepok92",
+        "name": "Екатерина Киреева",
+        "name_ru": "Екатерина Киреева",
+        "name_native": "Ekaterina Kireeva",
+        "profile_url": "https://35awards.com/author/cherepok92/",
+        "external_profile": "https://35photo.pro/cherepok92/",
+        "avatar": "avatars/cherepok92.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 15,
+        "following": 3,
+        "photos_count": 90,
+        "rank_in_nomination": 21,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 37
+          },
+          {
+            "name": "Apple iPhone 11 Pro",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 13225731,
+      "title": "Гармония заката",
+      "description": "Орловский рысак наслаждается свободой на закате на заливе.",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13225731",
+      "source_url": "https://35awards.com/gallery/photo/13225731/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2645/13225731_1500n.jpg",
+        "full": "photos/full/10_alexia_13225731.jpg",
+        "thumb": "photos/thumb/10_alexia_13225731.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 943,
+        "likes": 0,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "alexia",
+        "name": "Алексия Брагина",
+        "name_ru": "Алексия Брагина",
+        "name_native": "Alexia Bragina",
+        "profile_url": "https://35awards.com/author/alexia/",
+        "external_profile": "https://35photo.pro/alexia/",
+        "avatar": "avatars/alexia.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Saint-Petersburg",
+        "followers": 6,
+        "following": 0,
+        "photos_count": 37,
+        "rank_in_nomination": 6,
+        "genres": [
+          "Pets"
+        ],
+        "gear": []
+      }
+    },
+    {
+      "rank": 11,
+      "id": 12546291,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12546291",
+      "source_url": "https://35awards.com/gallery/photo/12546291/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2509/12546291_1500n.jpg",
+        "full": "photos/full/11_elena423_12546291.jpg",
+        "thumb": "photos/thumb/11_elena423_12546291.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Blue + White",
+        "contest_key": "theme:989",
+        "contest_id": "989",
+        "under_id": "1410",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/989/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Blue + White",
+          "contest_key": "theme:989",
+          "contest_id": "989",
+          "under_id": "1410",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/989/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue + White",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "989",
+          "under_id": "1410",
+          "link": "https://35awards.com/page/contests/num/989/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2713,
+        "likes": 2,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "elena423",
+        "name": "Елена Евдокимова",
+        "name_ru": "Елена Евдокимова",
+        "name_native": "Elena Evdokimova",
+        "profile_url": "https://35awards.com/author/elena423/",
+        "external_profile": "https://35photo.pro/elena423/",
+        "avatar": "avatars/elena423.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 39,
+        "following": 4,
+        "photos_count": 250,
+        "rank_in_nomination": 18,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography",
+          "Black and white"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6m2",
+            "count": 80
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 71
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 42
+          },
+          {
+            "name": "Canon RF 50mm F1.8 STM",
+            "count": 13
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8 L USM",
+            "count": 7
+          },
+          {
+            "name": "Google Pixel 7 Pro",
+            "count": 5
+          },
+          {
+            "name": "OPPO Find X8 Pro",
+            "count": 4
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 2
+          },
+          {
+            "name": "HUAWEI LYA-L29",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "id": 12847745,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12847745",
+      "source_url": "https://35awards.com/gallery/photo/12847745/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2569/12847745_1500n.jpg",
+        "full": "photos/full/12_goodary_12847745.jpg",
+        "thumb": "photos/thumb/12_goodary_12847745.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1091,
+        "likes": 1,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "goodary",
+        "name": "Reza Goodary",
+        "name_ru": "Reza Goodary",
+        "name_native": "Reza Goodary",
+        "profile_url": "https://35awards.com/author/goodary/",
+        "external_profile": "https://35photo.pro/goodary/",
+        "avatar": "avatars/goodary.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "Tehran",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 11,
+        "rank_in_nomination": 11,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS R3",
+            "count": 11
+          }
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "id": 12183011,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12183011",
+      "source_url": "https://35awards.com/gallery/photo/12183011/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2436/12183011_1500n.jpg",
+        "full": "photos/full/13_eddiel91_12183011.jpg",
+        "thumb": "photos/thumb/13_eddiel91_12183011.jpg",
+        "width": 1139,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1417,
+        "likes": 0,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "eddiel91",
+        "name": "Eddie Leach",
+        "name_ru": "Leach Eddie",
+        "name_native": "Eddie Leach",
+        "profile_url": "https://35awards.com/author/eddiel91/",
+        "external_profile": "https://35photo.pro/eddiel91/",
+        "avatar": "avatars/eddiel91.jpg",
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "flag": "assets/flags/gb.svg",
+        "city": "Manchester",
+        "followers": 163,
+        "following": 63,
+        "photos_count": 75,
+        "rank_in_nomination": 4,
+        "genres": [
+          "Sport"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 51
+          },
+          {
+            "name": "Canon EOS 7D Mark II",
+            "count": 6
+          },
+          {
+            "name": "Canon RF 70-200mm F2.8L IS USM or Canon RF 70-200mm F2.8 L IS USM Z",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 40D",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "id": 13384946,
+      "title": "",
+      "description": "Red and red on the subway",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13384946",
+      "source_url": "https://35awards.com/gallery/photo/13384946/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2676/13384946_1500n.jpg",
+        "full": "photos/full/14_alejandro767_13384946.jpg",
+        "thumb": "photos/thumb/14_alejandro767_13384946.jpg",
+        "width": 1500,
+        "height": 1200
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 777,
+        "likes": 3,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "alejandro767",
+        "name": "Cifuentes Alejandro",
+        "name_ru": "Cifuentes Alejandro",
+        "name_native": "Alejandro Cifuentes",
+        "profile_url": "https://35awards.com/author/alejandro767/",
+        "external_profile": "https://35photo.pro/alejandro767/",
+        "avatar": "avatars/alejandro767.jpg",
+        "country": "Chile",
+        "country_code": "CL",
+        "flag": "assets/flags/cl.svg",
+        "city": "Santiago",
+        "followers": 11,
+        "following": 5,
+        "photos_count": 126,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 58
+          },
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 45
+          },
+          {
+            "name": "DJI Mavic Pro / Mavic Pro Platinum (FC220)",
+            "count": 16
+          },
+          {
+            "name": "DJI Mini 3 Pro (FC3582)",
+            "count": 3
+          },
+          {
+            "name": "DJI FC3411",
+            "count": 3
+          },
+          {
+            "name": "Sony ILCE-6500",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "id": 13287864,
+      "title": "",
+      "description": "-Surf Fugitive-\r\n\r\nA surfer cuts across the face of a breaking wave, suspended between balance and collapse. The aerial perspective compresses speed, force, and trajectory into a single instant, where motion becomes the subject itself.",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13287864",
+      "source_url": "https://35awards.com/gallery/photo/13287864/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2657/13287864_1500n.jpg",
+        "full": "photos/full/15_lorenzo110_13287864.jpg",
+        "thumb": "photos/thumb/15_lorenzo110_13287864.jpg",
+        "width": 1032,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 952,
+        "likes": 1,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "lorenzo110",
+        "name": "Lorenzo Passalacqua",
+        "name_ru": "Lorenzo Passalacqua",
+        "name_native": "Lorenzo passalacqua",
+        "profile_url": "https://35awards.com/author/lorenzo110/",
+        "external_profile": "https://35photo.pro/lorenzo110/",
+        "avatar": "",
+        "country": "Australia",
+        "country_code": "AU",
+        "flag": "assets/flags/au.svg",
+        "city": "Sydney",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 27,
+        "rank_in_nomination": 84,
+        "genres": [],
+        "gear": [
+          {
+            "name": "NIKON Z6_3",
+            "count": 14
+          },
+          {
+            "name": "TAMRON 28-75mm F/2.8 Di III VXD G2 A063Z",
+            "count": 6
+          },
+          {
+            "name": "DJI FC3411",
+            "count": 6
+          },
+          {
+            "name": "Nikon NIKKOR Z 70-180mm f/2.8",
+            "count": 4
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 3
+          },
+          {
+            "name": "DJI Mavic 4 Pro (L3D-100c)",
+            "count": 1
+          },
+          {
+            "name": "DJI Mini 3 Pro (FC3582)",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "id": 13020280,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13020280",
+      "source_url": "https://35awards.com/gallery/photo/13020280/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2604/13020280_1500n.jpg",
+        "full": "photos/full/16_wood_13020280.jpg",
+        "thumb": "photos/thumb/16_wood_13020280.jpg",
+        "width": 1500,
+        "height": 1178
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1186,
+        "likes": 0,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "wood",
+        "name": "игорь перфильев",
+        "name_ru": "игорь перфильев",
+        "name_native": "игорь перфильев",
+        "profile_url": "https://35awards.com/author/wood/",
+        "external_profile": "https://35photo.pro/wood/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 120,
+        "following": 3,
+        "photos_count": 28,
+        "rank_in_nomination": 71,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS-1D X",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS-1D Mark IV",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "id": 13373839,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13373839",
+      "source_url": "https://35awards.com/gallery/photo/13373839/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2674/13373839_1500n.jpg",
+        "full": "photos/full/17_jayeshrajput_13373839.jpg",
+        "thumb": "photos/thumb/17_jayeshrajput_13373839.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 851,
+        "likes": 1,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "jayeshrajput",
+        "name": "Jayesh Rajput",
+        "name_ru": "Jayesh Rajput",
+        "name_native": "Jayesh Dilipsing Rajput",
+        "profile_url": "https://35awards.com/author/jayeshrajput/",
+        "external_profile": "https://35photo.pro/jayeshrajput/",
+        "avatar": "avatars/jayeshrajput.jpg",
+        "country": "India",
+        "country_code": "IN",
+        "flag": "assets/flags/in.svg",
+        "city": "Pune",
+        "followers": 0,
+        "following": 3,
+        "photos_count": 37,
+        "rank_in_nomination": 52,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 17
+          },
+          {
+            "name": "OPPO Reno6 Pro 5G",
+            "count": 7
+          },
+          {
+            "name": "Samsung SM-J510FN",
+            "count": 4
+          },
+          {
+            "name": "DJI FC9113",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 15 Pro",
+            "count": 1
+          },
+          {
+            "name": "Sony DSC-H3",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "id": 12553418,
+      "title": "",
+      "description": "laytown races Ireland",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12553418",
+      "source_url": "https://35awards.com/gallery/photo/12553418/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2510/12553418_1500n.jpg",
+        "full": "photos/full/18_ironiaart_12553418.jpg",
+        "thumb": "photos/thumb/18_ironiaart_12553418.jpg",
+        "width": 1500,
+        "height": 1107
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1125,
+        "likes": 0,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "ironiaart",
+        "name": "Nadina Ironia",
+        "name_ru": "Nadina Ironia",
+        "name_native": "Nadina Ironia",
+        "profile_url": "https://35awards.com/author/ironiaart/",
+        "external_profile": "https://35photo.pro/ironiaart/",
+        "avatar": "avatars/ironiaart.jpg",
+        "country": "Ireland",
+        "country_code": "IE",
+        "flag": "assets/flags/ie.svg",
+        "city": "Dublin",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 50,
+        "rank_in_nomination": 58,
+        "genres": [
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 14
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 11
+          },
+          {
+            "name": "Canon EOS-1D X",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS R3",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 70-200 mm f/2.8 L IS II USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "id": 12321837,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12321837",
+      "source_url": "https://35awards.com/gallery/photo/12321837/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2464/12321837_1500n.jpg",
+        "full": "photos/full/19_korzhukov_12321837.jpg",
+        "thumb": "photos/thumb/19_korzhukov_12321837.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1331,
+        "likes": 0,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "korzhukov",
+        "name": "ARTEM KORZHUKOV",
+        "name_ru": "ARTEM KORZHUKOV",
+        "name_native": "ARTEM KORZHUKOV",
+        "profile_url": "https://35awards.com/author/korzhukov/",
+        "external_profile": "https://35photo.pro/korzhukov/",
+        "avatar": "avatars/korzhukov.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Monchegorsk",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 230,
+        "rank_in_nomination": 62,
+        "genres": [
+          "Landscape",
+          "Portrait",
+          "Male portrait",
+          "Architecture"
+        ],
+        "gear": [
+          {
+            "name": "Fujifilm GFX100S",
+            "count": 57
+          },
+          {
+            "name": "Nikon Z7_2",
+            "count": 30
+          },
+          {
+            "name": "Nikon D700",
+            "count": 25
+          },
+          {
+            "name": "Fujifilm X-T1",
+            "count": 24
+          },
+          {
+            "name": "NIKON Z 8",
+            "count": 19
+          },
+          {
+            "name": "Fujifilm X-T4",
+            "count": 17
+          },
+          {
+            "name": "Nikon D40",
+            "count": 6
+          },
+          {
+            "name": "Samsung Galaxy S23",
+            "count": 6
+          },
+          {
+            "name": "TAMRON 70-180mm F2.8 A065 Z",
+            "count": 5
+          },
+          {
+            "name": "Apple iPhone 11",
+            "count": 5
+          },
+          {
+            "name": "Samsung SM-A505FN",
+            "count": 4
+          },
+          {
+            "name": "Pentax K-5",
+            "count": 3
+          },
+          {
+            "name": "TAMRON SP 15-30mm F/2.8 Di VC USD A012",
+            "count": 3
+          },
+          {
+            "name": "TAMRON 28-75mm F/2.8 Di III VXD G2 A063Z",
+            "count": 3
+          },
+          {
+            "name": "TAMRON SP 70-200mm F/2.8 Di VC USD G2 A025",
+            "count": 2
+          },
+          {
+            "name": "Samsung SM-G570F",
+            "count": 2
+          },
+          {
+            "name": "Olympus SZ-17",
+            "count": 1
+          },
+          {
+            "name": "Nikon D7100",
+            "count": 1
+          },
+          {
+            "name": "TAMRON 35-150mm F/2-2.8 Di III VXD A058Z",
+            "count": 1
+          },
+          {
+            "name": "Nikon D90",
+            "count": 1
+          },
+          {
+            "name": "Nikon D7000",
+            "count": 1
+          },
+          {
+            "name": "Nikon D5200",
+            "count": 1
+          },
+          {
+            "name": "NIKON Z f",
+            "count": 1
+          },
+          {
+            "name": "Samsung Galaxy S24 Ultra",
+            "count": 1
+          },
+          {
+            "name": "Samsung SM-A125F",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "id": 12227526,
+      "title": "",
+      "description": "#surfingphotography_tenerife ",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12227526",
+      "source_url": "https://35awards.com/gallery/photo/12227526/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2445/12227526_1500n.jpg",
+        "full": "photos/full/20_cimadorenrico_12227526.jpg",
+        "thumb": "photos/thumb/20_cimadorenrico_12227526.jpg",
+        "width": 1500,
+        "height": 1429
+      },
+      "award": {
+        "label": "TOP 16%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Jump",
+        "contest_key": "theme:924",
+        "contest_id": "924",
+        "under_id": "1252",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/924/"
+      },
+      "honours": [
+        {
+          "label": "TOP 16%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Jump",
+          "contest_key": "theme:924",
+          "contest_id": "924",
+          "under_id": "1252",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/924/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Jump",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "924",
+          "under_id": "1252",
+          "link": "https://35awards.com/page/contests/num/924/",
+          "badge": "TOP 16%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1510,
+        "likes": 0,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "cimadorenrico",
+        "name": "Enrico Cimador",
+        "name_ru": "Enrico Cimador",
+        "name_native": "Enrico Cimador",
+        "profile_url": "https://35awards.com/author/cimadorenrico/",
+        "external_profile": "https://35photo.pro/cimadorenrico/",
+        "avatar": "avatars/cimadorenrico.jpg",
+        "country": "Spain",
+        "country_code": "ES",
+        "flag": "assets/flags/es.svg",
+        "city": "Santa Cruz de Tenerife",
+        "followers": 1,
+        "following": 8,
+        "photos_count": 44,
+        "rank_in_nomination": 25,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 39
+          }
+        ]
+      }
+    },
+    {
+      "rank": 21,
+      "id": 13197026,
+      "title": "Jump",
+      "description": "Jumping up and rushing towards the light",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13197026",
+      "source_url": "https://35awards.com/gallery/photo/13197026/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2639/13197026_1500n.jpg",
+        "full": "photos/full/21_id880237438_13197026.jpg",
+        "thumb": "photos/thumb/21_id880237438_13197026.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 831,
+        "likes": 0,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "id880237438",
+        "name": "HUANG JUNTING",
+        "name_ru": "HUANG JUNTING",
+        "name_native": "黄浚霆",
+        "profile_url": "https://35awards.com/author/id880237438/",
+        "external_profile": "https://35photo.pro/id880237438/",
+        "avatar": "avatars/id880237438.jpg",
+        "country": "China",
+        "country_code": "CN",
+        "flag": "assets/flags/cn.svg",
+        "city": "Huizhou",
+        "followers": 8,
+        "following": 3,
+        "photos_count": 43,
+        "rank_in_nomination": null,
+        "genres": [
+          "Landscape",
+          "Aerial photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM4A",
+            "count": 14
+          },
+          {
+            "name": "Hasselblad L2D-20c",
+            "count": 5
+          },
+          {
+            "name": "DJI FC4382",
+            "count": 2
+          },
+          {
+            "name": "DJI Mavic 2 Enterprise (FC2204)",
+            "count": 2
+          },
+          {
+            "name": "Viltrox 16mm F1.8 FE",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 22,
+      "id": 12952034,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12952034",
+      "source_url": "https://35awards.com/gallery/photo/12952034/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2590/12952034_1500n.jpg",
+        "full": "photos/full/22_alismax21_12952034.jpg",
+        "thumb": "photos/thumb/22_alismax21_12952034.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1132,
+        "likes": 0,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "alismax21",
+        "name": "Алеся Нечаева",
+        "name_ru": "Алеся Нечаева",
+        "name_native": "Nechaeva Alesya",
+        "profile_url": "https://35awards.com/author/alismax21/",
+        "external_profile": "https://35photo.pro/alismax21/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 15,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 70D",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 23,
+      "id": 12301617,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12301617",
+      "source_url": "https://35awards.com/gallery/photo/12301617/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2460/12301617_1500n.jpg",
+        "full": "photos/full/23_chdv1_12301617.jpg",
+        "thumb": "photos/thumb/23_chdv1_12301617.jpg",
+        "width": 1500,
+        "height": 1061
+      },
+      "award": {
+        "label": "TOP 2%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "1535",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1558,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "chdv1",
+        "name": "Дмитрий Чухлебов",
+        "name_ru": "Дмитрий Чухлебов",
+        "name_native": "Dmitriy CHukhlebov",
+        "profile_url": "https://35awards.com/author/chdv1/",
+        "external_profile": "https://35photo.pro/chdv1/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Воронеж",
+        "followers": 9,
+        "following": 0,
+        "photos_count": 159,
+        "rank_in_nomination": 9,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Fashion"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM5",
+            "count": 42
+          },
+          {
+            "name": "NIKON Z 8",
+            "count": 26
+          },
+          {
+            "name": "Sony ILCE-7CR",
+            "count": 21
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 21
+          },
+          {
+            "name": "Sony ILCE-1",
+            "count": 20
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 13
+          },
+          {
+            "name": "HUAWEI ELS-N39",
+            "count": 3
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 1
+          },
+          {
+            "name": "Nikon Nikkor Z 24-120MM F/4 S",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R10",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 24,
+      "id": 12517008,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12517008",
+      "source_url": "https://35awards.com/gallery/photo/12517008/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2503/12517008_1500n.jpg",
+        "full": "photos/full/24_lucienermutova_12517008.jpg",
+        "thumb": "photos/thumb/24_lucienermutova_12517008.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "TOP 4%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Conceptual Shot – No Compositing",
+        "contest_key": "theme:983",
+        "contest_id": "983",
+        "under_id": "1398",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/983/"
+      },
+      "honours": [
+        {
+          "label": "TOP 4%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Conceptual Shot – No Compositing",
+          "contest_key": "theme:983",
+          "contest_id": "983",
+          "under_id": "1398",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/983/"
+        },
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Decisive moment",
+          "contest_key": "theme:934",
+          "contest_id": "934",
+          "under_id": "1274",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/934/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Conceptual Shot – No Compositing",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "983",
+          "under_id": "1398",
+          "link": "https://35awards.com/page/contests/num/983/",
+          "badge": "TOP 4%",
+          "tier": "top"
+        },
+        {
+          "name": "Decisive moment",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "934",
+          "under_id": "1274",
+          "link": "https://35awards.com/page/contests/num/934/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 3351,
+        "likes": 0,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "lucienermutova",
+        "name": "Lucie Nermuťová",
+        "name_ru": "Lucie Nermuťova",
+        "name_native": "Lucie Nermutova",
+        "profile_url": "https://35awards.com/author/lucienermutova/",
+        "external_profile": "https://35photo.pro/lucienermutova/",
+        "avatar": "avatars/lucienermutova.jpg",
+        "country": "Czech Republic",
+        "country_code": "CZ",
+        "flag": "assets/flags/cz.svg",
+        "city": "Podebrady",
+        "followers": 19,
+        "following": 0,
+        "photos_count": 125,
+        "rank_in_nomination": 3,
+        "genres": [
+          "Pets",
+          "Black and white"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 107
+          },
+          {
+            "name": "Nikon NIKKOR Z 135mm f/1.8 S Plena",
+            "count": 12
+          },
+          {
+            "name": "Nikon NIKKOR Z 85mm f/1.2 S",
+            "count": 7
+          },
+          {
+            "name": "NIKON Z6_3",
+            "count": 5
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 4
+          },
+          {
+            "name": "DJI FC9313",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S Nikkor 300mm f/2.8G IF-ED VR II",
+            "count": 1
+          },
+          {
+            "name": "Nikon NIKKOR Z MC 105mm f/2.8 VR S",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 25,
+      "id": 12794011,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12794011",
+      "source_url": "https://35awards.com/gallery/photo/12794011/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2558/12794011_1500n.jpg",
+        "full": "photos/full/25_yakuseval_12794011.jpg",
+        "thumb": "photos/thumb/25_yakuseval_12794011.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Levitation",
+        "contest_key": "theme:1019",
+        "contest_id": "1019",
+        "under_id": "1475",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1019/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Levitation",
+          "contest_key": "theme:1019",
+          "contest_id": "1019",
+          "under_id": "1475",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1019/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Pets in Nature",
+          "contest_key": "theme:967",
+          "contest_id": "967",
+          "under_id": "1358",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/967/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Pets",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1205",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1205/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Levitation",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1019",
+          "under_id": "1475",
+          "link": "https://35awards.com/page/contests/num/1019/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Pets",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1205",
+          "link": "https://35awards.com/winners11th/nomination/1205/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Pets in Nature",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "967",
+          "under_id": "1358",
+          "link": "https://35awards.com/page/contests/num/967/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 2477,
+        "likes": 3,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "yakuseval",
+        "name": "Elena Yakuseva",
+        "name_ru": "Elena Yakuseva",
+        "name_native": "Elena Yakuseva",
+        "profile_url": "https://35awards.com/author/yakuseval/",
+        "external_profile": "https://35photo.pro/yakuseval/",
+        "avatar": "avatars/yakuseval.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Владимир",
+        "followers": 8,
+        "following": 14,
+        "photos_count": 60,
+        "rank_in_nomination": 64,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Nikon Z7_2",
+            "count": 25
+          },
+          {
+            "name": "NIKON Z 8",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 26,
+      "id": 13272018,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13272018",
+      "source_url": "https://35awards.com/gallery/photo/13272018/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2654/13272018_1500n.jpg",
+        "full": "photos/full/26_karinemmenegger_13272018.jpg",
+        "thumb": "photos/thumb/26_karinemmenegger_13272018.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 915,
+        "likes": 0,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "karinemmenegger",
+        "name": "karin bruhin",
+        "name_ru": "karin bruhin",
+        "name_native": "Karin Bruhin",
+        "profile_url": "https://35awards.com/author/karinemmenegger/",
+        "external_profile": "https://35photo.pro/karinemmenegger/",
+        "avatar": "avatars/karinemmenegger.jpg",
+        "country": "Switzerland",
+        "country_code": "CH",
+        "flag": "assets/flags/ch.svg",
+        "city": "buttikon",
+        "followers": 13,
+        "following": 0,
+        "photos_count": 57,
+        "rank_in_nomination": 10,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 54
+          },
+          {
+            "name": "Sigma 105mm F1.4 DG HSM | A",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z 35/1.8S",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z7",
+            "count": 3
+          },
+          {
+            "name": "Nikon Nikkor Z 70-200mm f/2.8 VR S",
+            "count": 2
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 1
+          },
+          {
+            "name": "Sigma 50mm F1.4 DG HSM | A",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 27,
+      "id": 13166876,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13166876",
+      "source_url": "https://35awards.com/gallery/photo/13166876/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2633/13166876_1500n.jpg",
+        "full": "photos/full/27_skif19_13166876.jpg",
+        "thumb": "photos/thumb/27_skif19_13166876.jpg",
+        "width": 1500,
+        "height": 1011
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 763,
+        "likes": 0,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "skif19",
+        "name": "Илья Поляк",
+        "name_ru": "Илья Поляк",
+        "name_native": "ILIA POLIAK",
+        "profile_url": "https://35awards.com/author/skif19/",
+        "external_profile": "https://35photo.pro/skif19/",
+        "avatar": "avatars/skif19.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 6,
+        "following": 0,
+        "photos_count": 349,
+        "rank_in_nomination": null,
+        "genres": [
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 322
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L III USM",
+            "count": 20
+          },
+          {
+            "name": "Canon 70-200mm f/2.8L IS III USM",
+            "count": 20
+          },
+          {
+            "name": "Canon EOS R5m2",
+            "count": 7
+          },
+          {
+            "name": "HUAWEI PCT-AL10",
+            "count": 6
+          },
+          {
+            "name": "Canon EOS 550D",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 28,
+      "id": 13122288,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13122288",
+      "source_url": "https://35awards.com/gallery/photo/13122288/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2624/13122288_1500n.jpg",
+        "full": "photos/full/28_karinemmenegger_13122288.jpg",
+        "thumb": "photos/thumb/28_karinemmenegger_13122288.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "TOP 8%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Blue Color",
+        "contest_key": "theme:1074",
+        "contest_id": "1074",
+        "under_id": "1610",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1074/"
+      },
+      "honours": [
+        {
+          "label": "TOP 8%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Blue Color",
+          "contest_key": "theme:1074",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1074/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        },
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Pets",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1205",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1205/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Blue Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1074",
+          "under_id": "1610",
+          "link": "https://35awards.com/page/contests/num/1074/",
+          "badge": "TOP 8%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Pets",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1205",
+          "link": "https://35awards.com/winners11th/nomination/1205/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2091,
+        "likes": 2,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "karinemmenegger",
+        "name": "karin bruhin",
+        "name_ru": "karin bruhin",
+        "name_native": "Karin Bruhin",
+        "profile_url": "https://35awards.com/author/karinemmenegger/",
+        "external_profile": "https://35photo.pro/karinemmenegger/",
+        "avatar": "avatars/karinemmenegger.jpg",
+        "country": "Switzerland",
+        "country_code": "CH",
+        "flag": "assets/flags/ch.svg",
+        "city": "buttikon",
+        "followers": 13,
+        "following": 0,
+        "photos_count": 57,
+        "rank_in_nomination": 10,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 54
+          },
+          {
+            "name": "Sigma 105mm F1.4 DG HSM | A",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z 35/1.8S",
+            "count": 5
+          },
+          {
+            "name": "Nikon Z7",
+            "count": 3
+          },
+          {
+            "name": "Nikon Nikkor Z 70-200mm f/2.8 VR S",
+            "count": 2
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 1
+          },
+          {
+            "name": "Sigma 50mm F1.4 DG HSM | A",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 29,
+      "id": 12248624,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12248624",
+      "source_url": "https://35awards.com/gallery/photo/12248624/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2449/12248624_1500n.jpg",
+        "full": "photos/full/29_sahilsidharthan_12248624.jpg",
+        "thumb": "photos/thumb/29_sahilsidharthan_12248624.jpg",
+        "width": 1500,
+        "height": 1125
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Summer Sports",
+        "contest_key": "theme:930",
+        "contest_id": "930",
+        "under_id": "1262",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/930/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Summer Sports",
+          "contest_key": "theme:930",
+          "contest_id": "930",
+          "under_id": "1262",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/930/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Summer Sports",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "930",
+          "under_id": "1262",
+          "link": "https://35awards.com/page/contests/num/930/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1556,
+        "likes": 1,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "sahilsidharthan",
+        "name": "Sahil K",
+        "name_ru": "Sahil K",
+        "name_native": "Sahil Sidharthan K",
+        "profile_url": "https://35awards.com/author/sahilsidharthan/",
+        "external_profile": "https://35photo.pro/sahilsidharthan/",
+        "avatar": "avatars/sahilsidharthan.jpg",
+        "country": "India",
+        "country_code": "IN",
+        "flag": "assets/flags/in.svg",
+        "city": "Kannur",
+        "followers": 2,
+        "following": 2,
+        "photos_count": 75,
+        "rank_in_nomination": 32,
+        "genres": [
+          "Animals",
+          "Sport",
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-1",
+            "count": 37
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 36
+          }
+        ]
+      }
+    },
+    {
+      "rank": 30,
+      "id": 12373719,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12373719",
+      "source_url": "https://35awards.com/gallery/photo/12373719/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2474/12373719_1500n.jpg",
+        "full": "photos/full/30_irinavlasova77_12373719.jpg",
+        "thumb": "photos/thumb/30_irinavlasova77_12373719.jpg",
+        "width": 1082,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1329,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "irinavlasova77",
+        "name": "Ирина Власова",
+        "name_ru": "Ирина Власова",
+        "name_native": "Irina Vlasova",
+        "profile_url": "https://35awards.com/author/irinavlasova77/",
+        "external_profile": "https://35photo.pro/irinavlasova77/",
+        "avatar": "avatars/irinavlasova77.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Новосибирск",
+        "followers": 11,
+        "following": 2,
+        "photos_count": 188,
+        "rank_in_nomination": 20,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 58
+          },
+          {
+            "name": "Nikon Z7_2",
+            "count": 14
+          },
+          {
+            "name": "Nikon D780",
+            "count": 14
+          },
+          {
+            "name": "Nikon NIKKOR Z 24-70mm f/2.8 S",
+            "count": 7
+          },
+          {
+            "name": "Nikon NIKKOR Z 85mm f/1.2 S",
+            "count": 4
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 50 мм f/1,8G",
+            "count": 2
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 2
+          },
+          {
+            "name": "Nikon 70-200f/2,8G ED VR II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 31,
+      "id": 12847776,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12847776",
+      "source_url": "https://35awards.com/gallery/photo/12847776/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2569/12847776_1500n.jpg",
+        "full": "photos/full/31_goodary_12847776.jpg",
+        "thumb": "photos/thumb/31_goodary_12847776.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1328,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "goodary",
+        "name": "Reza Goodary",
+        "name_ru": "Reza Goodary",
+        "name_native": "Reza Goodary",
+        "profile_url": "https://35awards.com/author/goodary/",
+        "external_profile": "https://35photo.pro/goodary/",
+        "avatar": "avatars/goodary.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "Tehran",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 11,
+        "rank_in_nomination": 11,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS R3",
+            "count": 11
+          }
+        ]
+      }
+    },
+    {
+      "rank": 32,
+      "id": 12810693,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12810693",
+      "source_url": "https://35awards.com/gallery/photo/12810693/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2562/12810693_1500n.jpg",
+        "full": "photos/full/32_jorgenhovde_12810693.jpg",
+        "thumb": "photos/thumb/32_jorgenhovde_12810693.jpg",
+        "width": 1500,
+        "height": 600
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        },
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Wildlife",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1214",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1214/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Wildlife",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1214",
+          "link": "https://35awards.com/winners11th/nomination/1214/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1704,
+        "likes": 0,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "jorgenhovde",
+        "name": "Jørgen Hovde",
+        "name_ru": "Jorgen Hovde",
+        "name_native": "Jorgen Hovde",
+        "profile_url": "https://35awards.com/author/jorgenhovde/",
+        "external_profile": "https://35photo.pro/jorgenhovde/",
+        "avatar": "",
+        "country": "Norway",
+        "country_code": "NO",
+        "flag": "assets/flags/no.svg",
+        "city": "Kongsberg",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 138,
+        "rank_in_nomination": 14,
+        "genres": [
+          "Animals",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-9M3",
+            "count": 64
+          },
+          {
+            "name": "Olympus OM-1",
+            "count": 55
+          },
+          {
+            "name": "Olympus E-M1MarkIII",
+            "count": 11
+          },
+          {
+            "name": "Apple iPhone 15 Pro Max",
+            "count": 3
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 1
+          },
+          {
+            "name": "OLYMPUS M.100-400mm F5.0-6.3",
+            "count": 1
+          },
+          {
+            "name": "OLYMPUS M.40-150mm F2.8",
+            "count": 1
+          },
+          {
+            "name": "Sony FE 400-800mm F6.3-8 G OSS",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 33,
+      "id": 12066069,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_12066069",
+      "source_url": "https://35awards.com/gallery/photo/12066069/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2413/12066069_1500n.jpg",
+        "full": "photos/full/33_lucienermutova_12066069.jpg",
+        "thumb": "photos/thumb/33_lucienermutova_12066069.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Levitation",
+        "contest_key": "theme:1019",
+        "contest_id": "1019",
+        "under_id": "1475",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1019/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Levitation",
+          "contest_key": "theme:1019",
+          "contest_id": "1019",
+          "under_id": "1475",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1019/"
+        },
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Pets in Nature",
+          "contest_key": "theme:967",
+          "contest_id": "967",
+          "under_id": "1358",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/967/"
+        },
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Decisive moment",
+          "contest_key": "theme:934",
+          "contest_id": "934",
+          "under_id": "1274",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/934/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        },
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Pets",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1205",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1205/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best",
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Levitation",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1019",
+          "under_id": "1475",
+          "link": "https://35awards.com/page/contests/num/1019/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Pets in Nature",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "967",
+          "under_id": "1358",
+          "link": "https://35awards.com/page/contests/num/967/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "Decisive moment",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "934",
+          "under_id": "1274",
+          "link": "https://35awards.com/page/contests/num/934/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Pets",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1205",
+          "link": "https://35awards.com/winners11th/nomination/1205/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 4242,
+        "likes": 1,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "lucienermutova",
+        "name": "Lucie Nermuťová",
+        "name_ru": "Lucie Nermuťova",
+        "name_native": "Lucie Nermutova",
+        "profile_url": "https://35awards.com/author/lucienermutova/",
+        "external_profile": "https://35photo.pro/lucienermutova/",
+        "avatar": "avatars/lucienermutova.jpg",
+        "country": "Czech Republic",
+        "country_code": "CZ",
+        "flag": "assets/flags/cz.svg",
+        "city": "Podebrady",
+        "followers": 19,
+        "following": 0,
+        "photos_count": 125,
+        "rank_in_nomination": 3,
+        "genres": [
+          "Pets",
+          "Black and white"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 107
+          },
+          {
+            "name": "Nikon NIKKOR Z 135mm f/1.8 S Plena",
+            "count": 12
+          },
+          {
+            "name": "Nikon NIKKOR Z 85mm f/1.2 S",
+            "count": 7
+          },
+          {
+            "name": "NIKON Z6_3",
+            "count": 5
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 4
+          },
+          {
+            "name": "DJI FC9313",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S Nikkor 300mm f/2.8G IF-ED VR II",
+            "count": 1
+          },
+          {
+            "name": "Nikon NIKKOR Z MC 105mm f/2.8 VR S",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 34,
+      "id": 13096423,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13096423",
+      "source_url": "https://35awards.com/gallery/photo/13096423/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2619/13096423_1500n.jpg",
+        "full": "photos/full/34_jeannegoffin_13096423.jpg",
+        "thumb": "photos/thumb/34_jeannegoffin_13096423.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 985,
+        "likes": 0,
+        "favorites": 1
+      },
+      "author": {
+        "slug": "jeannegoffin",
+        "name": "Jeanne Goffin",
+        "name_ru": "Jeanne Goffin",
+        "name_native": "Jeanne Goffin",
+        "profile_url": "https://35awards.com/author/jeannegoffin/",
+        "external_profile": "https://35photo.pro/jeannegoffin/",
+        "avatar": "",
+        "country": "Belgium",
+        "country_code": "BE",
+        "flag": "assets/flags/be.svg",
+        "city": "Leuze-en-hainaut",
+        "followers": 1,
+        "following": 9,
+        "photos_count": 27,
+        "rank_in_nomination": 59,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6m2",
+            "count": 15
+          },
+          {
+            "name": "Sigma 70-200mm f/2.8 DG OS HSM | S",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 90D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 35,
+      "id": 13346061,
+      "title": "",
+      "description": "Полевые воробьи",
+      "page_url": "https://35awards.com/winners11th/nomination/1203/#photo_13346061",
+      "source_url": "https://35awards.com/gallery/photo/13346061/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2669/13346061_1500n.jpg",
+        "full": "photos/full/35_nataba_13346061.jpg",
+        "thumb": "photos/thumb/35_nataba_13346061.jpg",
+        "width": 1500,
+        "height": 1191
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Motion",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1203",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1203/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Motion",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1203",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1203/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color",
+          "muted"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "motion"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Motion",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1203",
+          "link": "https://35awards.com/winners11th/nomination/1203/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 832,
+        "likes": 1,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "nataba",
+        "name": "Наталья",
+        "name_ru": "Наталья",
+        "name_native": "Наталья",
+        "profile_url": "https://35awards.com/author/nataba/",
+        "external_profile": "https://35photo.pro/nataba/",
+        "avatar": "avatars/nataba.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 204,
+        "following": 0,
+        "photos_count": 121,
+        "rank_in_nomination": 5,
+        "genres": [
+          "Macro",
+          "Animals",
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 7D Mark II",
+            "count": 43
+          },
+          {
+            "name": "Canon EOS R5m2",
+            "count": 31
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 16
+          },
+          {
+            "name": "Canon EF 100-400mm f/4.5-5.6L IS II USM",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 7D",
+            "count": 12
+          },
+          {
+            "name": "Canon EOS R7",
+            "count": 11
+          },
+          {
+            "name": "Canon EF 100 mm f/2.8L Macro IS USM",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 6
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 4
+          },
+          {
+            "name": "Apple iPhone 14 Pro Max",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 70-200 mm f/2.8 L IS II USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

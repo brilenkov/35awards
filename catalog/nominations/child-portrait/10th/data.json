@@ -1,0 +1,4718 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T12:26:41+00:00",
+  "nomination": {
+    "slug": "child-portrait",
+    "name": "Child portrait",
+    "name_ru": "Детский портрет",
+    "description_ru": "Детский портрет с 2021 года: характер, взгляд, свет и естественная пластика ребёнка.",
+    "source_url": "https://35awards.com/winners10th/nomination/1006/",
+    "works_count": "24.1K",
+    "authors_count": ""
+  },
+  "edition": {
+    "slug": "10th",
+    "year": 2024,
+    "title": "10th 35AWARDS",
+    "source_url": "https://35awards.com/winners10th/nomination/1006/",
+    "photographers_url": "https://35awards.com/winners10th/nomination/1006/photographers/"
+  },
+  "limit": 35,
+  "photos": [
+    {
+      "rank": 1,
+      "id": 11838008,
+      "title": "The fate of the Mundari children",
+      "description": "As in 2021, when I first visited Mundari, this year, Mundari children are still working from a very early age.  They and adults don\\\\\\'t know when they were born or how old they are.  In appearance, the youngest workers are between 6-8 years old.  A number of them were born in other cattle camps, away from their parents, and it is thought that they may have been sold or given away for breeding.  \\\\\\\"BREEDING\\\\\\\" is figurative because they have to work to be able to get food.  The cubs\\\\\\' job is to get up at 05.00 every morning, clean up after the cows and goats, milk them, send them off in the morning and welcome them in the evening.",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11838008",
+      "source_url": "https://35awards.com/gallery/photo/11838008/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2367/11838008_1500n.jpg",
+        "full": "photos/full/01_picsvet_11838008.jpg",
+        "thumb": "photos/thumb/01_picsvet_11838008.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1695,
+        "likes": 7,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "picsvet",
+        "name": "Svetlin Yosifov",
+        "name_ru": "Svetlin Yosifov",
+        "name_native": "Svetlin Yosifov",
+        "profile_url": "https://35awards.com/author/picsvet/",
+        "external_profile": "https://35photo.pro/picsvet/",
+        "avatar": "avatars/picsvet.jpg",
+        "country": "Bulgaria",
+        "country_code": "BG",
+        "flag": "assets/flags/bg.svg",
+        "city": "Burgas",
+        "followers": 129,
+        "following": 44,
+        "photos_count": 180,
+        "rank_in_nomination": 60,
+        "genres": [
+          "Portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 110
+          },
+          {
+            "name": "HUAWEI ELE-L29",
+            "count": 21
+          },
+          {
+            "name": "Canon EOS 50D",
+            "count": 11
+          },
+          {
+            "name": "HUAWEI ELS-NX9",
+            "count": 10
+          },
+          {
+            "name": "HUAWEI Mate 50 Pro",
+            "count": 8
+          },
+          {
+            "name": "HUAWEI P60 Pro",
+            "count": 7
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 350D DIGITAL",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 11991523,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11991523",
+      "source_url": "https://35awards.com/gallery/photo/11991523/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2398/11991523_1500n.jpg",
+        "full": "photos/full/02_svetabutko1_11991523.jpg",
+        "thumb": "photos/thumb/02_svetabutko1_11991523.jpg",
+        "width": 1037,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1027,
+        "likes": 2,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "svetabutko1",
+        "name": "Sveta Butko",
+        "name_ru": "Sveta Butko",
+        "name_native": "Sveta Butko",
+        "profile_url": "https://35awards.com/author/svetabutko1/",
+        "external_profile": "https://35photo.pro/svetabutko1/",
+        "avatar": "avatars/svetabutko1.jpg",
+        "country": "United States",
+        "country_code": "US",
+        "flag": "assets/flags/us.svg",
+        "city": "Dallas",
+        "followers": 49,
+        "following": 75,
+        "photos_count": 62,
+        "rank_in_nomination": 1,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 23
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 22
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 14
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 11971423,
+      "title": "",
+      "description": "The Beetle’s Kiss",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11971423",
+      "source_url": "https://35awards.com/gallery/photo/11971423/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2394/11971423_1500n.jpg",
+        "full": "photos/full/03_oliwiamajor_11971423.jpg",
+        "thumb": "photos/thumb/03_oliwiamajor_11971423.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1039,
+        "likes": 2,
+        "favorites": 13
+      },
+      "author": {
+        "slug": "oliwiamajor",
+        "name": "Oliwia Major",
+        "name_ru": "Oliwia Major",
+        "name_native": "Oliwia Major",
+        "profile_url": "https://35awards.com/author/oliwiamajor/",
+        "external_profile": "https://35photo.pro/oliwiamajor/",
+        "avatar": "",
+        "country": "Netherlands",
+        "country_code": "NL",
+        "flag": "assets/flags/nl.svg",
+        "city": "Nuland",
+        "followers": 10,
+        "following": 0,
+        "photos_count": 25,
+        "rank_in_nomination": 5,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 4,
+      "id": 11018479,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11018479",
+      "source_url": "https://35awards.com/gallery/photo/11018479/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2203/11018479_1500n.jpg",
+        "full": "photos/full/04_karamelka280586_11018479.jpg",
+        "thumb": "photos/thumb/04_karamelka280586_11018479.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1657,
+        "likes": 2,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "karamelka280586",
+        "name": "Zhdanova Maria",
+        "name_ru": "Zhdanova Maria",
+        "name_native": "Zhdanova",
+        "profile_url": "https://35awards.com/author/karamelka280586/",
+        "external_profile": "https://35photo.pro/karamelka280586/",
+        "avatar": "avatars/karamelka280586.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Kirov",
+        "followers": 22,
+        "following": 1,
+        "photos_count": 250,
+        "rank_in_nomination": 12,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R",
+            "count": 218
+          },
+          {
+            "name": "Canon RF 50mm F1.8 STM",
+            "count": 20
+          },
+          {
+            "name": "Nikon Z50",
+            "count": 11
+          },
+          {
+            "name": "Nikon D5200",
+            "count": 9
+          },
+          {
+            "name": "OPPO Reno4 Lite",
+            "count": 7
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 10572571,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10572571",
+      "source_url": "https://35awards.com/gallery/photo/10572571/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2114/10572571_1500n.jpg",
+        "full": "photos/full/05_deevaelena_10572571.jpg",
+        "thumb": "photos/thumb/05_deevaelena_10572571.jpg",
+        "width": 1075,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "1636",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2060,
+        "likes": 3,
+        "favorites": 17
+      },
+      "author": {
+        "slug": "deevaelena",
+        "name": "Деева Елена",
+        "name_ru": "Елена Деева",
+        "name_native": "Elena",
+        "profile_url": "https://35awards.com/author/deevaelena/",
+        "external_profile": "https://35photo.pro/deevaelena/",
+        "avatar": "avatars/deevaelena.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Ростов-на-Дону",
+        "followers": 213,
+        "following": 4,
+        "photos_count": 201,
+        "rank_in_nomination": 70,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Children staged photography",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 111
+          },
+          {
+            "name": "Canon EOS 7D",
+            "count": 47
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 21
+          },
+          {
+            "name": "Canon EF 50 mm f/1.8 stm",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 11520135,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11520135",
+      "source_url": "https://35awards.com/gallery/photo/11520135/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2304/11520135_1500n.jpg",
+        "full": "photos/full/06_irinagarsh_11520135.jpg",
+        "thumb": "photos/thumb/06_irinagarsh_11520135.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1434,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "irinagarsh",
+        "name": "Ирина Гарш",
+        "name_ru": "Ирина Гарш",
+        "name_native": "Irina Garsh",
+        "profile_url": "https://35awards.com/author/irinagarsh/",
+        "external_profile": "https://35photo.pro/irinagarsh/",
+        "avatar": "avatars/irinagarsh.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Киров",
+        "followers": 228,
+        "following": 1,
+        "photos_count": 304,
+        "rank_in_nomination": 7,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 263
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 11992503,
+      "title": "White Angels",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11992503",
+      "source_url": "https://35awards.com/gallery/photo/11992503/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2398/11992503_1500n.jpg",
+        "full": "photos/full/07_danialnadimi_11992503.jpg",
+        "thumb": "photos/thumb/07_danialnadimi_11992503.jpg",
+        "width": 1090,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 914,
+        "likes": 4,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "danialnadimi",
+        "name": "Danialnadimi",
+        "name_ru": "Danialnadimi",
+        "name_native": "Danial nadimi",
+        "profile_url": "https://35awards.com/author/danialnadimi/",
+        "external_profile": "https://35photo.pro/danialnadimi/",
+        "avatar": "avatars/danialnadimi.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "Isfahan",
+        "followers": 44,
+        "following": 4,
+        "photos_count": 37,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": []
+      }
+    },
+    {
+      "rank": 8,
+      "id": 11132836,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11132836",
+      "source_url": "https://35awards.com/gallery/photo/11132836/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2226/11132836_1500n.jpg",
+        "full": "photos/full/08_anton535_11132836.jpg",
+        "thumb": "photos/thumb/08_anton535_11132836.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 4%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Perfect Children staged photography",
+        "contest_key": "theme:872",
+        "contest_id": "872",
+        "under_id": "1113",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/872/"
+      },
+      "honours": [
+        {
+          "label": "TOP 4%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Perfect Children staged photography",
+          "contest_key": "theme:872",
+          "contest_id": "872",
+          "under_id": "1113",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/872/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Green Color",
+          "contest_key": "theme:869",
+          "contest_id": "869",
+          "under_id": "1105",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/869/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Perfect Portrait",
+          "contest_key": "theme:871",
+          "contest_id": "871",
+          "under_id": "1108",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/871/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Perfect Children staged photography",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "872",
+          "under_id": "1113",
+          "link": "https://35awards.com/page/contests/num/872/",
+          "badge": "TOP 4%",
+          "tier": "top"
+        },
+        {
+          "name": "Green Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "869",
+          "under_id": "1105",
+          "link": "https://35awards.com/page/contests/num/869/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "Perfect Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "871",
+          "under_id": "1108",
+          "link": "https://35awards.com/page/contests/num/871/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 2736,
+        "likes": 8,
+        "favorites": 23
+      },
+      "author": {
+        "slug": "anton535",
+        "name": "Антон Леонов",
+        "name_ru": "Антон Леонов",
+        "name_native": "Anton Leonov",
+        "profile_url": "https://35awards.com/author/anton535/",
+        "external_profile": "https://35photo.pro/anton535/",
+        "avatar": "avatars/anton535.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 212,
+        "following": 0,
+        "photos_count": 156,
+        "rank_in_nomination": 10,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 101
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 51
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8 L USM",
+            "count": 21
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 7
+          },
+          {
+            "name": "Canon EF 70-200 mm f/2.8 L IS II USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 40D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 11437396,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11437396",
+      "source_url": "https://35awards.com/gallery/photo/11437396/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2287/11437396_1500n.jpg",
+        "full": "photos/full/09_vodnat_11437396.jpg",
+        "thumb": "photos/thumb/09_vodnat_11437396.jpg",
+        "width": 1199,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Perfect Portrait",
+        "contest_key": "theme:871",
+        "contest_id": "871",
+        "under_id": "1108",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/871/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Perfect Portrait",
+          "contest_key": "theme:871",
+          "contest_id": "871",
+          "under_id": "1108",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/871/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Perfect Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "871",
+          "under_id": "1108",
+          "link": "https://35awards.com/page/contests/num/871/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1219,
+        "likes": 1,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "vodnat",
+        "name": "Наталья Водовозова",
+        "name_ru": "Наталья Водовозова",
+        "name_native": "Natalya Vodovozova",
+        "profile_url": "https://35awards.com/author/vodnat/",
+        "external_profile": "https://35photo.pro/vodnat/",
+        "avatar": "avatars/vodnat.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Краснодар",
+        "followers": 105,
+        "following": 0,
+        "photos_count": 372,
+        "rank_in_nomination": 9,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Child portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R",
+            "count": 218
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 101
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 51
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 29
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 4
+          },
+          {
+            "name": "Sigma 50mm f/1.4 DG HSM | A or Zeiss Milvus 50mm f/1.4 or Sigma 50mm f/1.5 FF High-Speed Prime | 017 or Tokina Opera 50mm f/1.4 FF",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 11625242,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11625242",
+      "source_url": "https://35awards.com/gallery/photo/11625242/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2325/11625242_1500n.jpg",
+        "full": "photos/full/10_elena968_11625242.jpg",
+        "thumb": "photos/thumb/10_elena968_11625242.jpg",
+        "width": 1047,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1390,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "elena968",
+        "name": "Lena Sellberg",
+        "name_ru": "Lena Sellberg",
+        "name_native": "Lena Sellberg",
+        "profile_url": "https://35awards.com/author/elena968/",
+        "external_profile": "https://35photo.pro/elena968/",
+        "avatar": "avatars/elena968.jpg",
+        "country": "Norway",
+        "country_code": "NO",
+        "flag": "assets/flags/no.svg",
+        "city": "Svelvik",
+        "followers": 9,
+        "following": 0,
+        "photos_count": 213,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Newborn"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 162
+          },
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 26
+          },
+          {
+            "name": "Tamron SP 24-70mm f/2.8 Di VC USD (A007)",
+            "count": 6
+          },
+          {
+            "name": "Pentax K20D",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "id": 11767177,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11767177",
+      "source_url": "https://35awards.com/gallery/photo/11767177/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2353/11767177_1500n.jpg",
+        "full": "photos/full/11_irinahromova_11767177.jpg",
+        "thumb": "photos/thumb/11_irinahromova_11767177.jpg",
+        "width": 969,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1438,
+        "likes": 3,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "irinahromova",
+        "name": "Ирина Хромова",
+        "name_ru": "Ирина Хромова",
+        "name_native": "Irina Khromova",
+        "profile_url": "https://35awards.com/author/irinahromova/",
+        "external_profile": "https://35photo.pro/irinahromova/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Обнинск",
+        "followers": 29,
+        "following": 0,
+        "photos_count": 634,
+        "rank_in_nomination": 23,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Black and white",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 480
+          },
+          {
+            "name": "HUAWEI VOG-L29",
+            "count": 44
+          },
+          {
+            "name": "Nikon D850",
+            "count": 35
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 20
+          },
+          {
+            "name": "Nikon AF-S 24-70mm f/2,8G ED",
+            "count": 15
+          },
+          {
+            "name": "HUAWEI JAD-LX9",
+            "count": 12
+          },
+          {
+            "name": "Samsung SM-A300F",
+            "count": 7
+          },
+          {
+            "name": "Nikon AF80-200MM F/2.8D ED",
+            "count": 2
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 85mm f/1.4G",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "id": 10899477,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10899477",
+      "source_url": "https://35awards.com/gallery/photo/10899477/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2179/10899477_1500n.jpg",
+        "full": "photos/full/12_annamahrough_10899477.jpg",
+        "thumb": "photos/thumb/12_annamahrough_10899477.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1657,
+        "likes": 1,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "annamahrough",
+        "name": "Anna Mahrough",
+        "name_ru": "Anna Mahrough",
+        "name_native": "Anna Mahrough",
+        "profile_url": "https://35awards.com/author/annamahrough/",
+        "external_profile": "https://35photo.pro/annamahrough/",
+        "avatar": "avatars/annamahrough.jpg",
+        "country": "Netherlands",
+        "country_code": "NL",
+        "flag": "assets/flags/nl.svg",
+        "city": "Sprundel",
+        "followers": 36,
+        "following": 0,
+        "photos_count": 243,
+        "rank_in_nomination": 8,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 143
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 23
+          }
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "id": 11523383,
+      "title": "I.. You.. We..",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11523383",
+      "source_url": "https://35awards.com/gallery/photo/11523383/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2304/11523383_1500n.jpg",
+        "full": "photos/full/13_valdis_11523383.jpg",
+        "thumb": "photos/thumb/13_valdis_11523383.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Emotional Portraits of Children",
+        "contest_key": "theme:906",
+        "contest_id": "906",
+        "under_id": "1188",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/906/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Emotional Portraits of Children",
+          "contest_key": "theme:906",
+          "contest_id": "906",
+          "under_id": "1188",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/906/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Emotional Portraits of Children",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "906",
+          "under_id": "1188",
+          "link": "https://35awards.com/page/contests/num/906/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2524,
+        "likes": 2,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "valdis",
+        "name": "Влад Соколовский",
+        "name_ru": "Влад Соколовский",
+        "name_native": "Vlad Sokolovsky",
+        "profile_url": "https://35awards.com/author/valdis/",
+        "external_profile": "https://35photo.pro/valdis/",
+        "avatar": "avatars/valdis.jpg",
+        "country": "Belarus",
+        "country_code": "BY",
+        "flag": "assets/flags/by.svg",
+        "city": "Минск",
+        "followers": 2545,
+        "following": 112,
+        "photos_count": 295,
+        "rank_in_nomination": 32,
+        "genres": [
+          "Landscape",
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 104
+          },
+          {
+            "name": "Nikon D610",
+            "count": 60
+          },
+          {
+            "name": "Nikon D850",
+            "count": 32
+          },
+          {
+            "name": "DJI FC3411",
+            "count": 31
+          },
+          {
+            "name": "NIKON Z 8",
+            "count": 12
+          },
+          {
+            "name": "Nikon D800",
+            "count": 9
+          },
+          {
+            "name": "Nikon D90",
+            "count": 5
+          },
+          {
+            "name": "Apple iPhone SE",
+            "count": 5
+          },
+          {
+            "name": "Apple iPhone XS",
+            "count": 4
+          },
+          {
+            "name": "Nikon D500",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 3
+          },
+          {
+            "name": "Nikon D7000",
+            "count": 3
+          },
+          {
+            "name": "DJI FC9113",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 2
+          },
+          {
+            "name": "Fujifilm X-T10",
+            "count": 2
+          },
+          {
+            "name": "Nikon NIKKOR Z 180-600mm f/5.6-6.3 VR",
+            "count": 1
+          },
+          {
+            "name": "Tamron SP AF 150-600mm f/5-6.3 VC USD (A011)",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 15 Pro",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 16-35mm f/4G ED VR",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "id": 10901702,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10901702",
+      "source_url": "https://35awards.com/gallery/photo/10901702/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2180/10901702_1500n.jpg",
+        "full": "photos/full/14_annamahrough_10901702.jpg",
+        "thumb": "photos/thumb/14_annamahrough_10901702.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1665,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "annamahrough",
+        "name": "Anna Mahrough",
+        "name_ru": "Anna Mahrough",
+        "name_native": "Anna Mahrough",
+        "profile_url": "https://35awards.com/author/annamahrough/",
+        "external_profile": "https://35photo.pro/annamahrough/",
+        "avatar": "avatars/annamahrough.jpg",
+        "country": "Netherlands",
+        "country_code": "NL",
+        "flag": "assets/flags/nl.svg",
+        "city": "Sprundel",
+        "followers": 36,
+        "following": 0,
+        "photos_count": 243,
+        "rank_in_nomination": 8,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 143
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 23
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "id": 10785445,
+      "title": "Маленькая посудомойка",
+      "description": "Фотография сделана по мотивам сказки \"Золушка\". ",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10785445",
+      "source_url": "https://35awards.com/gallery/photo/10785445/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2157/10785445_1500n.jpg",
+        "full": "photos/full/15_alla131212_10785445.jpg",
+        "thumb": "photos/thumb/15_alla131212_10785445.jpg",
+        "width": 997,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1617,
+        "likes": 0,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "alla131212",
+        "name": "Алла Нургалеева",
+        "name_ru": "Алла Попова",
+        "name_native": "Alla Popova",
+        "profile_url": "https://35awards.com/author/alla131212/",
+        "external_profile": "https://35photo.pro/alla131212/",
+        "avatar": "avatars/alla131212.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Иркутск",
+        "followers": 7,
+        "following": 3,
+        "photos_count": 77,
+        "rank_in_nomination": 28,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D780",
+            "count": 55
+          },
+          {
+            "name": "Nikon D610",
+            "count": 14
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "id": 11989630,
+      "title": "Sofia",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11989630",
+      "source_url": "https://35awards.com/gallery/photo/11989630/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2397/11989630_1500n.jpg",
+        "full": "photos/full/16_alexiam_11989630.jpg",
+        "thumb": "photos/thumb/16_alexiam_11989630.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 2%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "1606",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Staged portrait in natural light",
+          "contest_key": "theme:971",
+          "contest_id": "971",
+          "under_id": "1369",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/971/"
+        },
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Emotional Portraits of Children",
+          "contest_key": "theme:906",
+          "contest_id": "906",
+          "under_id": "1188",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/906/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "Staged portrait in natural light",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "971",
+          "under_id": "1369",
+          "link": "https://35awards.com/page/contests/num/971/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "Emotional Portraits of Children",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "906",
+          "under_id": "1188",
+          "link": "https://35awards.com/page/contests/num/906/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2659,
+        "likes": 0,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "alexiam",
+        "name": "Алексей Андреев",
+        "name_ru": "Андреев Алексей",
+        "name_native": "Aleksei Andreev",
+        "profile_url": "https://35awards.com/author/alexiam/",
+        "external_profile": "https://35photo.pro/alexiam/",
+        "avatar": "avatars/alexiam.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Нижний Новгород",
+        "followers": 103,
+        "following": 3,
+        "photos_count": 393,
+        "rank_in_nomination": 34,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 241
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 99
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 21
+          },
+          {
+            "name": "Apple iPhone 13",
+            "count": 10
+          },
+          {
+            "name": "Apple iPhone 16 Pro",
+            "count": 5
+          },
+          {
+            "name": "Samsung SM-G920F",
+            "count": 5
+          },
+          {
+            "name": "Fujifilm X-T4",
+            "count": 2
+          },
+          {
+            "name": "LEICA Q3",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm X100VI",
+            "count": 1
+          },
+          {
+            "name": "HUAWEI VTR-L29",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 500D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "id": 10931067,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10931067",
+      "source_url": "https://35awards.com/gallery/photo/10931067/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2186/10931067_1500n.jpg",
+        "full": "photos/full/17_svetlana530_10931067.jpg",
+        "thumb": "photos/thumb/17_svetlana530_10931067.jpg",
+        "width": 1076,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 11%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Surrealism",
+        "contest_key": "theme:804",
+        "contest_id": "804",
+        "under_id": "1034",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/804/"
+      },
+      "honours": [
+        {
+          "label": "TOP 11%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Surrealism",
+          "contest_key": "theme:804",
+          "contest_id": "804",
+          "under_id": "1034",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/804/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Surrealism",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "804",
+          "under_id": "1034",
+          "link": "https://35awards.com/page/contests/num/804/",
+          "badge": "TOP 11%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1469,
+        "likes": 0,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "svetlana530",
+        "name": "Светлана Моисеева",
+        "name_ru": "Светлана Моисеева",
+        "name_native": "Светлана Моисеева",
+        "profile_url": "https://35awards.com/author/svetlana530/",
+        "external_profile": "https://35photo.pro/svetlana530/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Нижний Новгород",
+        "followers": 0,
+        "following": 1,
+        "photos_count": 212,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Children staged photography",
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Samsung SM-A515F",
+            "count": 55
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 28
+          },
+          {
+            "name": "Nikon Z50",
+            "count": 8
+          },
+          {
+            "name": "Sony DSLR-A230",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "id": 11108976,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11108976",
+      "source_url": "https://35awards.com/gallery/photo/11108976/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2221/11108976_1500n.jpg",
+        "full": "photos/full/18_ippenkinaa_11108976.jpg",
+        "thumb": "photos/thumb/18_ippenkinaa_11108976.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1551,
+        "likes": 1,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "ippenkinaa",
+        "name": "Александр",
+        "name_ru": "Александр Пенкин",
+        "name_native": "ALEKSANDR PENKIN",
+        "profile_url": "https://35awards.com/author/ippenkinaa/",
+        "external_profile": "https://35photo.pro/ippenkinaa/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Moscow",
+        "followers": 0,
+        "following": 3,
+        "photos_count": 36,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Architecture"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 7
+          },
+          {
+            "name": "Sony ILCE-7CM2",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "id": 11027737,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11027737",
+      "source_url": "https://35awards.com/gallery/photo/11027737/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2205/11027737_1500n.jpg",
+        "full": "photos/full/19_annamahrough_11027737.jpg",
+        "thumb": "photos/thumb/19_annamahrough_11027737.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 2%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Perfect Portrait",
+        "contest_key": "theme:871",
+        "contest_id": "871",
+        "under_id": "1108",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/871/"
+      },
+      "honours": [
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Perfect Portrait",
+          "contest_key": "theme:871",
+          "contest_id": "871",
+          "under_id": "1108",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/871/"
+        },
+        {
+          "label": "TOP 5%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Black Color",
+          "contest_key": "theme:868",
+          "contest_id": "868",
+          "under_id": "1103",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/868/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Perfect Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "871",
+          "under_id": "1108",
+          "link": "https://35awards.com/page/contests/num/871/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "Black Color",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "868",
+          "under_id": "1103",
+          "link": "https://35awards.com/page/contests/num/868/",
+          "badge": "TOP 5%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1428,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "annamahrough",
+        "name": "Anna Mahrough",
+        "name_ru": "Anna Mahrough",
+        "name_native": "Anna Mahrough",
+        "profile_url": "https://35awards.com/author/annamahrough/",
+        "external_profile": "https://35photo.pro/annamahrough/",
+        "avatar": "avatars/annamahrough.jpg",
+        "country": "Netherlands",
+        "country_code": "NL",
+        "flag": "assets/flags/nl.svg",
+        "city": "Sprundel",
+        "followers": 36,
+        "following": 0,
+        "photos_count": 243,
+        "rank_in_nomination": 8,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 143
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 23
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "id": 11043835,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11043835",
+      "source_url": "https://35awards.com/gallery/photo/11043835/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2208/11043835_1500n.jpg",
+        "full": "photos/full/20_anton535_11043835.jpg",
+        "thumb": "photos/thumb/20_anton535_11043835.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1834,
+        "likes": 1,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "anton535",
+        "name": "Антон Леонов",
+        "name_ru": "Антон Леонов",
+        "name_native": "Anton Leonov",
+        "profile_url": "https://35awards.com/author/anton535/",
+        "external_profile": "https://35photo.pro/anton535/",
+        "avatar": "avatars/anton535.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 212,
+        "following": 0,
+        "photos_count": 156,
+        "rank_in_nomination": 10,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 101
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 51
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8 L USM",
+            "count": 21
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 7
+          },
+          {
+            "name": "Canon EF 70-200 mm f/2.8 L IS II USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 40D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 21,
+      "id": 11408159,
+      "title": "",
+      "description": "Marusja",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11408159",
+      "source_url": "https://35awards.com/gallery/photo/11408159/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2281/11408159_1500n.jpg",
+        "full": "photos/full/21_anabell_11408159.jpg",
+        "thumb": "photos/thumb/21_anabell_11408159.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1410,
+        "likes": 0,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "anabell",
+        "name": "Alimpieva Anna",
+        "name_ru": "Алимпиева Анна",
+        "name_native": "Alimpieva Anna",
+        "profile_url": "https://35awards.com/author/anabell/",
+        "external_profile": "https://35photo.pro/anabell/",
+        "avatar": "avatars/anabell.jpg",
+        "country": "Finland",
+        "country_code": "FI",
+        "flag": "assets/flags/fi.svg",
+        "city": "Joensuu",
+        "followers": 232,
+        "following": 51,
+        "photos_count": 272,
+        "rank_in_nomination": 3,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 183
+          },
+          {
+            "name": "Nikon D850",
+            "count": 72
+          },
+          {
+            "name": "Sigma 35mm F1.4 DG HSM",
+            "count": 12
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 9
+          },
+          {
+            "name": "Nikon D7100",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 22,
+      "id": 11648161,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11648161",
+      "source_url": "https://35awards.com/gallery/photo/11648161/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2329/11648161_1500n.jpg",
+        "full": "photos/full/22_annabelkaphoto_11648161.jpg",
+        "thumb": "photos/thumb/22_annabelkaphoto_11648161.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1209,
+        "likes": 0,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "annabelkaphoto",
+        "name": "Anna",
+        "name_ru": "Анна Белка",
+        "name_native": "Anna Belka",
+        "profile_url": "https://35awards.com/author/annabelkaphoto/",
+        "external_profile": "https://35photo.pro/annabelkaphoto/",
+        "avatar": "avatars/annabelkaphoto.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Иркутск",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 69,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "NIKON Z 8",
+            "count": 27
+          },
+          {
+            "name": "Nikon Z7_2",
+            "count": 21
+          },
+          {
+            "name": "Nikon NIKKOR Z 50mm f/1.2 S",
+            "count": 20
+          },
+          {
+            "name": "Apple iPhone 14 Pro Max",
+            "count": 12
+          },
+          {
+            "name": "Nikon NIKKOR Z 85mm f/1.2 S",
+            "count": 6
+          },
+          {
+            "name": "Nikon D850",
+            "count": 3
+          },
+          {
+            "name": "Apple iPhone 12 Pro Max",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 23,
+      "id": 11792718,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11792718",
+      "source_url": "https://35awards.com/gallery/photo/11792718/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2358/11792718_1500n.jpg",
+        "full": "photos/full/23_lyusibat_11792718.jpg",
+        "thumb": "photos/thumb/23_lyusibat_11792718.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1436,
+        "likes": 2,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "lyusibat",
+        "name": "Батанова Людмила",
+        "name_ru": "Людмила Батанова",
+        "name_native": "Lyudmila Batanova",
+        "profile_url": "https://35awards.com/author/lyusibat/",
+        "external_profile": "https://35photo.pro/lyusibat/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Murmansk",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 6,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Fujifilm X-T4",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 24,
+      "id": 11991526,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11991526",
+      "source_url": "https://35awards.com/gallery/photo/11991526/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2398/11991526_1500n.jpg",
+        "full": "photos/full/24_svetabutko1_11991526.jpg",
+        "thumb": "photos/thumb/24_svetabutko1_11991526.jpg",
+        "width": 1091,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 895,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "svetabutko1",
+        "name": "Sveta Butko",
+        "name_ru": "Sveta Butko",
+        "name_native": "Sveta Butko",
+        "profile_url": "https://35awards.com/author/svetabutko1/",
+        "external_profile": "https://35photo.pro/svetabutko1/",
+        "avatar": "avatars/svetabutko1.jpg",
+        "country": "United States",
+        "country_code": "US",
+        "flag": "assets/flags/us.svg",
+        "city": "Dallas",
+        "followers": 49,
+        "following": 75,
+        "photos_count": 62,
+        "rank_in_nomination": 1,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 23
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 22
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 14
+          }
+        ]
+      }
+    },
+    {
+      "rank": 25,
+      "id": 11962004,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11962004",
+      "source_url": "https://35awards.com/gallery/photo/11962004/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2392/11962004_1500n.jpg",
+        "full": "photos/full/25_lemondm_11962004.jpg",
+        "thumb": "photos/thumb/25_lemondm_11962004.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 887,
+        "likes": 1,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "lemondm",
+        "name": "Татьяна Максакова",
+        "name_ru": "Татьяна Максакова",
+        "name_native": "Tanita Maksakova",
+        "profile_url": "https://35awards.com/author/lemondm/",
+        "external_profile": "https://35photo.pro/lemondm/",
+        "avatar": "avatars/lemondm.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Калининград",
+        "followers": 66,
+        "following": 6,
+        "photos_count": 351,
+        "rank_in_nomination": 18,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Still life",
+          "Macro"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS RP",
+            "count": 343
+          },
+          {
+            "name": "Canon EOS 500D",
+            "count": 4
+          },
+          {
+            "name": "Samsung SM-G935F",
+            "count": 1
+          },
+          {
+            "name": "Canon PowerShot S3 IS",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 26,
+      "id": 10447030,
+      "title": "summer",
+      "description": "Life is beautiful!",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10447030",
+      "source_url": "https://35awards.com/gallery/photo/10447030/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2089/10447030_1500n.jpg",
+        "full": "photos/full/26_airide129_10447030.jpg",
+        "thumb": "photos/thumb/26_airide129_10447030.jpg",
+        "width": 1088,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1682,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "airide129",
+        "name": "Airide Skrabuliene",
+        "name_ru": "Airide Skrabuliene",
+        "name_native": "Airide Skra",
+        "profile_url": "https://35awards.com/author/airide129/",
+        "external_profile": "https://35photo.pro/airide129/",
+        "avatar": "avatars/airide129.jpg",
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "flag": "assets/flags/gb.svg",
+        "city": "Basildon",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 45,
+        "rank_in_nomination": 65,
+        "genres": [
+          "Child portrait",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 34
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "rank": 27,
+      "id": 11233400,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11233400",
+      "source_url": "https://35awards.com/gallery/photo/11233400/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2246/11233400_1500n.jpg",
+        "full": "photos/full/27_cantu_11233400.jpg",
+        "thumb": "photos/thumb/27_cantu_11233400.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1570,
+        "likes": 2,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "cantu",
+        "name": "Marce Cantu",
+        "name_ru": "Marce Cantu",
+        "name_native": "Nydia Marcela Cantu Cantu",
+        "profile_url": "https://35awards.com/author/cantu/",
+        "external_profile": "https://35photo.pro/cantu/",
+        "avatar": "avatars/cantu.jpg",
+        "country": "Mexico",
+        "country_code": "MX",
+        "flag": "assets/flags/mx.svg",
+        "city": "Monterrey",
+        "followers": 4,
+        "following": 2,
+        "photos_count": 33,
+        "rank_in_nomination": null,
+        "genres": [
+          "Newborn"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 31
+          },
+          {
+            "name": "Canon EF 50 mm f/1.2 L USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 28,
+      "id": 10850837,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10850837",
+      "source_url": "https://35awards.com/gallery/photo/10850837/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2170/10850837_1500n.jpg",
+        "full": "photos/full/28_angelika070574_10850837.jpg",
+        "thumb": "photos/thumb/28_angelika070574_10850837.jpg",
+        "width": 1001,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1537,
+        "likes": 2,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "angelika070574",
+        "name": "Анжелика Ерохина",
+        "name_ru": "Анжелика Ерохина",
+        "name_native": "Angelika Yerokhina",
+        "profile_url": "https://35awards.com/author/angelika070574/",
+        "external_profile": "https://35photo.pro/angelika070574/",
+        "avatar": "avatars/angelika070574.jpg",
+        "country": "Kazakhstan",
+        "country_code": "KZ",
+        "flag": "assets/flags/kz.svg",
+        "city": "Алматы",
+        "followers": 18,
+        "following": 0,
+        "photos_count": 283,
+        "rank_in_nomination": 30,
+        "genres": [
+          "Staged photography",
+          "Children staged photography",
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon Z5",
+            "count": 276
+          },
+          {
+            "name": "Sigma 135mm F1.8 DG HSM | A",
+            "count": 13
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 29,
+      "id": 11986939,
+      "title": "Счастливое детство ",
+      "description": "Смешная и очень чумазая серия фотографий:) \r\n",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11986939",
+      "source_url": "https://35awards.com/gallery/photo/11986939/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2397/11986939_1500n.jpg",
+        "full": "photos/full/29_inferna7777_11986939.jpg",
+        "thumb": "photos/thumb/29_inferna7777_11986939.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 897,
+        "likes": 0,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "inferna7777",
+        "name": "Инна Гайнуллина",
+        "name_ru": "Инна Гайнуллина",
+        "name_native": "Инна Гайнуллина",
+        "profile_url": "https://35awards.com/author/inferna7777/",
+        "external_profile": "https://35photo.pro/inferna7777/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Казань",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 5,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon Z5",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 30,
+      "id": 11725218,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11725218",
+      "source_url": "https://35awards.com/gallery/photo/11725218/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2345/11725218_1500n.jpg",
+        "full": "photos/full/30_oxana101_11725218.jpg",
+        "thumb": "photos/thumb/30_oxana101_11725218.jpg",
+        "width": 1107,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1548,
+        "likes": 1,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "oxana101",
+        "name": "Оксана Завьялова",
+        "name_ru": "Оксана Завьялова",
+        "name_native": "Oxana Zavyalova",
+        "profile_url": "https://35awards.com/author/oxana101/",
+        "external_profile": "https://35photo.pro/oxana101/",
+        "avatar": "avatars/oxana101.jpg",
+        "country": "Kazakhstan",
+        "country_code": "KZ",
+        "flag": "assets/flags/kz.svg",
+        "city": "Алма-Ата",
+        "followers": 106,
+        "following": 33,
+        "photos_count": 163,
+        "rank_in_nomination": 21,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Child portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 143
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 27
+          },
+          {
+            "name": "Sigma 50mm f/1.4 DG HSM | A or Zeiss Milvus 50mm f/1.4 or Sigma 50mm f/1.5 FF High-Speed Prime | 017 or Tokina Opera 50mm f/1.4 FF",
+            "count": 5
+          },
+          {
+            "name": "Sigma 24-70mm f/2.8 DG OS HSM | A",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 31,
+      "id": 10530352,
+      "title": "The Beauty of Labor",
+      "description": "A little girl stands at the foot of Thẩm Mã slope, selling yellow flowers under the warm sun. The steep slope behind her contrasts with her small figure, as travelers pass by, noticing the delicate beauty she offers. The flowers glow in the sunlight, swaying gently in the breeze. Despite her young age, she stands with quiet strength, blending into the majestic landscape.",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_10530352",
+      "source_url": "https://35awards.com/gallery/photo/10530352/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2106/10530352_1500n.jpg",
+        "full": "photos/full/31_thngvduy_10530352.jpg",
+        "thumb": "photos/thumb/31_thngvduy_10530352.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 6%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Children's Portrait with Flowers",
+        "contest_key": "theme:1060",
+        "contest_id": "1060",
+        "under_id": "1577",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1060/"
+      },
+      "honours": [
+        {
+          "label": "TOP 6%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Children's Portrait with Flowers",
+          "contest_key": "theme:1060",
+          "contest_id": "1060",
+          "under_id": "1577",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1060/"
+        },
+        {
+          "label": "TOP 8%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Children portrait with flowers",
+          "contest_key": "theme:815",
+          "contest_id": "815",
+          "under_id": "1045",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/815/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Children's Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1060",
+          "under_id": "1577",
+          "link": "https://35awards.com/page/contests/num/1060/",
+          "badge": "TOP 6%",
+          "tier": "top"
+        },
+        {
+          "name": "Children portrait with flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "815",
+          "under_id": "1045",
+          "link": "https://35awards.com/page/contests/num/815/",
+          "badge": "TOP 8%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1926,
+        "likes": 1,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "thngvduy",
+        "name": "Thắng Vũ Duy",
+        "name_ru": "Thang Vu Duy",
+        "name_native": "VU DUY THANG",
+        "profile_url": "https://35awards.com/author/thngvduy/",
+        "external_profile": "https://35photo.pro/thngvduy/",
+        "avatar": "avatars/thngvduy.jpg",
+        "country": "Viet Nam",
+        "country_code": "VN",
+        "flag": "assets/flags/vn.svg",
+        "city": "Hai Duong",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 2,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7C",
+            "count": 1
+          },
+          {
+            "name": "OPPO Find X8 Pro",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 32,
+      "id": 11639380,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11639380",
+      "source_url": "https://35awards.com/gallery/photo/11639380/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2327/11639380_1500n.jpg",
+        "full": "photos/full/32_id798654432_11639380.jpg",
+        "thumb": "photos/thumb/32_id798654432_11639380.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1392,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "id798654432",
+        "name": "Юлия Юдина",
+        "name_ru": "Юлия Юдина",
+        "name_native": "Юлия Юдина",
+        "profile_url": "https://35awards.com/author/id798654432/",
+        "external_profile": "https://35photo.pro/id798654432/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Владивосток",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 6,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS RP",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 33,
+      "id": 11851873,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11851873",
+      "source_url": "https://35awards.com/gallery/photo/11851873/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2370/11851873_1500n.jpg",
+        "full": "photos/full/33_pashelen_11851873.jpg",
+        "thumb": "photos/thumb/33_pashelen_11851873.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1407,
+        "likes": 0,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "pashelen",
+        "name": "Елена",
+        "name_ru": "Елена",
+        "name_native": "Елена",
+        "profile_url": "https://35awards.com/author/pashelen/",
+        "external_profile": "https://35photo.pro/pashelen/",
+        "avatar": "avatars/pashelen.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 85,
+        "rank_in_nomination": null,
+        "genres": [
+          "Conceptual Photo",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 31
+          },
+          {
+            "name": "Apple iPhone 11 Pro",
+            "count": 18
+          },
+          {
+            "name": "Apple iPhone 12 Pro",
+            "count": 6
+          },
+          {
+            "name": "Canon EOS 50D",
+            "count": 2
+          },
+          {
+            "name": "Sony FE 35mm F1.8 (SEL35F18F)",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 34,
+      "id": 11979757,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11979757",
+      "source_url": "https://35awards.com/gallery/photo/11979757/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2395/11979757_1500n.jpg",
+        "full": "photos/full/34_pascoalsvetlana_11979757.jpg",
+        "thumb": "photos/thumb/34_pascoalsvetlana_11979757.jpg",
+        "width": 1141,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 893,
+        "likes": 1,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "pascoalsvetlana",
+        "name": "Svetlana Pascoal",
+        "name_ru": "Svetlana Pascoal",
+        "name_native": "Svetlana Zelenina",
+        "profile_url": "https://35awards.com/author/pascoalsvetlana/",
+        "external_profile": "https://35photo.pro/pascoalsvetlana/",
+        "avatar": "avatars/pascoalsvetlana.jpg",
+        "country": "France",
+        "country_code": "FR",
+        "flag": "assets/flags/fr.svg",
+        "city": "SAINT-LEU",
+        "followers": 1,
+        "following": 1,
+        "photos_count": 163,
+        "rank_in_nomination": 45,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Pets",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 146
+          },
+          {
+            "name": "Panasonic DC-GX9",
+            "count": 4
+          },
+          {
+            "name": "Sony ILCE-7M5",
+            "count": 3
+          },
+          {
+            "name": "Apple iPhone 15 Pro",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 35,
+      "id": 11676714,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners10th/nomination/1006/#photo_11676714",
+      "source_url": "https://35awards.com/gallery/photo/11676714/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2335/11676714_1500n.jpg",
+        "full": "photos/full/35_uzdrzychowska_11676714.jpg",
+        "thumb": "photos/thumb/35_uzdrzychowska_11676714.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Child portrait",
+        "contest_key": "nomination:795",
+        "contest_id": "795",
+        "under_id": "1006",
+        "type": "nomination",
+        "link": "https://35awards.com/winners10th/nomination/1006/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Child portrait",
+          "contest_key": "nomination:795",
+          "contest_id": "795",
+          "under_id": "1006",
+          "type": "nomination",
+          "link": "https://35awards.com/winners10th/nomination/1006/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "child-portrait"
+        ],
+        "year": [
+          "2024"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1493,
+        "likes": 0,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "uzdrzychowska",
+        "name": "Aleksandra Uzdrzychowska",
+        "name_ru": "Aleksandra Uzdrzychowska",
+        "name_native": "Aleksandra Uzdrzychowska",
+        "profile_url": "https://35awards.com/author/uzdrzychowska/",
+        "external_profile": "https://35photo.pro/uzdrzychowska/",
+        "avatar": "avatars/uzdrzychowska.jpg",
+        "country": "Poland",
+        "country_code": "PL",
+        "flag": "assets/flags/pl.svg",
+        "city": "Opole",
+        "followers": 16,
+        "following": 0,
+        "photos_count": 152,
+        "rank_in_nomination": 17,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R5",
+            "count": 128
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 19
+          },
+          {
+            "name": "Sigma 85mm f/1.4 DG HSM | A",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

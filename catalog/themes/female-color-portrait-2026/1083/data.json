@@ -1,0 +1,1355 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:12:07+00:00",
+  "theme": {
+    "slug": "female-color-portrait-2026",
+    "title": "Female Color Portrait",
+    "name_ru": "Женский цветной портрет 2026",
+    "contest_id": 1083,
+    "year": 2026,
+    "category": "color",
+    "description_ru": "Свежий завершённый конкурс 2026 года: женский портрет, где цвет, свет и образ работают вместе.",
+    "source_url": "https://35awards.com/page/contests/num/1083/"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 14268641,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_14268641",
+      "source_url": "https://35awards.com/gallery/photo/14268641/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2853/14268641_1500n.jpg",
+        "full": "photos/full/01_valentina795_14268641.jpg",
+        "thumb": "photos/thumb/01_valentina795_14268641.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 371,
+        "likes": 3,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "valentina795",
+        "name": "Суворова Валентина",
+        "name_ru": "Суворова Валентина",
+        "name_native": "Valentina Suvorova",
+        "profile_url": "https://35awards.com/author/valentina795",
+        "external_profile": "https://35photo.pro/valentina795/",
+        "avatar": "avatars/valentina795.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Тольятти",
+        "followers": 261,
+        "following": 3,
+        "photos_count": 336,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 194
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 90
+          },
+          {
+            "name": "Nikon D850",
+            "count": 32
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 14242560,
+      "title": "",
+      "description": "    Where ancient roots meet timeless beauty.",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_14242560",
+      "source_url": "https://35awards.com/gallery/photo/14242560/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2848/14242560_1500n.jpg",
+        "full": "photos/full/02_mahdijafari7878_14242560.jpg",
+        "thumb": "photos/thumb/02_mahdijafari7878_14242560.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 591,
+        "likes": 1,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "mahdijafari7878",
+        "name": "Mahdi Jafari",
+        "name_ru": "Mahdi Jafari",
+        "name_native": "Mehdi jafari",
+        "profile_url": "https://35awards.com/author/mahdijafari7878",
+        "external_profile": "https://35photo.pro/mahdijafari7878/",
+        "avatar": "avatars/mahdijafari7878.jpg",
+        "country": "Iran",
+        "country_code": "",
+        "flag": "",
+        "city": "Tehran",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 14,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 12732430,
+      "title": "Chromatic Tension",
+      "description": "This color portrait is structured around the interplay between warm skin tones and the deep red fabric. Soft directional lighting maintains natural three-dimensional modeling while preserving subtle shadow gradation.\r\n\r\nThe red fabric acts as the dominant visual element without excessive saturation, maintaining balance within the frame. A neutral, subdued background ensures that color and skin texture remain the focal points. The composition is stable and controlled, relying on tonal harmony and structural clarity.",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_12732430",
+      "source_url": "https://35awards.com/gallery/photo/12732430/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2546/12732430_1500n.jpg",
+        "full": "photos/full/03_samirahesami_12732430.jpg",
+        "thumb": "photos/thumb/03_samirahesami_12732430.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1784,
+        "likes": 2,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "samirahesami",
+        "name": "samira hesami",
+        "name_ru": "samira hesami",
+        "name_native": "samira hesami",
+        "profile_url": "https://35awards.com/author/samirahesami",
+        "external_profile": "https://35photo.pro/samirahesami/",
+        "avatar": "avatars/samirahesami.jpg",
+        "country": "Iran",
+        "country_code": "",
+        "flag": "",
+        "city": "Tehran",
+        "followers": 425,
+        "following": 9,
+        "photos_count": 139,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R8",
+            "count": 30
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 10
+          },
+          {
+            "name": "Sigma 85mm f/1.4 DG HSM A016",
+            "count": 9
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 14245633,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_14245633",
+      "source_url": "https://35awards.com/gallery/photo/14245633/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2849/14245633_1500n.jpg",
+        "full": "photos/full/04_vetoshkina1980_14245633.jpg",
+        "thumb": "photos/thumb/04_vetoshkina1980_14245633.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 440,
+        "likes": 3,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "vetoshkina1980",
+        "name": "Наталья Ветошкина",
+        "name_ru": "Наталья Ветошкина",
+        "name_native": "Natalie V",
+        "profile_url": "https://35awards.com/author/vetoshkina1980",
+        "external_profile": "https://35photo.pro/vetoshkina1980/",
+        "avatar": "avatars/vetoshkina1980.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Кирово-Чепецк",
+        "followers": 155,
+        "following": 41,
+        "photos_count": 328,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 222
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 92
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 21
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 7
+          },
+          {
+            "name": "Canon EF 200 mm F/2.8 L II USM",
+            "count": 7
+          },
+          {
+            "name": "Canon EF 24-105 mm F/4.0 L IS USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 500D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 5684310,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_5684310",
+      "source_url": "https://35awards.com/gallery/photo/5684310/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1136/5684310_1500n.jpg",
+        "full": "photos/full/05_puchkovskiy_5684310.jpg",
+        "thumb": "photos/thumb/05_puchkovskiy_5684310.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "6th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "557",
+          "under_id": "592",
+          "link": "https://35awards.com/winners6th/nomination/592/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1414,
+        "likes": 4,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "puchkovskiy",
+        "name": "Алексей Пучковский",
+        "name_ru": "Алексей Пучковский",
+        "name_native": "Aleksey Puchkovskiy",
+        "profile_url": "https://35awards.com/author/puchkovskiy",
+        "external_profile": "https://35photo.pro/puchkovskiy/",
+        "avatar": "avatars/puchkovskiy.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 187,
+        "following": 0,
+        "photos_count": 97,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 61
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 22
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 21
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 15
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 13152470,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_13152470",
+      "source_url": "https://35awards.com/gallery/photo/13152470/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2630/13152470_1500n.jpg",
+        "full": "photos/full/06_irinagarsh_13152470.jpg",
+        "thumb": "photos/thumb/06_irinagarsh_13152470.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1628,
+        "likes": 6,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "irinagarsh",
+        "name": "Ирина Гарш",
+        "name_ru": "Ирина Гарш",
+        "name_native": "Irina Garsh",
+        "profile_url": "https://35awards.com/author/irinagarsh",
+        "external_profile": "https://35photo.pro/irinagarsh/",
+        "avatar": "avatars/irinagarsh.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Киров",
+        "followers": 228,
+        "following": 1,
+        "photos_count": 304,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 263
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 12927795,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_12927795",
+      "source_url": "https://35awards.com/gallery/photo/12927795/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2585/12927795_1500n.jpg",
+        "full": "photos/full/07_ternikov_12927795.jpg",
+        "thumb": "photos/thumb/07_ternikov_12927795.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1650,
+        "likes": 2,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "ternikov",
+        "name": "Терников Александр",
+        "name_ru": "Терников Александр",
+        "name_native": "Alexander Ternikov",
+        "profile_url": "https://35awards.com/author/ternikov",
+        "external_profile": "https://35photo.pro/ternikov/",
+        "avatar": "avatars/ternikov.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Ростов-на-Дону",
+        "followers": 86,
+        "following": 41,
+        "photos_count": 49,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6m2",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 5
+          },
+          {
+            "name": "Nikon D700",
+            "count": 5
+          },
+          {
+            "name": "Pentax Ricoh GR III",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 10572571,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_10572571",
+      "source_url": "https://35awards.com/gallery/photo/10572571/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2114/10572571_1500n.jpg",
+        "full": "photos/full/08_deevaelena_10572571.jpg",
+        "thumb": "photos/thumb/08_deevaelena_10572571.jpg",
+        "width": 1075,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Child portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1006",
+          "link": "https://35awards.com/winners10th/nomination/1006/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2060,
+        "likes": 3,
+        "favorites": 17
+      },
+      "author": {
+        "slug": "deevaelena",
+        "name": "Деева Елена",
+        "name_ru": "Елена Деева",
+        "name_native": "Elena",
+        "profile_url": "https://35awards.com/author/deevaelena",
+        "external_profile": "https://35photo.pro/deevaelena/",
+        "avatar": "avatars/deevaelena.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Ростов-на-Дону",
+        "followers": 213,
+        "following": 4,
+        "photos_count": 201,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Children staged photography",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 111
+          },
+          {
+            "name": "Canon EOS 7D",
+            "count": 47
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 21
+          },
+          {
+            "name": "Canon EF 50 mm f/1.8 stm",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 8833884,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_8833884",
+      "source_url": "https://35awards.com/gallery/photo/8833884/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1766/8833884_1500n.jpg",
+        "full": "photos/full/09_zachar_8833884.jpg",
+        "thumb": "photos/thumb/09_zachar_8833884.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Adult studio portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "710",
+          "under_id": "834",
+          "link": "https://35awards.com/page/contests/num/710/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "8th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "663",
+          "under_id": "765",
+          "link": "https://35awards.com/winners8th/nomination/765/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2393,
+        "likes": 6,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "zachar",
+        "name": "Zachar",
+        "name_ru": "Zachar",
+        "name_native": "Zachar",
+        "profile_url": "https://35awards.com/author/zachar",
+        "external_profile": "https://35photo.pro/zachar/",
+        "avatar": "avatars/zachar.jpg",
+        "country": "Israel",
+        "country_code": "",
+        "flag": "",
+        "city": "Meitar",
+        "followers": 6633,
+        "following": 9,
+        "photos_count": 298,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 105
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 104
+          },
+          {
+            "name": "Canon EOS 40D",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 85mm f/1.2L II USM or Rokinon SP 85mm f/1.2",
+            "count": 3
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 13140779,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1083/#photo_13140779",
+      "source_url": "https://35awards.com/gallery/photo/13140779/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2628/13140779_1500n.jpg",
+        "full": "photos/full/10_ivandnua_13140779.jpg",
+        "thumb": "photos/thumb/10_ivandnua_13140779.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-color-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1340,
+        "likes": 4,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "ivandnua",
+        "name": "Иван Ковалев",
+        "name_ru": "Ковалев Иван",
+        "name_native": "Ivan Kovalev",
+        "profile_url": "https://35awards.com/author/ivandnua",
+        "external_profile": "https://35photo.pro/ivandnua/",
+        "avatar": "avatars/ivandnua.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 2954,
+        "following": 2,
+        "photos_count": 384,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 178
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 128
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 19
+          },
+          {
+            "name": "Tamron SP 70-200mm f/2.8 Di VC USD G2 (A025)",
+            "count": 19
+          },
+          {
+            "name": "Tamron SP 70-200mm F/2.8 Di VC USD G2 A025 (Canon EF)",
+            "count": 11
+          },
+          {
+            "name": "Canon EOS 5D",
+            "count": 8
+          },
+          {
+            "name": "LEICA Q3 43",
+            "count": 5
+          },
+          {
+            "name": "Tamron 35mm f/1.4 SP Di USD (F045)",
+            "count": 1
+          },
+          {
+            "name": "Sony DSLR-A290",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

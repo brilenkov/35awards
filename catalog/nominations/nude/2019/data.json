@@ -1,0 +1,4341 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:17:35+00:00",
+  "nomination": {
+    "slug": "nude",
+    "name": "Nude 18+",
+    "name_ru": "Ню 18+",
+    "description_ru": "Ню — фотография обнажённого тела, где главное — форма, свет, пластика и образ. В подборке — работы из верхней части рейтинга номинации.",
+    "source_url": "https://35awards.com/winners2019/nomination/503/",
+    "works_count": "",
+    "authors_count": ""
+  },
+  "edition": {
+    "slug": "2019",
+    "year": 2019,
+    "title": "5th 35AWARDS",
+    "source_url": "https://35awards.com/winners2019/nomination/503/",
+    "photographers_url": "https://35awards.com/winners2019/nomination/503/photographers/"
+  },
+  "limit": 35,
+  "photos": [
+    {
+      "rank": 1,
+      "id": 1618382,
+      "title": "променад среди лучей (1+)",
+      "description": "девушка с собакой в тумане",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1618382",
+      "source_url": "https://35awards.com/gallery/photo/1618382/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/323/1618382_1500n.jpg",
+        "full": "photos/full/01_rodislav_1618382.jpg",
+        "thumb": "photos/thumb/01_rodislav_1618382.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      "award": {
+        "label": "I stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fog 2021",
+        "contest_key": "theme:650",
+        "contest_id": "650",
+        "under_id": "748",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/650/"
+      },
+      "honours": [
+        {
+          "label": "I stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fog 2021",
+          "contest_key": "theme:650",
+          "contest_id": "650",
+          "under_id": "748",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/650/"
+        },
+        {
+          "label": "I stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Street photo",
+          "contest_key": "nomination:376",
+          "contest_id": "376",
+          "under_id": "96",
+          "type": "nomination",
+          "link": "https://35awards.com/winners2016/nomination/96/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Fog 2021",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "650",
+          "under_id": "748",
+          "link": "https://35awards.com/page/contests/num/650/",
+          "badge": "I stage",
+          "tier": "stage"
+        },
+        {
+          "name": "35AWARDS 2016",
+          "under_title": "Street photo",
+          "type": "nomination",
+          "contest_id": "376",
+          "under_id": "96",
+          "link": "https://35awards.com/winners2016/nomination/96/",
+          "badge": "I stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 163,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "rodislav",
+        "name": "Дмитрий Крылов",
+        "name_ru": "Родислав Дрибен",
+        "name_native": "Rodislav Driben",
+        "profile_url": "https://35awards.com/author/rodislav/",
+        "external_profile": "https://35photo.pro/rodislav/",
+        "avatar": "avatars/rodislav.jpg",
+        "country": "Germany",
+        "country_code": "DE",
+        "flag": "assets/flags/de.svg",
+        "city": "Cologne",
+        "followers": 2404,
+        "following": 180,
+        "photos_count": 74,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 7D",
+            "count": 11
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 2981753,
+      "title": "Метель",
+      "description": "Образ взят из фильма \\\"Выживший\\\" (\\\"The Revenant\\\"). ",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_2981753",
+      "source_url": "https://35awards.com/gallery/photo/2981753/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/596/2981753_1500n.jpg",
+        "full": "photos/full/02_milkonskaya_2981753.jpg",
+        "thumb": "photos/thumb/02_milkonskaya_2981753.jpg",
+        "width": 1500,
+        "height": 1086
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        },
+        {
+          "label": "TOP 30%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Light blue colors",
+          "contest_key": "theme:537",
+          "contest_id": "537",
+          "under_id": "543",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/537/"
+        },
+        {
+          "label": "TOP 22%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Image from the movie",
+          "contest_key": "theme:505",
+          "contest_id": "505",
+          "under_id": "473",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/505/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Light blue colors",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "537",
+          "under_id": "543",
+          "link": "https://35awards.com/page/contests/num/537/",
+          "badge": "TOP 30%",
+          "tier": "top"
+        },
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "WIN",
+          "tier": "win"
+        },
+        {
+          "name": "Image from the movie",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "505",
+          "under_id": "473",
+          "link": "https://35awards.com/page/contests/num/505/",
+          "badge": "TOP 22%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 2496,
+        "likes": 6,
+        "favorites": 31
+      },
+      "author": {
+        "slug": "milkonskaya",
+        "name": "Эва Милконская",
+        "name_ru": "Эва Милконская",
+        "name_native": "Eva Milkonskaya",
+        "profile_url": "https://35awards.com/author/milkonskaya/",
+        "external_profile": "https://35photo.pro/milkonskaya/",
+        "avatar": "avatars/milkonskaya.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Казань",
+        "followers": 53,
+        "following": 0,
+        "photos_count": 43,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Olympus E-M5 Mark II",
+            "count": 15
+          },
+          {
+            "name": "Nikon D80",
+            "count": 14
+          },
+          {
+            "name": "Fujifilm X-T1",
+            "count": 2
+          },
+          {
+            "name": "Apple iPhone SE",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 5s",
+            "count": 1
+          },
+          {
+            "name": "Nikon D700",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 3105828,
+      "title": "Wind",
+      "description": "Wind",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3105828",
+      "source_url": "https://35awards.com/gallery/photo/3105828/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/621/3105828_1500n.jpg",
+        "full": "photos/full/03_prischepov_3105828.jpg",
+        "thumb": "photos/thumb/03_prischepov_3105828.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 2132,
+        "likes": 0,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "prischepov",
+        "name": "Александр Прищепов",
+        "name_ru": "Александр Прищепов",
+        "name_native": "Alexander Prischepov",
+        "profile_url": "https://35awards.com/author/prischepov/",
+        "external_profile": "https://35photo.pro/prischepov/",
+        "avatar": "avatars/prischepov.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 942,
+        "following": 33,
+        "photos_count": 36,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5DS R",
+            "count": 25
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 7
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 1538469,
+      "title": "Вверх",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1538469",
+      "source_url": "https://35awards.com/gallery/photo/1538469/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/307/1538469_1500n.jpg",
+        "full": "photos/full/04_wrblewskifoto_1538469.jpg",
+        "thumb": "photos/thumb/04_wrblewskifoto_1538469.jpg",
+        "width": 1500,
+        "height": 999
+      },
+      "award": {
+        "label": "I stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Best photographer of the month <nobr>(nov.)</nobr>",
+        "contest_key": "theme:392",
+        "contest_id": "392",
+        "under_id": "136",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/392/"
+      },
+      "honours": [
+        {
+          "label": "I stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Best photographer of the month <nobr>(nov.)</nobr>",
+          "contest_key": "theme:392",
+          "contest_id": "392",
+          "under_id": "136",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/392/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Best photographer of the month <nobr>(nov.)</nobr>",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "392",
+          "under_id": "136",
+          "link": "https://35awards.com/page/contests/num/392/",
+          "badge": "I stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 75,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "wrblewskifoto",
+        "name": "Нина Богатырева",
+        "name_ru": "Wroblewski Mariusz",
+        "name_native": "Mariusz Wroblewski",
+        "profile_url": "https://35awards.com/author/wrblewskifoto/",
+        "external_profile": "https://35photo.pro/wrblewskifoto/",
+        "avatar": "avatars/wrblewskifoto.jpg",
+        "country": "Poland",
+        "country_code": "PL",
+        "flag": "assets/flags/pl.svg",
+        "city": "Krakow",
+        "followers": 90,
+        "following": 0,
+        "photos_count": 138,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5DS R",
+            "count": 66
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 42
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 10
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 8
+          },
+          {
+            "name": "Canon EOS 70D",
+            "count": 6
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 6
+          },
+          {
+            "name": "Samsung SM-G930F",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 17-40 mm F/4.0 L USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 35mm f/1.4L II USM",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm X-T2",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 1635552,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1635552",
+      "source_url": "https://35awards.com/gallery/photo/1635552/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_series_prev/1635/1635552_500n.jpg",
+        "full": "photos/full/05_andreynikolaev_1635552.jpg",
+        "thumb": "photos/thumb/05_andreynikolaev_1635552.jpg",
+        "width": 500,
+        "height": 341
+      },
+      "award": null,
+      "honours": [],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [],
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "andreynikolaev",
+        "name": "ANDREY NIKOLAEV",
+        "name_ru": "Андрей Николаев",
+        "name_native": "ANDREY NIKOLAEV",
+        "profile_url": "https://35awards.com/author/andreynikolaev/",
+        "external_profile": "https://35photo.pro/andreynikolaev/",
+        "avatar": "avatars/andreynikolaev.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Краснодар",
+        "followers": 350,
+        "following": 19,
+        "photos_count": 121,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Fashion",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D800",
+            "count": 73
+          },
+          {
+            "name": "Pentax K-5",
+            "count": 1
+          },
+          {
+            "name": "Nikon D700",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 4415661,
+      "title": "",
+      "description": "Photo: Alexandr Suschevsky \r\nModel: Alexandra Demakova ",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4415661",
+      "source_url": "https://35awards.com/gallery/photo/4415661/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/883/4415661_1500n.jpg",
+        "full": "photos/full/06_lonsas99_4415661.jpg",
+        "thumb": "photos/thumb/06_lonsas99_4415661.jpg",
+        "width": 1009,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2007,
+        "likes": 0,
+        "favorites": 13
+      },
+      "author": {
+        "slug": "lonsas99",
+        "name": "Александр Сущевский",
+        "name_ru": "Александр Сущевский",
+        "name_native": "Alexander Suschevsky",
+        "profile_url": "https://35awards.com/author/lonsas99/",
+        "external_profile": "https://35photo.pro/lonsas99/",
+        "avatar": "avatars/lonsas99.jpg",
+        "country": "Belarus",
+        "country_code": "BY",
+        "flag": "assets/flags/by.svg",
+        "city": "Минск",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 10,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D5200",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 1646976,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1646976",
+      "source_url": "https://35awards.com/gallery/photo/1646976/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_series_prev/1646/1646976_500n.jpg",
+        "full": "photos/full/07_daria665_1646976.jpg",
+        "thumb": "photos/thumb/07_daria665_1646976.jpg",
+        "width": 500,
+        "height": 333
+      },
+      "award": null,
+      "honours": [],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [],
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "daria665",
+        "name": "Daria Klepikova",
+        "name_ru": "Дарья Клепикова",
+        "name_native": "Daria Klepikova",
+        "profile_url": "https://35awards.com/author/daria665/",
+        "external_profile": "https://35photo.pro/daria665/",
+        "avatar": "avatars/daria665.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 8,
+        "following": 3,
+        "photos_count": 89,
+        "rank_in_nomination": null,
+        "genres": [
+          "Architecture",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM2",
+            "count": 9
+          },
+          {
+            "name": "Xiaomi Mi Note 10",
+            "count": 6
+          },
+          {
+            "name": "DJI Mavic Pro / Mavic Pro Platinum (FC220)",
+            "count": 5
+          },
+          {
+            "name": "Sony SLT-A99",
+            "count": 3
+          },
+          {
+            "name": "Xiaomi Mi A3",
+            "count": 3
+          },
+          {
+            "name": "Xiaomi Redmi Note 9 Pro",
+            "count": 2
+          },
+          {
+            "name": "Sony ILCE-7RM4A",
+            "count": 1
+          },
+          {
+            "name": "Xiaomi M2011K2G",
+            "count": 1
+          },
+          {
+            "name": "Xiaomi Mi 9T",
+            "count": 1
+          },
+          {
+            "name": "Xiaomi MI 9",
+            "count": 1
+          },
+          {
+            "name": "Xiaomi MI 8",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 3936474,
+      "title": "Denisa",
+      "description": "Heaven?\r\nHeaven!\r\nDance in heaven?\r\nAngel?\r\nArchangel?\r\nProtection?\r\nDenisa\r\nNature\r\nLovely earth\r\nLove earth!\r\nI am in heaven\r\nHeaven!\r\n\r\nFrom the series: Mother nature’s daughters, with Denisa Strakova, Kaatsheuvel Netherlands, August 2019",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3936474",
+      "source_url": "https://35awards.com/gallery/photo/3936474/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/787/3936474_1500n.jpg",
+        "full": "photos/full/08_arthurslik_3936474.jpg",
+        "thumb": "photos/thumb/08_arthurslik_3936474.jpg",
+        "width": 1500,
+        "height": 1385
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1899,
+        "likes": 0,
+        "favorites": 22
+      },
+      "author": {
+        "slug": "arthurslik",
+        "name": "Louis Sauter",
+        "name_ru": "Louis Sauter",
+        "name_native": "Louis Sauter",
+        "profile_url": "https://35awards.com/author/arthurslik/",
+        "external_profile": "https://35photo.pro/arthurslik/",
+        "avatar": "",
+        "country": "Germany",
+        "country_code": "DE",
+        "flag": "assets/flags/de.svg",
+        "city": "Bremen",
+        "followers": 77,
+        "following": 2,
+        "photos_count": 97,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5DS R",
+            "count": 73
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 19
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 5
+          },
+          {
+            "name": "Canon EF 70-200 mm f/2.8 L IS II USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 1605493,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1605493",
+      "source_url": "https://35awards.com/gallery/photo/1605493/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_series_prev/1605/1605493_500n.jpg",
+        "full": "photos/full/09_mamutov_1605493.jpg",
+        "thumb": "photos/thumb/09_mamutov_1605493.jpg",
+        "width": 500,
+        "height": 500
+      },
+      "award": null,
+      "honours": [],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [],
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "mamutov",
+        "name": "Refat Mamutov",
+        "name_ru": "Refat Mamutov",
+        "name_native": "Refat Mamutov",
+        "profile_url": "https://35awards.com/author/mamutov/",
+        "external_profile": "https://35photo.pro/mamutov/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Нижний Тагил",
+        "followers": 58,
+        "following": 8,
+        "photos_count": 281,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Still life",
+          "Female portrait",
+          "Black and white"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 60D",
+            "count": 108
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 61
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 51
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 6
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS 400D",
+            "count": 3
+          },
+          {
+            "name": "Canon EF 70-200 mm F/4.0 L USM",
+            "count": 2
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 1
+          },
+          {
+            "name": "Canon RF 24-105mm F4-7.1 IS STM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 1602654,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1602654",
+      "source_url": "https://35awards.com/gallery/photo/1602654/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_series_prev/1602/1602654_500n.jpg",
+        "full": "photos/full/10_geneoryx_1602654.jpg",
+        "thumb": "photos/thumb/10_geneoryx_1602654.jpg",
+        "width": 375,
+        "height": 500
+      },
+      "award": null,
+      "honours": [],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [],
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "geneoryx",
+        "name": "Gene Oryx",
+        "name_ru": "Gene Oryx",
+        "name_native": "Gene Oryx",
+        "profile_url": "https://35awards.com/author/geneoryx/",
+        "external_profile": "https://35photo.pro/geneoryx/",
+        "avatar": "avatars/geneoryx.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 9724,
+        "following": 73,
+        "photos_count": 456,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon Z7",
+            "count": 222
+          },
+          {
+            "name": "Nikon D850",
+            "count": 86
+          },
+          {
+            "name": "Nikon D810",
+            "count": 68
+          },
+          {
+            "name": "Nikon Z6",
+            "count": 64
+          },
+          {
+            "name": "TAMRON 28-75mm F/2.8 Di III VXD G2 A063Z",
+            "count": 22
+          },
+          {
+            "name": "Nikon D800",
+            "count": 6
+          },
+          {
+            "name": "Nikon Z85/1.8S",
+            "count": 3
+          },
+          {
+            "name": "Nikon D7000",
+            "count": 2
+          },
+          {
+            "name": "Nikon 50mm f/1.8S Nikkor Z",
+            "count": 2
+          },
+          {
+            "name": "Fujifilm X-T10",
+            "count": 1
+          },
+          {
+            "name": "Nikon 50mm f/1.4D AF Nikkor",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 85mm f/1.4G",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone SE (1st generation)",
+            "count": 1
+          },
+          {
+            "name": "Sony ILCE-7M2",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "id": 3437185,
+      "title": "двое",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3437185",
+      "source_url": "https://35awards.com/gallery/photo/3437185/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/687/3437185_1500n.jpg",
+        "full": "photos/full/11_eigor_3437185.jpg",
+        "thumb": "photos/thumb/11_eigor_3437185.jpg",
+        "width": 1500,
+        "height": 927
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2039,
+        "likes": 2,
+        "favorites": 18
+      },
+      "author": {
+        "slug": "eigor",
+        "name": "Игорь Егоров",
+        "name_ru": "Gary",
+        "name_native": "Gary",
+        "profile_url": "https://35awards.com/author/eigor/",
+        "external_profile": "https://35photo.pro/eigor/",
+        "avatar": "avatars/eigor.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Владивосток",
+        "followers": 1420,
+        "following": 234,
+        "photos_count": 100,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 12
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "id": 4289555,
+      "title": "Chocolate Censorship",
+      "description": "Human body is very attractive, for centuries it captures attention of artists and viewers.\r\nModern era has brought us censorship - if a baby can't chew a steak, the man will not get it either - this is the essence of instagram, facebook etc. social networks content policy. \r\nOn the other hand, we got used to pictures that are artificially refined, sweetened and adopted to call for saturated emotions in the mind of a user.\r\nHere is the attempt to depict the refinement and censorship action. All in one. Just to keep it simple. Thanks for reading this, be happy.",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4289555",
+      "source_url": "https://35awards.com/gallery/photo/4289555/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/857/4289555_1500n.jpg",
+        "full": "photos/full/12_m4x1ight_4289555.jpg",
+        "thumb": "photos/thumb/12_m4x1ight_4289555.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 7%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Black & White Nude 18+",
+        "contest_key": "theme:642",
+        "contest_id": "642",
+        "under_id": "739",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/642/"
+      },
+      "honours": [
+        {
+          "label": "TOP 7%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Black & White Nude 18+",
+          "contest_key": "theme:642",
+          "contest_id": "642",
+          "under_id": "739",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/642/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Black & White Nude 18+",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "642",
+          "under_id": "739",
+          "link": "https://35awards.com/page/contests/num/642/",
+          "badge": "TOP 7%",
+          "tier": "top"
+        },
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3097,
+        "likes": 0,
+        "favorites": 25
+      },
+      "author": {
+        "slug": "m4x1ight",
+        "name": "Light Max",
+        "name_ru": "Max Orange",
+        "name_native": "Max Orange",
+        "profile_url": "https://35awards.com/author/m4x1ight/",
+        "external_profile": "https://35photo.pro/m4x1ight/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Msc",
+        "followers": 5,
+        "following": 0,
+        "photos_count": 67,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 65
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "id": 4364281,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4364281",
+      "source_url": "https://35awards.com/gallery/photo/4364281/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/872/4364281_1500n.jpg",
+        "full": "photos/full/13_vilkevich_4364281.jpg",
+        "thumb": "photos/thumb/13_vilkevich_4364281.jpg",
+        "width": 1500,
+        "height": 1001
+      },
+      "award": {
+        "label": "II stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:614",
+        "contest_id": "614",
+        "under_id": "688",
+        "type": "nomination",
+        "link": "https://35awards.com/winners7th/nomination/688/"
+      },
+      "honours": [
+        {
+          "label": "II stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:614",
+          "contest_id": "614",
+          "under_id": "688",
+          "type": "nomination",
+          "link": "https://35awards.com/winners7th/nomination/688/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "7th 35AWARDS",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "614",
+          "under_id": "688",
+          "link": "https://35awards.com/winners7th/nomination/688/",
+          "badge": "II stage",
+          "tier": "stage"
+        },
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3264,
+        "likes": 0,
+        "favorites": 41
+      },
+      "author": {
+        "slug": "vilkevich",
+        "name": "Вилькевич Сергей",
+        "name_ru": "Вилькевич Сергей",
+        "name_native": "Vilkevich Sergey",
+        "profile_url": "https://35awards.com/author/vilkevich/",
+        "external_profile": "https://35photo.pro/vilkevich/",
+        "avatar": "avatars/vilkevich.jpg",
+        "country": "Belarus",
+        "country_code": "BY",
+        "flag": "assets/flags/by.svg",
+        "city": "Гродно",
+        "followers": 230,
+        "following": 29,
+        "photos_count": 43,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Apple iPhone 6",
+            "count": 4
+          },
+          {
+            "name": "Nikon D5100",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "id": 4338094,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4338094",
+      "source_url": "https://35awards.com/gallery/photo/4338094/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/867/4338094_1500n.jpg",
+        "full": "photos/full/14_vorontsovigor_4338094.jpg",
+        "thumb": "photos/thumb/14_vorontsovigor_4338094.jpg",
+        "width": 1500,
+        "height": 999
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3051,
+        "likes": 4,
+        "favorites": 24
+      },
+      "author": {
+        "slug": "vorontsovigor",
+        "name": "Воронцов Игорь",
+        "name_ru": "Воронцов Игорь",
+        "name_native": "Igor Vorontsov",
+        "profile_url": "https://35awards.com/author/vorontsovigor/",
+        "external_profile": "https://35photo.pro/vorontsovigor/",
+        "avatar": "avatars/vorontsovigor.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Нижний Новгород",
+        "followers": 4554,
+        "following": 25,
+        "photos_count": 84,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D4",
+            "count": 10
+          },
+          {
+            "name": "Nikon D700",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "id": 1658148,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1658148",
+      "source_url": "https://35awards.com/gallery/photo/1658148/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_series_prev/1658/1658148_500n.jpg",
+        "full": "photos/full/15_eikonas_1658148.jpg",
+        "thumb": "photos/thumb/15_eikonas_1658148.jpg",
+        "width": 333,
+        "height": 500
+      },
+      "award": null,
+      "honours": [],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [],
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "eikonas",
+        "name": "Guenther Achleitner",
+        "name_ru": "Guenther Achleitner",
+        "name_native": "Guenther Achleitner",
+        "profile_url": "https://35awards.com/author/eikonas/",
+        "external_profile": "https://35photo.pro/eikonas/",
+        "avatar": "avatars/eikonas.jpg",
+        "country": "Austria",
+        "country_code": "AT",
+        "flag": "assets/flags/at.svg",
+        "city": "Linz",
+        "followers": 470,
+        "following": 2,
+        "photos_count": 196,
+        "rank_in_nomination": null,
+        "genres": [
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 33
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 22
+          },
+          {
+            "name": "Sony ILCE-7RM2",
+            "count": 21
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "id": 3413047,
+      "title": "Soul of stone",
+      "description": "Girl immersed in nature",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3413047",
+      "source_url": "https://35awards.com/gallery/photo/3413047/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/682/3413047_1500n.jpg",
+        "full": "photos/full/16_quocbuu68_3413047.jpg",
+        "thumb": "photos/thumb/16_quocbuu68_3413047.jpg",
+        "width": 1500,
+        "height": 844
+      },
+      "award": {
+        "label": "TOP 5",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Girl and the sea (18+)",
+        "contest_key": "theme:514",
+        "contest_id": "514",
+        "under_id": "529",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/514/"
+      },
+      "honours": [
+        {
+          "label": "TOP 5",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Girl and the sea (18+)",
+          "contest_key": "theme:514",
+          "contest_id": "514",
+          "under_id": "529",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/514/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Girl and the sea (18+)",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "514",
+          "under_id": "529",
+          "link": "https://35awards.com/page/contests/num/514/",
+          "badge": "TOP 5",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 5271,
+        "likes": 0,
+        "favorites": 34
+      },
+      "author": {
+        "slug": "quocbuu68",
+        "name": "Quoc Buu Nguyen",
+        "name_ru": "Quoc Buu Nguyen",
+        "name_native": "NGUYEN QUOC BUU",
+        "profile_url": "https://35awards.com/author/quocbuu68/",
+        "external_profile": "https://35photo.pro/quocbuu68/",
+        "avatar": "avatars/quocbuu68.jpg",
+        "country": "Viet Nam",
+        "country_code": "VN",
+        "flag": "assets/flags/vn.svg",
+        "city": "Nha Trang - Khanh Hoa",
+        "followers": 130,
+        "following": 0,
+        "photos_count": 43,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 42
+          },
+          {
+            "name": "Canon EOS 70D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "id": 1548775,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1548775",
+      "source_url": "https://35awards.com/gallery/photo/1548775/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_series_prev/1548/1548775_500n.jpg",
+        "full": "photos/full/17_sssergeev_1548775.jpg",
+        "thumb": "photos/thumb/17_sssergeev_1548775.jpg",
+        "width": 333,
+        "height": 500
+      },
+      "award": null,
+      "honours": [],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [],
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "sssergeev",
+        "name": "Sergey Sergeev",
+        "name_ru": "Сергеев Сергей",
+        "name_native": "Sergey Sergeev",
+        "profile_url": "https://35awards.com/author/sssergeev/",
+        "external_profile": "https://35photo.pro/sssergeev/",
+        "avatar": "avatars/sssergeev.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 2227,
+        "following": 45,
+        "photos_count": 336,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 130
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 73
+          },
+          {
+            "name": "Canon EOS 7D Mark II",
+            "count": 52
+          },
+          {
+            "name": "Canon EOS 650D",
+            "count": 19
+          },
+          {
+            "name": "DJI Phantom 3 Advanced (FC300S)",
+            "count": 11
+          },
+          {
+            "name": "HUAWEI FRD-L09",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "id": 3447225,
+      "title": "Trust Fall",
+      "description": "I took this in Iceland while shooting in a geothermal area that was outgassing sulphuric steam. This shot was my favorite, so much suspense and story play into the seemingly perilous image. Don't worry, she's fine.",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3447225",
+      "source_url": "https://35awards.com/gallery/photo/3447225/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/689/3447225_1500n.jpg",
+        "full": "photos/full/18_solsticesun_3447225.jpg",
+        "thumb": "photos/thumb/18_solsticesun_3447225.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2035,
+        "likes": 0,
+        "favorites": 17
+      },
+      "author": {
+        "slug": "solsticesun",
+        "name": "Benjamin Franke",
+        "name_ru": "SoulcraftPhotography.com",
+        "name_native": "Benjamin S Franke",
+        "profile_url": "https://35awards.com/author/solsticesun/",
+        "external_profile": "https://35photo.pro/solsticesun/",
+        "avatar": "avatars/solsticesun.jpg",
+        "country": "United States",
+        "country_code": "US",
+        "flag": "assets/flags/us.svg",
+        "city": "Pasadena",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 4,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM2",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "id": 4273605,
+      "title": "Настоящая леди (Real Lady)",
+      "description": "Настоящая леди (Real Lady)\r\nIt;s hard to be real",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4273605",
+      "source_url": "https://35awards.com/gallery/photo/4273605/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/854/4273605_1500n.jpg",
+        "full": "photos/full/19_damp_4273605.jpg",
+        "thumb": "photos/thumb/19_damp_4273605.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3457,
+        "likes": 2,
+        "favorites": 39
+      },
+      "author": {
+        "slug": "damp",
+        "name": "Damp Zergut",
+        "name_ru": "Damp Zergut",
+        "name_native": "Damp Zergut",
+        "profile_url": "https://35awards.com/author/damp/",
+        "external_profile": "https://35photo.pro/damp/",
+        "avatar": "avatars/damp.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 784,
+        "following": 0,
+        "photos_count": 131,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 40
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "id": 3279308,
+      "title": "Model in the Studio",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3279308",
+      "source_url": "https://35awards.com/gallery/photo/3279308/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/655/3279308_1500n.jpg",
+        "full": "photos/full/20_eugan84_3279308.jpg",
+        "thumb": "photos/thumb/20_eugan84_3279308.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2012,
+        "likes": 0,
+        "favorites": 13
+      },
+      "author": {
+        "slug": "eugan84",
+        "name": "Евгений Ковров",
+        "name_ru": "Евгений Ковров",
+        "name_native": "Evgenii Kovrov",
+        "profile_url": "https://35awards.com/author/eugan84/",
+        "external_profile": "https://35photo.pro/eugan84/",
+        "avatar": "avatars/eugan84.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 11,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS 50D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 21,
+      "id": 4127942,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4127942",
+      "source_url": "https://35awards.com/gallery/photo/4127942/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/825/4127942_1500n.jpg",
+        "full": "photos/full/21_monahov_4127942.jpg",
+        "thumb": "photos/thumb/21_monahov_4127942.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "TOP 19%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Nude in nature 18+",
+        "contest_key": "theme:605",
+        "contest_id": "605",
+        "under_id": "665",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/605/"
+      },
+      "honours": [
+        {
+          "label": "TOP 19%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Nude in nature 18+",
+          "contest_key": "theme:605",
+          "contest_id": "605",
+          "under_id": "665",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/605/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Nude in nature 18+",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "605",
+          "under_id": "665",
+          "link": "https://35awards.com/page/contests/num/605/",
+          "badge": "TOP 19%",
+          "tier": "top"
+        },
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2468,
+        "likes": 0,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "monahov",
+        "name": "Andrey  Monahov",
+        "name_ru": "Andrey Monahov",
+        "name_native": "Andrey Monahov",
+        "profile_url": "https://35awards.com/author/monahov/",
+        "external_profile": "https://35photo.pro/monahov/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Тюмень",
+        "followers": 285,
+        "following": 3,
+        "photos_count": 37,
+        "rank_in_nomination": null,
+        "genres": [
+          "Female portrait",
+          "Portrait"
+        ],
+        "gear": []
+      }
+    },
+    {
+      "rank": 22,
+      "id": 3629712,
+      "title": "Confident hat",
+      "description": "BW studio nude",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3629712",
+      "source_url": "https://35awards.com/gallery/photo/3629712/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/725/3629712_1500n.jpg",
+        "full": "photos/full/22_aurimas675_3629712.jpg",
+        "thumb": "photos/thumb/22_aurimas675_3629712.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1840,
+        "likes": 0,
+        "favorites": 23
+      },
+      "author": {
+        "slug": "aurimas675",
+        "name": "Aurimas Valevičius",
+        "name_ru": "Aurimas Valevicius",
+        "name_native": "Aurimas Valevicius",
+        "profile_url": "https://35awards.com/author/aurimas675/",
+        "external_profile": "https://35photo.pro/aurimas675/",
+        "avatar": "",
+        "country": "Lithuania",
+        "country_code": "LT",
+        "flag": "assets/flags/lt.svg",
+        "city": "Vilnius",
+        "followers": 11,
+        "following": 0,
+        "photos_count": 25,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D800",
+            "count": 24
+          },
+          {
+            "name": "Nikon D700",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 23,
+      "id": 3437118,
+      "title": "Екатерина",
+      "description": "The glitter of the eyes is not important here!",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3437118",
+      "source_url": "https://35awards.com/gallery/photo/3437118/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/687/3437118_1500n.jpg",
+        "full": "photos/full/23_aleksandr443_3437118.jpg",
+        "thumb": "photos/thumb/23_aleksandr443_3437118.jpg",
+        "width": 1416,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2966,
+        "likes": 2,
+        "favorites": 30
+      },
+      "author": {
+        "slug": "aleksandr443",
+        "name": "Александр Губель",
+        "name_ru": "Александр Губель",
+        "name_native": "Gubel Aleksandr",
+        "profile_url": "https://35awards.com/author/aleksandr443/",
+        "external_profile": "https://35photo.pro/aleksandr443/",
+        "avatar": "avatars/aleksandr443.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Омск",
+        "followers": 1988,
+        "following": 45,
+        "photos_count": 155,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 80
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 58
+          },
+          {
+            "name": "Canon EOS 5D",
+            "count": 7
+          },
+          {
+            "name": "Xiaomi Redmi Note 8 Pro",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 24,
+      "id": 4292694,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4292694",
+      "source_url": "https://35awards.com/gallery/photo/4292694/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/858/4292694_1500n.jpg",
+        "full": "photos/full/24_shcheglovignat_4292694.jpg",
+        "thumb": "photos/thumb/24_shcheglovignat_4292694.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1987,
+        "likes": 0,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "shcheglovignat",
+        "name": "Игнат Щеглов",
+        "name_ru": "Ignat Shcheglov",
+        "name_native": "Ignat Shcheglov",
+        "profile_url": "https://35awards.com/author/shcheglovignat/",
+        "external_profile": "https://35photo.pro/shcheglovignat/",
+        "avatar": "avatars/shcheglovignat.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 29,
+        "following": 3,
+        "photos_count": 107,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Apple iPhone X",
+            "count": 13
+          },
+          {
+            "name": "Apple iPhone 11 Pro",
+            "count": 9
+          },
+          {
+            "name": "Nikon D610",
+            "count": 8
+          },
+          {
+            "name": "Nikon D850",
+            "count": 6
+          },
+          {
+            "name": "Nikon AF Zoom-Nikkor 35-70mm f/2.8D",
+            "count": 3
+          },
+          {
+            "name": "Nikon AF-S Zoom-Nikkor 24-85mm f/3.5-4.5G IF-ED VR",
+            "count": 2
+          },
+          {
+            "name": "Apple iPhone 14 Pro",
+            "count": 2
+          },
+          {
+            "name": "Nikon AF-S DX VR Zoom-Nikkor 18-55mm f/3.5-5.6G",
+            "count": 2
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 50 мм f/1,8G",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 25,
+      "id": 3221609,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3221609",
+      "source_url": "https://35awards.com/gallery/photo/3221609/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/644/3221609_1500n.jpg",
+        "full": "photos/full/25_arcanum198_3221609.jpg",
+        "thumb": "photos/thumb/25_arcanum198_3221609.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1829,
+        "likes": 0,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "arcanum198",
+        "name": "Сергей Невзоров",
+        "name_ru": "Сергей Невзоров",
+        "name_native": "Sergey Nevzorov",
+        "profile_url": "https://35awards.com/author/arcanum198/",
+        "external_profile": "https://35photo.pro/arcanum198/",
+        "avatar": "avatars/arcanum198.jpg",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "flag": "assets/flags/ua.svg",
+        "city": "Харьков",
+        "followers": 20,
+        "following": 0,
+        "photos_count": 21,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 26,
+      "id": 4251731,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4251731",
+      "source_url": "https://35awards.com/gallery/photo/4251731/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/850/4251731_1500n.jpg",
+        "full": "photos/full/26_sanan567_4251731.jpg",
+        "thumb": "photos/thumb/26_sanan567_4251731.jpg",
+        "width": 1500,
+        "height": 999
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Body lines 2022",
+        "contest_key": "theme:676",
+        "contest_id": "676",
+        "under_id": "795",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/676/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Body lines 2022",
+          "contest_key": "theme:676",
+          "contest_id": "676",
+          "under_id": "795",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/676/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Body lines 2022",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "676",
+          "under_id": "795",
+          "link": "https://35awards.com/page/contests/num/676/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2395,
+        "likes": 3,
+        "favorites": 24
+      },
+      "author": {
+        "slug": "sanan567",
+        "name": "Cанан",
+        "name_ru": "Санан",
+        "name_native": "sanan aliyev",
+        "profile_url": "https://35awards.com/author/sanan567/",
+        "external_profile": "https://35photo.pro/sanan567/",
+        "avatar": "avatars/sanan567.jpg",
+        "country": "Azerbaijan",
+        "country_code": "AZ",
+        "flag": "assets/flags/az.svg",
+        "city": "Баку",
+        "followers": 415,
+        "following": 6,
+        "photos_count": 191,
+        "rank_in_nomination": null,
+        "genres": [
+          "Fashion",
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 7D",
+            "count": 101
+          },
+          {
+            "name": "Nikon D850",
+            "count": 44
+          },
+          {
+            "name": "Samsung SM-A310F",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS 20D",
+            "count": 7
+          },
+          {
+            "name": "Canon EF-S 18-200 mm f/3.5-5.6 IS",
+            "count": 6
+          },
+          {
+            "name": "Nikon D4",
+            "count": 5
+          },
+          {
+            "name": "Fujifilm X-M1",
+            "count": 4
+          },
+          {
+            "name": "Nikon AF-S Nikkor 70-200mm f/2.8E FL ED VR",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 350D DIGITAL",
+            "count": 4
+          },
+          {
+            "name": "Fujifilm X-E1",
+            "count": 3
+          },
+          {
+            "name": "Minolta DIMAGE 7",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S 24-70mm f/2,8G ED",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 50D",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm SP-2000",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm X-T1",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 27,
+      "id": 3105711,
+      "title": "Cālla.",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3105711",
+      "source_url": "https://35awards.com/gallery/photo/3105711/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/621/3105711_1500n.jpg",
+        "full": "photos/full/27_svetlana673_3105711.jpg",
+        "thumb": "photos/thumb/27_svetlana673_3105711.jpg",
+        "width": 1321,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 4944,
+        "likes": 2,
+        "favorites": 29
+      },
+      "author": {
+        "slug": "svetlana673",
+        "name": "Светлана Ефимова",
+        "name_ru": "Светлана Ефимова",
+        "name_native": "Svetlana Efimova",
+        "profile_url": "https://35awards.com/author/svetlana673/",
+        "external_profile": "https://35photo.pro/svetlana673/",
+        "avatar": "avatars/svetlana673.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 26,
+        "following": 0,
+        "photos_count": 143,
+        "rank_in_nomination": null,
+        "genres": [
+          "Female portrait",
+          "Portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D700",
+            "count": 76
+          },
+          {
+            "name": "Nikon D850",
+            "count": 54
+          }
+        ]
+      }
+    },
+    {
+      "rank": 28,
+      "id": 3881194,
+      "title": "shadow",
+      "description": "shadow Body lines",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3881194",
+      "source_url": "https://35awards.com/gallery/photo/3881194/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/776/3881194_1500n.jpg",
+        "full": "photos/full/28_jessonwong_3881194.jpg",
+        "thumb": "photos/thumb/28_jessonwong_3881194.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1947,
+        "likes": 0,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "jessonwong",
+        "name": "JessonWong",
+        "name_ru": "JessonWong",
+        "name_native": "JessonWong",
+        "profile_url": "https://35awards.com/author/jessonwong/",
+        "external_profile": "https://35photo.pro/jessonwong/",
+        "avatar": "",
+        "country": "Malaysia",
+        "country_code": "MY",
+        "flag": "assets/flags/my.svg",
+        "city": "Shah Alam",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 3,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 29,
+      "id": 3581343,
+      "title": "",
+      "description": "Blue room",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3581343",
+      "source_url": "https://35awards.com/gallery/photo/3581343/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/716/3581343_1500n.jpg",
+        "full": "photos/full/29_geneoryx_3581343.jpg",
+        "thumb": "photos/thumb/29_geneoryx_3581343.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 4431,
+        "likes": 2,
+        "favorites": 30
+      },
+      "author": {
+        "slug": "geneoryx",
+        "name": "Gene Oryx",
+        "name_ru": "Gene Oryx",
+        "name_native": "Gene Oryx",
+        "profile_url": "https://35awards.com/author/geneoryx/",
+        "external_profile": "https://35photo.pro/geneoryx/",
+        "avatar": "avatars/geneoryx.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 9724,
+        "following": 73,
+        "photos_count": 456,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon Z7",
+            "count": 222
+          },
+          {
+            "name": "Nikon D850",
+            "count": 86
+          },
+          {
+            "name": "Nikon D810",
+            "count": 68
+          },
+          {
+            "name": "Nikon Z6",
+            "count": 64
+          },
+          {
+            "name": "TAMRON 28-75mm F/2.8 Di III VXD G2 A063Z",
+            "count": 22
+          },
+          {
+            "name": "Nikon D800",
+            "count": 6
+          },
+          {
+            "name": "Nikon Z85/1.8S",
+            "count": 3
+          },
+          {
+            "name": "Nikon D7000",
+            "count": 2
+          },
+          {
+            "name": "Nikon 50mm f/1.8S Nikkor Z",
+            "count": 2
+          },
+          {
+            "name": "Fujifilm X-T10",
+            "count": 1
+          },
+          {
+            "name": "Nikon 50mm f/1.4D AF Nikkor",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 85mm f/1.4G",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone SE (1st generation)",
+            "count": 1
+          },
+          {
+            "name": "Sony ILCE-7M2",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 30,
+      "id": 4364752,
+      "title": "Марта",
+      "description": "Марта",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4364752",
+      "source_url": "https://35awards.com/gallery/photo/4364752/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/872/4364752_1500n.jpg",
+        "full": "photos/full/30_imwarrior_4364752.jpg",
+        "thumb": "photos/thumb/30_imwarrior_4364752.jpg",
+        "width": 1500,
+        "height": 843
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2404,
+        "likes": 5,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "imwarrior",
+        "name": "Георгий Чернядьев",
+        "name_ru": "Георгий Чернядьев",
+        "name_native": "Georgy Chernyadyev",
+        "profile_url": "https://35awards.com/author/imwarrior/",
+        "external_profile": "https://35photo.pro/imwarrior/",
+        "avatar": "avatars/imwarrior.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 13414,
+        "following": 15,
+        "photos_count": 299,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D610",
+            "count": 14
+          },
+          {
+            "name": "Nikon D750",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 31,
+      "id": 3895317,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3895317",
+      "source_url": "https://35awards.com/gallery/photo/3895317/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/779/3895317_1500n.jpg",
+        "full": "photos/full/31_mikebatenev_3895317.jpg",
+        "thumb": "photos/thumb/31_mikebatenev_3895317.jpg",
+        "width": 1500,
+        "height": 999
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2048,
+        "likes": 0,
+        "favorites": 19
+      },
+      "author": {
+        "slug": "mikebatenev",
+        "name": "Mike Batenev",
+        "name_ru": "Mike Batenev",
+        "name_native": "Mike Batenev",
+        "profile_url": "https://35awards.com/author/mikebatenev/",
+        "external_profile": "https://35photo.pro/mikebatenev/",
+        "avatar": "avatars/mikebatenev.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Сургут",
+        "followers": 217,
+        "following": 1,
+        "photos_count": 25,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 32,
+      "id": 4400499,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4400499",
+      "source_url": "https://35awards.com/gallery/photo/4400499/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/880/4400499_1500n.jpg",
+        "full": "photos/full/32_stisovyak_4400499.jpg",
+        "thumb": "photos/thumb/32_stisovyak_4400499.jpg",
+        "width": 1499,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2205,
+        "likes": 0,
+        "favorites": 19
+      },
+      "author": {
+        "slug": "stisovyak",
+        "name": "Стисовяк Артем",
+        "name_ru": "Artem Stisovyak",
+        "name_native": "Artem Stisovyak",
+        "profile_url": "https://35awards.com/author/stisovyak/",
+        "external_profile": "https://35photo.pro/stisovyak/",
+        "avatar": "",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "flag": "assets/flags/ua.svg",
+        "city": "Одесса",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 0,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 33,
+      "id": 4390134,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_4390134",
+      "source_url": "https://35awards.com/gallery/photo/4390134/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/878/4390134_1500n.jpg",
+        "full": "photos/full/33_artemmostovoy_4390134.jpg",
+        "thumb": "photos/thumb/33_artemmostovoy_4390134.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2214,
+        "likes": 2,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "artemmostovoy",
+        "name": "Артемий Мостовой",
+        "name_ru": "Артемий Мостовой",
+        "name_native": "Artem",
+        "profile_url": "https://35awards.com/author/artemmostovoy/",
+        "external_profile": "https://35photo.pro/artemmostovoy/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Ярославль",
+        "followers": 9,
+        "following": 0,
+        "photos_count": 12,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Fujifilm X-T2",
+            "count": 8
+          },
+          {
+            "name": "Fujifilm X-T10",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 34,
+      "id": 3848642,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_3848642",
+      "source_url": "https://35awards.com/gallery/photo/3848642/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/769/3848642_1500n.jpg",
+        "full": "photos/full/34_vladimirst_3848642.jpg",
+        "thumb": "photos/thumb/34_vladimirst_3848642.jpg",
+        "width": 1033,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Nude 18+",
+        "contest_key": "nomination:508",
+        "contest_id": "508",
+        "under_id": "503",
+        "type": "nomination",
+        "link": "https://35awards.com/winners5th/nomination/503/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Nude 18+",
+          "contest_key": "nomination:508",
+          "contest_id": "508",
+          "under_id": "503",
+          "type": "nomination",
+          "link": "https://35awards.com/winners5th/nomination/503/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "35AWARDS 2019",
+          "under_title": "Nude 18+",
+          "type": "nomination",
+          "contest_id": "508",
+          "under_id": "503",
+          "link": "https://35awards.com/winners5th/nomination/503/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3372,
+        "likes": 2,
+        "favorites": 25
+      },
+      "author": {
+        "slug": "vladimirst",
+        "name": "Владимир Стефанович",
+        "name_ru": "Стефанович Владимир",
+        "name_native": "Vladimir Stefanovich",
+        "profile_url": "https://35awards.com/author/vladimirst/",
+        "external_profile": "https://35photo.pro/vladimirst/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 5405,
+        "following": 8,
+        "photos_count": 139,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 92
+          },
+          {
+            "name": "Sony ILCE-7M2",
+            "count": 31
+          },
+          {
+            "name": "Sony ILCE-7M5",
+            "count": 12
+          },
+          {
+            "name": "Sony DSLR-A580",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "rank": 35,
+      "id": 1655982,
+      "title": "street musician",
+      "description": "wild red squirrel playing a guitar",
+      "page_url": "https://35awards.com/winners2019/nomination/503/#photo_1655982",
+      "source_url": "https://35awards.com/gallery/photo/1655982/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/331/1655982_1500n.jpg",
+        "full": "photos/full/35_lovchenko_1655982.jpg",
+        "thumb": "photos/thumb/35_lovchenko_1655982.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "I stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Best Photographers February",
+        "contest_key": "theme:406",
+        "contest_id": "406",
+        "under_id": "175",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/406/"
+      },
+      "honours": [
+        {
+          "label": "I stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Best Photographers February",
+          "contest_key": "theme:406",
+          "contest_id": "406",
+          "under_id": "175",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/406/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "nude"
+        ],
+        "year": [
+          "2019"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Best Photographers February",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "406",
+          "under_id": "175",
+          "link": "https://35awards.com/page/contests/num/406/",
+          "badge": "I stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 75,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "lovchenko",
+        "name": "geert weggen",
+        "name_ru": "Anton Montbrillant",
+        "name_native": "Anton Montbrillant",
+        "profile_url": "https://35awards.com/author/lovchenko/",
+        "external_profile": "https://35photo.pro/lovchenko/",
+        "avatar": "avatars/lovchenko.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Красноярск",
+        "followers": 3488,
+        "following": 54,
+        "photos_count": 342,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 113
+          },
+          {
+            "name": "Hasselblad X1D-50c",
+            "count": 57
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 45
+          },
+          {
+            "name": "Hasselblad X1D II 50C",
+            "count": 28
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 25
+          },
+          {
+            "name": "Canon EOS-1D X",
+            "count": 13
+          },
+          {
+            "name": "Canon EOS-1D X Mark II",
+            "count": 12
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 50 mm f/1.2 L USM",
+            "count": 8
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 4
+          },
+          {
+            "name": "Pentax 645D",
+            "count": 4
+          }
+        ]
+      }
+    }
+  ]
+}

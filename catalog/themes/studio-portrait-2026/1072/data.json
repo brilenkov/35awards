@@ -1,0 +1,1315 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:12:11+00:00",
+  "theme": {
+    "slug": "studio-portrait-2026",
+    "title": "Studio Portrait",
+    "name_ru": "Студийный портрет 2026",
+    "contest_id": 1072,
+    "year": 2026,
+    "category": "portrait",
+    "description_ru": "Студийный портрет: постановка света, фон, позирование и законченный образ.",
+    "source_url": "https://35awards.com/page/contests/num/1072/"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 12601732,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_12601732",
+      "source_url": "https://35awards.com/gallery/photo/12601732/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2520/12601732_1500n.jpg",
+        "full": "photos/full/01_ganich_12601732.jpg",
+        "thumb": "photos/thumb/01_ganich_12601732.jpg",
+        "width": 1200,
+        "height": 1499
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Staged portrait in natural light",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "971",
+          "under_id": "1369",
+          "link": "https://35awards.com/page/contests/num/971/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1141,
+        "likes": 0,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "ganich",
+        "name": "Ирина Ганич",
+        "name_ru": "Ирина Ганич",
+        "name_native": "Irina Ganich",
+        "profile_url": "https://35awards.com/author/ganich",
+        "external_profile": "https://35photo.pro/ganich/",
+        "avatar": "avatars/ganich.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Донецк",
+        "followers": 510,
+        "following": 18,
+        "photos_count": 455,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D780",
+            "count": 201
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 27
+          },
+          {
+            "name": "Nikon D600",
+            "count": 7
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 14269671,
+      "title": "",
+      "description": "Liza",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_14269671",
+      "source_url": "https://35awards.com/gallery/photo/14269671/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2853/14269671_1500n.jpg",
+        "full": "photos/full/02_samb75_14269671.jpg",
+        "thumb": "photos/thumb/02_samb75_14269671.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 240,
+        "likes": 0,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "samb75",
+        "name": "С Камерой Александр",
+        "name_ru": "С Камерой Александр",
+        "name_native": "manwithcamera75",
+        "profile_url": "https://35awards.com/author/samb75",
+        "external_profile": "https://35photo.pro/samb75/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Ярославль",
+        "followers": 289,
+        "following": 21,
+        "photos_count": 251,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 231
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 18
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 70-200 mm F/4.0 L IS USM",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L USM II",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 2
+          },
+          {
+            "name": "Canon EF-S 18-55mm f/3.5-5.6 IS II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 14182560,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_14182560",
+      "source_url": "https://35awards.com/gallery/photo/14182560/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2836/14182560_1500n.jpg",
+        "full": "photos/full/03_yuray_14182560.jpg",
+        "thumb": "photos/thumb/03_yuray_14182560.jpg",
+        "width": 1001,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 257,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "yuray",
+        "name": "Юрай",
+        "name_ru": "Юрай",
+        "name_native": "U-ray",
+        "profile_url": "https://35awards.com/author/yuray",
+        "external_profile": "https://35photo.pro/yuray/",
+        "avatar": "avatars/yuray.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Saint-Petersburg",
+        "followers": 3,
+        "following": 1,
+        "photos_count": 32,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R",
+            "count": 32
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 21
+          },
+          {
+            "name": "Canon RF 24-105mm F2.8 L IS USM Z",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 14173159,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_14173159",
+      "source_url": "https://35awards.com/gallery/photo/14173159/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2834/14173159_1500n.jpg",
+        "full": "photos/full/04_alexanderforst_14173159.jpg",
+        "thumb": "photos/thumb/04_alexanderforst_14173159.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 348,
+        "likes": 0,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "alexanderforst",
+        "name": "alexander forst",
+        "name_ru": "alexander forst",
+        "name_native": "alexander forst",
+        "profile_url": "https://35awards.com/author/alexanderforst",
+        "external_profile": "https://35photo.pro/alexanderforst/",
+        "avatar": "avatars/alexanderforst.jpg",
+        "country": "Switzerland",
+        "country_code": "",
+        "flag": "",
+        "city": "Walchwil",
+        "followers": 52,
+        "following": 13,
+        "photos_count": 191,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Landscape",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 25
+          },
+          {
+            "name": "Sony ILCE-7RM3A",
+            "count": 16
+          },
+          {
+            "name": "Sony ILCE-7RM5",
+            "count": 15
+          },
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 13
+          },
+          {
+            "name": "Sony ILCE-6100",
+            "count": 3
+          },
+          {
+            "name": "Sony ILCE-7M2",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 13163255,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_13163255",
+      "source_url": "https://35awards.com/gallery/photo/13163255/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2632/13163255_1500n.jpg",
+        "full": "photos/full/05_irinagarsh_13163255.jpg",
+        "thumb": "photos/thumb/05_irinagarsh_13163255.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 528,
+        "likes": 1,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "irinagarsh",
+        "name": "Ирина Гарш",
+        "name_ru": "Ирина Гарш",
+        "name_native": "Irina Garsh",
+        "profile_url": "https://35awards.com/author/irinagarsh",
+        "external_profile": "https://35photo.pro/irinagarsh/",
+        "avatar": "avatars/irinagarsh.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Киров",
+        "followers": 228,
+        "following": 1,
+        "photos_count": 304,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 263
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 14007625,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_14007625",
+      "source_url": "https://35awards.com/gallery/photo/14007625/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2801/14007625_1500n.jpg",
+        "full": "photos/full/06_annamahrough_14007625.jpg",
+        "thumb": "photos/thumb/06_annamahrough_14007625.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 1123,
+        "likes": 1,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "annamahrough",
+        "name": "Anna Mahrough",
+        "name_ru": "Anna Mahrough",
+        "name_native": "Anna Mahrough",
+        "profile_url": "https://35awards.com/author/annamahrough",
+        "external_profile": "https://35photo.pro/annamahrough/",
+        "avatar": "avatars/annamahrough.jpg",
+        "country": "Netherlands",
+        "country_code": "",
+        "flag": "",
+        "city": "Sprundel",
+        "followers": 36,
+        "following": 0,
+        "photos_count": 243,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 143
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 23
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 13375541,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_13375541",
+      "source_url": "https://35awards.com/gallery/photo/13375541/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2675/13375541_1500n.jpg",
+        "full": "photos/full/07_puchkovskiy_13375541.jpg",
+        "thumb": "photos/thumb/07_puchkovskiy_13375541.jpg",
+        "width": 1193,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 521,
+        "likes": 0,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "puchkovskiy",
+        "name": "Алексей Пучковский",
+        "name_ru": "Алексей Пучковский",
+        "name_native": "Aleksey Puchkovskiy",
+        "profile_url": "https://35awards.com/author/puchkovskiy",
+        "external_profile": "https://35photo.pro/puchkovskiy/",
+        "avatar": "avatars/puchkovskiy.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 187,
+        "following": 0,
+        "photos_count": 97,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 61
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 22
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 21
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 15
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 13214017,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_13214017",
+      "source_url": "https://35awards.com/gallery/photo/13214017/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2642/13214017_1500n.jpg",
+        "full": "photos/full/08_lsy37_13214017.jpg",
+        "thumb": "photos/thumb/08_lsy37_13214017.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Women's Emotions",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1011",
+          "under_id": "1467",
+          "link": "https://35awards.com/page/contests/num/1011/",
+          "badge": "TOP 9%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1888,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "lsy37",
+        "name": "Воробьева Людмила",
+        "name_ru": "Liudmila Vorob’yova",
+        "name_native": "Liudmila Vorob’yova",
+        "profile_url": "https://35awards.com/author/lsy37",
+        "external_profile": "https://35photo.pro/lsy37/",
+        "avatar": "avatars/lsy37.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Кириши",
+        "followers": 29,
+        "following": 2,
+        "photos_count": 236,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Landscape",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R8",
+            "count": 176
+          },
+          {
+            "name": "Canon RF 24-70 f 2.8 L IS USM",
+            "count": 67
+          },
+          {
+            "name": "Canon EOS 450D",
+            "count": 53
+          },
+          {
+            "name": "Canon EF-S 17-85 mm F/4-5.6 IS USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 14384207,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_14384207",
+      "source_url": "https://35awards.com/gallery/photo/14384207/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2876/14384207_1500n.jpg",
+        "full": "photos/full/09_meaccept_14384207.jpg",
+        "thumb": "photos/thumb/09_meaccept_14384207.jpg",
+        "width": 1500,
+        "height": 1200
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 176,
+        "likes": 0,
+        "favorites": 1
+      },
+      "author": {
+        "slug": "meaccept",
+        "name": "Козлов Евгений",
+        "name_ru": "Козлов Евгений",
+        "name_native": "Evgeniy Kozlov",
+        "profile_url": "https://35awards.com/author/meaccept",
+        "external_profile": "https://35photo.pro/meaccept/",
+        "avatar": "avatars/meaccept.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Тула",
+        "followers": 540,
+        "following": 85,
+        "photos_count": 279,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 132
+          },
+          {
+            "name": "Sigma 105mm F1.4 DG HSM | A",
+            "count": 18
+          },
+          {
+            "name": "Tamron SP 24-70mm f/2.8 Di VC USD G2 (A032)",
+            "count": 18
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 85 мм f/1,8G",
+            "count": 11
+          },
+          {
+            "name": "NIKON Z 8",
+            "count": 7
+          },
+          {
+            "name": "Sony ILCA-77M2",
+            "count": 3
+          },
+          {
+            "name": "Nikon 50mm f/1.8S Nikkor Z",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 14291061,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1072/#photo_14291061",
+      "source_url": "https://35awards.com/gallery/photo/14291061/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2858/14291061_1500n.jpg",
+        "full": "photos/full/10_marcelmarso_14291061.jpg",
+        "thumb": "photos/thumb/10_marcelmarso_14291061.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Studio Portrait",
+        "contest_key": "theme:1072",
+        "contest_id": "1072",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1072/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Studio Portrait",
+          "contest_key": "theme:1072",
+          "contest_id": "1072",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1072/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "studio-portrait-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 742,
+        "likes": 1,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "marcelmarso",
+        "name": "Марсель Курячьева",
+        "name_ru": "Марсель Курячьева",
+        "name_native": "Marcel Kuryacheva",
+        "profile_url": "https://35awards.com/author/marcelmarso",
+        "external_profile": "https://35photo.pro/marcelmarso/",
+        "avatar": "avatars/marcelmarso.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Нижний Новгород",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 77,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Male portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 37
+          },
+          {
+            "name": "Sony ILCE-7RM4A",
+            "count": 30
+          },
+          {
+            "name": "Canon EOS 7D Mark II",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

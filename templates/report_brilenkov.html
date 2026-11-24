@@ -1,0 +1,192 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block title %}{{ report.author.name }} — разбор тематических конкурсов — 35AWARDS Archive{% endblock %}
+{% block description %}Честный разбор фотографий Алексея Бриленкова в тематических конкурсах Female Color Portrait и Blue Color: сравнение с топ-10, сильные и слабые стороны, план роста.{% endblock %}
+
+{% block head %}
+<link rel="stylesheet" href="{{ asset_prefix }}css/report.css">
+{% endblock %}
+
+{% block content %}
+<main>
+  <div class="container breadcrumbs">
+    <a href="{{ root_prefix }}index.html">Главная</a>
+    <span aria-hidden="true">/</span>
+    <span>Разбор автора</span>
+  </div>
+
+  <section class="report-hero container">
+    <div>
+      <div class="hero__kicker">Персональный разбор · тематические конкурсы</div>
+      <h1>{{ report.author.name }}</h1>
+      <p class="report-hero__lead">
+        Пять работ в двух завершённых тематических конкурсах: <b>Female Color Portrait</b> (1083)
+        и <b>Blue Color</b> (1074). Сравнение с топ-10, честный разбор каждой работы и
+        конкретный план, что делать дальше.
+      </p>
+      <div class="source-links">
+        <a class="button" href="{{ report.author.profile_url }}" target="_blank" rel="noopener">Профиль 35AWARDS ↗</a>
+        <a class="button button--ghost" href="{{ report.author.external_profile }}" target="_blank" rel="noopener">35photo.pro ↗</a>
+      </div>
+    </div>
+    <div class="report-stats">
+      <div class="report-stat"><b>{{ report.stats.photos }}</b><span>работ в разборе</span></div>
+      <div class="report-stat"><b>{{ report.stats.contests }}</b><span>конкурса</span></div>
+      <div class="report-stat report-stat--accent"><b>{{ report.stats.best }}</b><span>лучший результат</span></div>
+      <div class="report-stat"><b>{{ report.stats.stages }}</b><span>вышли в I stage</span></div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <div class="report-intro-box">
+        <strong>Если коротко</strong>
+        <p>{{ report.intro }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--muted">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">01</span>
+        <h2>Что общего у топ-10</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">10 из 10 · без исключений</span>
+      </div>
+      <div class="principles-grid">
+        {% for item in principles %}
+        <article class="principle-card">
+          <div class="principle-card__num">{{ '%02d'|format(loop.index) }}</div>
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.text }}</p>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  {% for theme in themes %}
+  <section class="theme-report">
+    <div class="container">
+      <div class="theme-report__head">
+        <div>
+          <div class="hero__kicker">Конкурс {{ theme.id }}</div>
+          <h2>{{ theme.title }}</h2>
+        </div>
+        <div class="theme-report__meta">{{ theme.meta }} · <a href="{{ theme.url }}" target="_blank" rel="noopener">страница результатов ↗</a></div>
+      </div>
+      <p class="theme-report__summary">{{ theme.summary }}</p>
+
+      <div class="winner-grid">
+        {% for photo in theme.photos %}
+        <article class="winner-card">
+          <a class="winner-card__media" href="{{ photo.image.full or photo.image.thumb }}" target="_blank" rel="noopener">
+            <img src="{{ photo.image.thumb }}" alt="{{ photo.author }} — {{ theme.title }}" loading="lazy">
+            <span class="winner-card__rank">#{{ '%02d'|format(photo.rank) }}</span>
+            <span class="winner-card__award">{{ photo.award }}</span>
+          </a>
+          <div class="winner-card__body">
+            <div class="winner-card__author">{{ photo.author }}</div>
+            <p class="winner-card__why">{{ photo.why }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+
+      <div class="section-head" style="margin-top:42px">
+        <span class="section-head__index">Ваши работы</span>
+        <h2 style="font-size:clamp(26px,3vw,38px)">В этом конкурсе</h2>
+        <span class="section-head__line"></span>
+      </div>
+
+      <div class="my-grid">
+        {% for photo in theme.mine %}
+        <article class="my-card">
+          <a class="my-card__media" href="{{ photo.image.full }}" target="_blank" rel="noopener">
+            <img src="{{ photo.image.thumb }}" alt="Работа {{ report.author.name }}" loading="lazy">
+            <span class="my-card__badge">{{ photo.award }}</span>
+          </a>
+          <div class="my-card__body">
+            <div class="my-card__kicker">{{ photo.contest }} · photo {{ photo.id }}</div>
+            <h3>{{ photo.review.title }}</h3>
+            <div class="my-card__metrics">
+              <span>{{ photo.metrics.views|num }} просмотров</span>
+              <span>{{ photo.metrics.likes|num }} лайков</span>
+              <span>{{ photo.metrics.favorites|num }} в избранном</span>
+              <span>{{ photo.award }}</span>
+            </div>
+            <p class="my-card__summary">{{ photo.review.summary }}</p>
+
+            <div class="score-grid">
+              {% for label, value in photo.review.scores.items() %}
+              <div class="score"><span>{{ label }}</span><b>{{ value }}<small>/10</small></b></div>
+              {% endfor %}
+            </div>
+
+            <div class="pros-cons">
+              <div class="pros-cons pros-cons--good">
+                <h4>Сильные стороны</h4>
+                <ul>{% for item in photo.review.strengths %}<li>{{ item }}</li>{% endfor %}</ul>
+              </div>
+              <div class="pros-cons pros-cons--bad">
+                <h4>Что не работает</h4>
+                <ul>{% for item in photo.review.weaknesses %}<li>{{ item }}</li>{% endfor %}</ul>
+              </div>
+            </div>
+
+            <div class="my-card__improve">
+              <h4>Что доработать</h4>
+              <p>{{ photo.review.improve }}</p>
+            </div>
+            <p class="my-card__next"><b>Следующий кадр:</b> {{ photo.review.next }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+
+  <section class="section section--muted">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">02</span>
+        <h2>План роста</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">техника · свет · арт-дирекшн · серия</span>
+      </div>
+      <div class="growth-grid">
+        {% for period in growth %}
+        <article class="growth-card">
+          <div class="hero__kicker">{{ period.kicker }}</div>
+          <h3>{{ period.title }}</h3>
+          <ul>{% for item in period.points %}<li>{{ item }}</li>{% endfor %}</ul>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">03</span>
+        <h2>Честный вывод</h2>
+        <span class="section-head__line"></span>
+      </div>
+      <div class="verdict">
+        {% for paragraph in verdict %}<p>{{ paragraph|safe }}</p>{% endfor %}
+      </div>
+      <div class="report-sources">
+        <a class="report-source" href="https://35awards.com/author/brilenkov/" target="_blank" rel="noopener">Профиль автора ↗</a>
+        <a class="report-source" href="https://35awards.com/page/contests/num/1083/" target="_blank" rel="noopener">Female Color Portrait · результаты ↗</a>
+        <a class="report-source" href="https://35awards.com/page/contests/num/1074/" target="_blank" rel="noopener">Blue Color · результаты ↗</a>
+        <a class="report-source" href="https://35awards.com/mypage/subcontest/1083/" target="_blank" rel="noopener">Личный кабинет · 1083 ↗</a>
+        <a class="report-source" href="https://35awards.com/mypage/subcontest/1074/" target="_blank" rel="noopener">Личный кабинет · 1074 ↗</a>
+      </div>
+    </div>
+  </section>
+</main>
+{% endblock %}

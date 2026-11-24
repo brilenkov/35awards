@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block content %}
+<main>
+  <section class="hero">
+    <div class="container">
+      <div class="hero__kicker">Фотографический архив · 35AWARDS</div>
+      <h1 class="hero__title">Лучшие фотографии<br><em>прошлых лет</em></h1>
+      <p class="hero__lead">
+        Каталог финалистов и победителей международного конкурса 35AWARDS.
+        Срез по номинациям: только топовые работы, с разбором света, оптики,
+        цвета и образа от лица профессионального фотографа.
+      </p>
+      <div class="hero__stats">
+        <div class="stat"><b>{{ stats.nominations }}</b><span>{{ stats.nominations|plural('номинация', 'номинации', 'номинаций') }}</span></div>
+        <div class="stat"><b>{{ stats.editions }}</b><span>{{ stats.editions|plural('конкурс', 'конкурса', 'конкурсов') }}</span></div>
+        <div class="stat"><b>{{ stats.themes }}</b><span>{{ stats.themes|plural('тема', 'темы', 'тем') }}</span></div>
+        <div class="stat"><b>{{ stats.photos }}</b><span>{{ stats.photos|plural('работа', 'работы', 'работ') }} в каталоге</span></div>
+        <div class="stat"><b>{{ stats.authors }}</b><span>{{ stats.authors|plural('автор', 'автора', 'авторов') }}</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section catalog-section" id="catalog">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">01</span>
+        <h2>Срез по номинациям</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">только топовые работы</span>
+      </div>
+
+      {% include "_filters.html" %}
+
+      <div class="photo-grid" id="photoGrid">
+        {% for photo in photos %}
+        {{ ui.photo_card(photo) }}
+        {% endfor %}
+      </div>
+      <div class="load-more-wrap"><button class="button button--ghost" id="loadMore" type="button" hidden>Показать ещё</button></div>
+
+      <div class="empty-state" id="emptyState" hidden>Под выбранные фильтры пока нет работ. Попробуйте сбросить часть условий.</div>
+    </div>
+  </section>
+
+  <section class="section section--muted" id="nominations">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">02</span>
+        <h2>Номинации</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">архив по годам</span>
+      </div>
+      <p class="section-note">Фильтры выше смешивают номинации в одном потоке. Здесь — точка входа в конкретную номинацию: все её годы, обложки и переход на сквозную страницу.</p>
+
+      <div class="nomination-grid">
+        {% for nomination in nominations %}
+        <a class="nomination-card" href="nominations/{{ nomination.slug }}/index.html">
+          <div class="nomination-card__media">
+            {% if nomination.cover %}
+            <img src="{{ root_prefix }}{{ nomination.cover.image.thumb_url }}"
+                 alt="{{ nomination.cover.author.name }} — {{ nomination.name }}"
+                 loading="lazy" width="800" height="1000">
+            {% endif %}
+            <div class="nomination-card__shade"></div>
+            <div class="nomination-card__count">{{ nomination.photo_count }} {{ nomination.photo_count|plural('работа', 'работы', 'работ') }}</div>
+            {{ ui.award_chip(nomination.cover, compact=true) if nomination.cover else '' }}
+          </div>
+          <div class="nomination-card__body">
+            <div class="kicker">{{ nomination.year_range }} · {{ nomination.photo_count }} {{ nomination.photo_count|plural('работа', 'работы', 'работ') }}</div>
+            <h3>{{ nomination.name_ru or nomination.name }}</h3>
+            <div class="nomination-card__original">{{ nomination.name }}</div>
+            <p>{{ nomination.description_ru }}</p>
+            <div class="nomination-card__footer">
+              <span>Смотреть подборки <span aria-hidden="true">→</span></span>
+              <span>{{ nomination.photo_count }} {{ nomination.photo_count|plural('фото', 'фото', 'фото') }}</span>
+            </div>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="themes">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">03</span>
+        <h2>Тематические конкурсы</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">subcontest · завершённые</span>
+      </div>
+      <div class="theme-grid">
+        {% for theme in themes %}
+        <a class="theme-card" href="themes/{{ theme.slug }}/{{ theme.contest_id }}/index.html">
+          <div class="theme-card__media">
+            {% if theme.cover %}
+            <img src="{{ root_prefix }}{{ theme.cover.image.thumb_url }}" alt="{{ theme.title }}" loading="lazy">
+            {% endif %}
+            <span class="theme-card__year">{{ theme.year }}</span>
+          </div>
+          <div class="theme-card__body">
+            <div class="kicker">{{ theme.category_label }}</div>
+            <h3>{{ theme.name_ru or theme.title }}</h3>
+            <p>{{ theme.description_ru }}</p>
+            <div class="theme-card__meta">{{ theme.photo_count }} работ · {{ theme.title }}</div>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  {% if multi_count %}
+  <section class="section section--muted" id="multi">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">04</span>
+        <h2>Мульти-награды</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">сильные в разных конкурсах</span>
+      </div>
+      <div class="multi-teaser">
+        <div>
+          <p>Работы, которые одновременно отметились в нескольких номинациях и/или тематических конкурсах. Это самый интересный срез: одна и та же фотография выдерживает разные критерии отбора.</p>
+          <div class="multi-teaser__stats">
+            <span><b>{{ multi_count }}</b> {{ multi_count|plural('работа', 'работы', 'работ') }} с 2+ участиями</span>
+            <span><b>{{ multi_award_count }}</b> с 2+ наградами</span>
+          </div>
+        </div>
+        <a class="button" href="multi/index.html">Смотреть разносторонние работы →</a>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="section" id="reports">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-head__index">05</span>
+        <h2>Разборы</h2>
+        <span class="section-head__line"></span>
+        <span class="section-head__aside">сравнение с топ-10</span>
+      </div>
+      <a class="report-teaser" href="reports/brilenkov/index.html">
+        <div>
+          <div class="kicker">Персональный разбор · 5 работ</div>
+          <h3>Алексей Бриленков: Female Color Portrait / Blue Color</h3>
+          <p>Честный разбор пяти работ в двух завершённых тематических конкурсах: что работает, что нет, чем топ-10 отличается и что делать дальше.</p>
+        </div>
+        <span class="report-teaser__arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+
+  <section class="section" id="about">
+    <div class="container about-grid">
+      <div>
+        <div class="section-head section-head--tight">
+          <span class="section-head__index">06</span>
+          <h2>Как устроен архив</h2>
+        </div>
+      </div>
+      <div class="about-copy">
+        <p>В основе каталога — официальные страницы результатов 35AWARDS. Для каждой номинации
+           сохраняются верхние работы рейтинга: изображение, место, награда, название и описание,
+           просмотры, лайки и добавления в избранное.</p>
+        <p>Для каждой работы добавлен VLM-разбор: схема и направление света, контраст, палитра
+           и температура цвета, предполагаемое фокусное расстояние и диафрагма, фон, композиционные
+           нюансы. Разбор носит экспертный, но приблизительный характер — точные параметры съёмки
+           известны только автору.</p>
+        <p class="muted">Автор указан со ссылкой на профиль 35AWARDS и 35photo.pro. В карточке
+           автора собраны город, количество подписчиков, работ, жанры и техника, а также место
+           в рейтинге Great photographers соответствующей номинации.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+{% include "_lightbox.html" %}
+
+<script>
+  window.CATALOG_ROOT = "{{ root_prefix }}";
+  window.CATALOG_DATA = {{ page_data|tojson }};
+</script>
+{% endblock %}

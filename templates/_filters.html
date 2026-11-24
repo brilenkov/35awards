@@ -1,0 +1,123 @@
+<div class="catalog-filters" id="catalogFilters">
+  <div class="filter-group" data-filter-group="source">
+    <div class="filter-group__title">Тип</div>
+    <div class="filter-group__options">
+      <button class="filter-chip is-active" type="button" data-filter-group="source" data-filter-value="all">Все</button>
+      {% for item in filter_sources %}
+      {% if item.count %}
+      <button class="filter-chip" type="button" data-filter-group="source" data-filter-value="{{ item.value }}">{{ item.label }} <span>{{ item.count }}</span></button>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="filter-group" data-filter-group="nomination">
+    <div class="filter-group__title">Номинация</div>
+    <div class="filter-group__options">
+      <button class="filter-chip is-active" type="button" data-filter-group="nomination" data-filter-value="all">Все</button>
+      {% for item in filter_nominations %}
+      {% if item.count %}
+      <button class="filter-chip" type="button" data-filter-group="nomination" data-filter-value="{{ item.slug }}">{{ item.name_ru }} <span>{{ item.count }}</span></button>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="filter-group" data-filter-group="theme">
+    <div class="filter-group__title">Тематический конкурс</div>
+    <div class="filter-group__options">
+      <button class="filter-chip is-active" type="button" data-filter-group="theme" data-filter-value="all">Все</button>
+      {% for item in filter_themes %}
+      {% if item.count %}
+      <button class="filter-chip" type="button" data-filter-group="theme" data-filter-value="{{ item.slug }}">{{ item.name_ru or item.title }}{% if item.year %} · {{ item.year }}{% endif %} <span>{{ item.count }}</span></button>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="filter-group" data-filter-group="contest">
+    <div class="filter-group__title">Контекст</div>
+    <div class="filter-group__options">
+      <select class="context-select" id="contextSelect">
+        <option value="all">Все конкурсы</option>
+        {% for group in filter_context_nominations %}
+        <optgroup label="Номинация · {{ group.title }}">
+          <option value="{{ group.key }}" data-keys="{{ group.key_list|join(',') }}" data-label="{{ group.title }} · все годы">Все годы · {{ group.title }} ({{ group.count }})</option>
+          {% for item in group.contexts %}
+          <option value="{{ item.key }}">{{ item.option_label }}</option>
+          {% endfor %}
+        </optgroup>
+        {% endfor %}
+        <optgroup label="Тематические конкурсы">
+          {% for item in filter_context_themes %}
+          <option value="{{ item.key }}">{{ item.option_label }}</option>
+          {% endfor %}
+        </optgroup>
+      </select>
+    </div>
+  </div>
+
+  <div class="filter-group" data-filter-group="year">
+    <div class="filter-group__title">Год</div>
+    <div class="filter-group__options">
+      <button class="filter-chip is-active" type="button" data-filter-group="year" data-filter-value="all">Все</button>
+      {% for item in filter_years %}
+      <button class="filter-chip" type="button" data-filter-group="year" data-filter-value="{{ item.value }}">{{ item.label }} <span>{{ item.count }}</span></button>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="filter-group" data-filter-group="award">
+    <div class="filter-group__title">Награда</div>
+    <div class="filter-group__options">
+      <button class="filter-chip is-active" type="button" data-filter-group="award" data-filter-value="all">Все</button>
+      {% for key, label in facets.award.options.items() %}
+      {% if facet_counts.award.get(key, 0) %}
+      <button class="filter-chip" type="button" data-filter-group="award" data-filter-value="{{ key }}">{{ label }} <span>{{ facet_counts.award.get(key, 0) }}</span></button>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <details class="filters-advanced" open>
+    <summary>
+      <span>Тонкие настройки</span>
+      <small>свет · цвет · техника · образ · эмоция · мульти-участие</small>
+    </summary>
+    <div class="filters-advanced__note">Свет, техника, образ и эмоции размечены для части работ. Цвет и ч/б определены автоматически для всего архива. Фокусное и сезон убраны: по изображению они определяются ненадёжно.</div>
+    <div class="filters-advanced__grid">
+      {% for group in ['light', 'color', 'technique', 'image', 'emotion'] %}
+      <div class="filter-group" data-filter-group="{{ group }}">
+        <div class="filter-group__title">{{ facets[group].title }}</div>
+        <div class="filter-group__options">
+          <button class="filter-chip is-active" type="button" data-filter-group="{{ group }}" data-filter-value="all">Все</button>
+          {% for key, label in facets[group].options.items() %}
+          {% if facet_counts[group].get(key, 0) %}
+          <button class="filter-chip" type="button" data-filter-group="{{ group }}" data-filter-value="{{ key }}">{{ label }} <span>{{ facet_counts[group].get(key, 0) }}</span></button>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+
+      <div class="filter-group" data-filter-group="multi">
+        <div class="filter-group__title">Мульти-награды</div>
+        <div class="filter-group__options">
+          <button class="filter-chip is-active" type="button" data-filter-group="multi" data-filter-value="all">Все</button>
+          {% for item in filter_multi %}
+          {% if item.count %}
+          <button class="filter-chip" type="button" data-filter-group="multi" data-filter-value="{{ item.value }}">{{ item.label }} <span>{{ item.count }}</span></button>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </details>
+
+  <div class="filter-context" id="contestContext" hidden></div>
+
+  <div class="filter-result">
+    <span id="filterCount">{{ photos|length }} {{ photos|length|plural('работа', 'работы', 'работ') }}</span>
+    <button class="filter-reset" id="resetFilters" type="button">Сбросить фильтры</button>
+  </div>
+</div>

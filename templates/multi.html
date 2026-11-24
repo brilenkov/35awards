@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block title %}Мульти-награды — 35AWARDS Archive{% endblock %}
+{% block description %}Работы, которые одновременно участвовали и побеждали в нескольких номинациях и тематических конкурсах 35AWARDS.{% endblock %}
+
+{% block content %}
+<main>
+  <div class="container breadcrumbs">
+    <a href="{{ root_prefix }}index.html">Главная</a>
+    <span aria-hidden="true">/</span>
+    <span>Мульти-награды</span>
+  </div>
+
+  <section class="hero" style="padding-bottom:30px">
+    <div class="container">
+      <div class="hero__kicker">Разносторонние работы</div>
+      <h1 class="hero__title" style="font-size:clamp(44px,6.5vw,92px)">Сильные<br><em>в разных конкурсах</em></h1>
+      <p class="hero__lead">
+        Одна фотография, замеченная в нескольких номинациях и/или тематических конкурсах.
+        Список отсортирован по числу наград, затем по числу конкурсов: сверху работы,
+        которые чаще всего выставлялись и получали награды в разных конкурсах.
+      </p>
+    </div>
+  </section>
+
+  <section class="container edition-body">
+    <div class="toolbar">
+      <div class="filter">
+        <a class="filter__btn is-active" href="{{ root_prefix }}index.html#catalog">← Вернуться в каталог</a>
+      </div>
+      <div class="toolbar__hint">{{ photos|length }} {{ photos|length|plural('работа', 'работы', 'работ') }} с несколькими участиями</div>
+    </div>
+
+    <div class="multi-list">
+      {% for photo in photos %}
+      <article class="multi-card">
+        <a class="multi-card__media" href="{{ root_prefix }}{{ photo.image.full_url or photo.image.source }}" target="_blank" rel="noopener">
+          <img src="{{ root_prefix }}{{ photo.image.thumb_url }}" alt="{{ photo.author.name }}" loading="lazy">
+        </a>
+        <div class="multi-card__body">
+          <div class="kicker">{{ photo.nomination.name }}{% if photo.edition.year %} · {{ photo.edition.year }}{% endif %}</div>
+          <h2>{% if photo.title %}{{ photo.title }}{% else %}Работа {{ photo.author.name }}{% endif %}</h2>
+          <div class="multi-card__author">
+            <a href="{{ photo.author.profile_url }}" target="_blank" rel="noopener">{{ photo.author.name }}</a>
+            {% if photo.author.city %} · {{ photo.author.city }}{% endif %}
+          </div>
+          <div class="multi-card__stats">
+            <span title="2 × конкурсы + 5 × награды + 3 × номинации + темы"><b>{{ photo.multi.score }}</b> сила</span>
+            <span><b>{{ photo.multi.memberships }}</b> участий</span>
+            <span><b>{{ photo.multi.top_awards }}</b> наград</span>
+            <span><b>{{ photo.multi.nominations }}</b> номинаций</span>
+            <span><b>{{ photo.multi.themes }}</b> тем</span>
+            <span>{{ photo.metrics.views|num }} просмотров</span>
+          </div>
+          <div class="member-list">
+            {% for member in photo.memberships %}
+            <a class="member-chip" href="{{ member.link }}" target="_blank" rel="noopener">
+              {{ member.under_title or member.name }}
+              {% if member.badge %}<span>{{ member.badge }}</span>{% endif %}
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</main>
+{% endblock %}

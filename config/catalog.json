@@ -1,0 +1,290 @@
+{
+  "site": {
+    "title": "35AWARDS Archive",
+    "title_ru": "Архив 35AWARDS",
+    "description": "Каталог лучших фотографий и фотографов 35AWARDS по номинациям прошлых лет",
+    "author": "35AWARDS Archive"
+  },
+  "editions": {
+    "11th": {
+      "year": 2025,
+      "winners_path": "winners11th",
+      "title": "11th 35AWARDS"
+    },
+    "10th": {
+      "year": 2024,
+      "winners_path": "winners10th",
+      "title": "10th 35AWARDS"
+    },
+    "2016": {
+      "year": 2016,
+      "winners_path": "winners2016",
+      "title": "2nd 35AWARDS"
+    },
+    "2017": {
+      "year": 2017,
+      "winners_path": "winners2017",
+      "title": "3rd 35AWARDS"
+    },
+    "2018": {
+      "year": 2018,
+      "winners_path": "winners2018",
+      "title": "4th 35AWARDS"
+    },
+    "2019": {
+      "year": 2019,
+      "winners_path": "winners2019",
+      "title": "5th 35AWARDS"
+    },
+    "2020": {
+      "year": 2020,
+      "winners_path": "winners2020",
+      "title": "6th 35AWARDS"
+    },
+    "2021": {
+      "year": 2021,
+      "winners_path": "winners2021",
+      "title": "7th 35AWARDS"
+    },
+    "2022": {
+      "year": 2022,
+      "winners_path": "winners2022",
+      "title": "8th 35AWARDS"
+    },
+    "2023": {
+      "year": 2023,
+      "winners_path": "winners2023",
+      "title": "9th 35AWARDS"
+    }
+  },
+  "nominations": {
+    "female-portrait": {
+      "name": "Female portrait",
+      "name_ru": "Женский портрет",
+      "description_ru": "Женский портрет — одна из самых массовых номинаций конкурса. В подборке — работы, прошедшие второй этап голосования и занявшие верхние строчки рейтинга номинации.",
+      "editions": {
+        "11th": 1197,
+        "10th": 1009,
+        "2023": 850,
+        "2022": 765,
+        "2021": 682,
+        "2020": 592,
+        "2019": 496
+      }
+    },
+    "motion": {
+      "name": "Motion",
+      "name_ru": "Движение",
+      "description_ru": "Движение — фотография, в которой главное не объект, а динамика: танец, спорт, сцена, жест, размытие и энергия момента.",
+      "editions": {
+        "11th": 1203,
+        "10th": 1004,
+        "2023": 846,
+        "2022": 761,
+        "2021": 698,
+        "2020": 669,
+        "2019": 513
+      }
+    },
+    "nude": {
+      "name": "Nude 18+",
+      "name_ru": "Ню 18+",
+      "description_ru": "Ню — фотография обнажённого тела, где главное — форма, свет, пластика и образ. В подборке — работы из верхней части рейтинга номинации.",
+      "editions": {
+        "11th": 1204,
+        "10th": 1015,
+        "2023": 857,
+        "2022": 772,
+        "2021": 688,
+        "2020": 598,
+        "2019": 503,
+        "2018": 283,
+        "2017": 168
+      }
+    },
+    "fashion": {
+      "name": "Fashion & Glamour",
+      "name_ru": "Фэшн и гламур",
+      "description_ru": "Фэшн и гламур — мода, стиль, свет и работа с моделью. В подборке — верхняя часть рейтинга номинации за разные годы.",
+      "editions": {
+        "11th": 1196,
+        "10th": 1024,
+        "2023": 866,
+        "2022": 781,
+        "2021": 696,
+        "2020": 606,
+        "2019": 510,
+        "2018": 290,
+        "2017": 202
+      }
+    },
+    "portrait-classic": {
+      "name": "Portrait",
+      "name_ru": "Портрет (классика)",
+      "description_ru": "Ранняя номинация «Портрет» в 2016–2018 годах, до разделения на женский, мужской и детский портрет.",
+      "editions": {
+        "2018": 278,
+        "2017": 163,
+        "2016": 89
+      }
+    },
+    "child-portrait": {
+      "name": "Child portrait",
+      "name_ru": "Детский портрет",
+      "description_ru": "Детский портрет с 2021 года: характер, взгляд, свет и естественная пластика ребёнка.",
+      "editions": {
+        "11th": 1193,
+        "10th": 1006,
+        "2023": 848,
+        "2022": 763,
+        "2021": 707
+      }
+    },
+    "children-staged": {
+      "name": "Children staged photography",
+      "name_ru": "Детская постановочная фотография",
+      "description_ru": "Постановочная детская фотография: образ, сценарий, реквизит и работа со светом.",
+      "editions": {
+        "11th": 1194,
+        "10th": 1005,
+        "2023": 847,
+        "2022": 762,
+        "2021": 680
+      }
+    },
+    "children-photo": {
+      "name": "Children photo",
+      "name_ru": "Детская фотография",
+      "description_ru": "Ранняя общая номинация «Детская фотография» 2016–2020: портрет и постановка в одном конкурсе.",
+      "editions": {
+        "2020": 590,
+        "2019": 498,
+        "2018": 279,
+        "2017": 164,
+        "2016": 90
+      }
+    }
+  },
+  "themes": {
+    "female-color-portrait-2026": {
+      "title": "Female Color Portrait",
+      "name_ru": "Женский цветной портрет 2026",
+      "contest_id": 1083,
+      "year": 2026,
+      "category": "color",
+      "description_ru": "Свежий завершённый конкурс 2026 года: женский портрет, где цвет, свет и образ работают вместе."
+    },
+    "blue-color-2026": {
+      "title": "Blue Color",
+      "name_ru": "Синий цвет 2026",
+      "contest_id": 1074,
+      "year": 2026,
+      "category": "color",
+      "description_ru": "Синий как главный герой кадра: вода, свет, атмосфера и цветовые акценты."
+    },
+    "red-color-2026": {
+      "title": "Red Color",
+      "name_ru": "Красный цвет 2026",
+      "contest_id": 1086,
+      "year": 2026,
+      "category": "color",
+      "description_ru": "Красный как доминанта: цвет, фактура, свет и эмоция."
+    },
+    "studio-portrait-2026": {
+      "title": "Studio Portrait",
+      "name_ru": "Студийный портрет 2026",
+      "contest_id": 1072,
+      "year": 2026,
+      "category": "portrait",
+      "description_ru": "Студийный портрет: постановка света, фон, позирование и законченный образ."
+    },
+    "female-portrait-flowers-2026": {
+      "title": "Female Portrait with Flowers",
+      "name_ru": "Женский портрет с цветами 2026",
+      "contest_id": 1048,
+      "year": 2026,
+      "category": "portrait",
+      "description_ru": "Женский портрет с цветами: реквизит, цвет и пластика модели."
+    },
+    "silhouette-2026": {
+      "title": "Silhouette",
+      "name_ru": "Силуэт 2026",
+      "contest_id": 1057,
+      "year": 2026,
+      "category": "light",
+      "description_ru": "Силуэт и контровой свет: форма, контур и минимализм."
+    },
+    "concert-photography-2021": {
+      "title": "Concert Photography 2021",
+      "name_ru": "Концертная фотография 2021",
+      "contest_id": 654,
+      "year": 2021,
+      "category": "event",
+      "description_ru": "Сцена, клуб, сценический свет и движение: референсы для съёмки мероприятий в условиях недостатка света."
+    },
+    "wedding-2022": {
+      "title": "Wedding 2022",
+      "name_ru": "Свадьба 2022",
+      "contest_id": 677,
+      "year": 2022,
+      "category": "event",
+      "description_ru": "Свадебная съёмка: эмоции, репортаж, смешанный свет и работа в сложных условиях."
+    },
+    "emotions-through-nude": {
+      "title": "Emotions Through Nude 18+",
+      "name_ru": "Эмоции через ню 18+",
+      "contest_id": 836,
+      "year": 2024,
+      "category": "nude",
+      "description_ru": "Ню как язык эмоции и пластики: тело, свет, жест и внутреннее состояние."
+    },
+    "body-lines-2022": {
+      "title": "Body Lines 2022",
+      "name_ru": "Линии тела 2022",
+      "contest_id": 676,
+      "year": 2022,
+      "category": "nude",
+      "description_ru": "Ню, где главное — выразительность позы, линии тела, свет и атмосфера."
+    },
+    "bw-child-portrait-2021": {
+      "title": "Black and white child portrait",
+      "name_ru": "Ч/Б детский портрет 2021",
+      "contest_id": 611,
+      "year": 2021,
+      "category": "portrait",
+      "description_ru": "Чёрно-белый детский портрет: свет, характер и графичная простота."
+    },
+    "children-emotional-portrait-2023": {
+      "title": "Children emotional portrait",
+      "name_ru": "Эмоциональный детский портрет 2023",
+      "contest_id": 761,
+      "year": 2023,
+      "category": "portrait",
+      "description_ru": "Эмоции ребёнка крупным планом: взгляд, жест, настроение и доверие к камере."
+    },
+    "childhood-in-motion-2024": {
+      "title": "Childhood in motion",
+      "name_ru": "Детство в движении 2024",
+      "contest_id": 802,
+      "year": 2024,
+      "category": "portrait",
+      "description_ru": "Дети в движении: игра, бег, танец и живая энергия кадра."
+    },
+    "perfect-children-staged-2024": {
+      "title": "Perfect Children staged photography",
+      "name_ru": "Идеальная детская постановка 2024",
+      "contest_id": 872,
+      "year": 2024,
+      "category": "portrait",
+      "description_ru": "Постановочные детские истории: сценография, свет, реквизит и режиссура."
+    },
+    "childhood-in-motion-2026": {
+      "title": "Childhood in Motion",
+      "name_ru": "Детство в движении 2026",
+      "contest_id": 1044,
+      "year": 2026,
+      "category": "portrait",
+      "description_ru": "Свежий завершённый конкурс 2026 года о детях в движении."
+    }
+  }
+}

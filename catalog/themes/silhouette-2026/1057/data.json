@@ -1,0 +1,1414 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:12:15+00:00",
+  "theme": {
+    "slug": "silhouette-2026",
+    "title": "Silhouette",
+    "name_ru": "Силуэт 2026",
+    "contest_id": 1057,
+    "year": 2026,
+    "category": "light",
+    "description_ru": "Силуэт и контровой свет: форма, контур и минимализм.",
+    "source_url": "https://35awards.com/page/contests/num/1057/"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 13416867,
+      "title": "",
+      "description": "Бегущие...",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13416867",
+      "source_url": "https://35awards.com/gallery/photo/13416867/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2683/13416867_1500n.jpg",
+        "full": "photos/full/01_skovorodnikov_13416867.jpg",
+        "thumb": "photos/thumb/01_skovorodnikov_13416867.jpg",
+        "width": 1500,
+        "height": 798
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Red + Yellow",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1016",
+          "under_id": "1470",
+          "link": "https://35awards.com/page/contests/num/1016/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 794,
+        "likes": 1,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "skovorodnikov",
+        "name": "Владимир Сковородников",
+        "name_ru": "Владимир Сковородников",
+        "name_native": "Vladimir Skovorodnikov",
+        "profile_url": "https://35awards.com/author/skovorodnikov",
+        "external_profile": "https://35photo.pro/skovorodnikov/",
+        "avatar": "avatars/skovorodnikov.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Геленджик",
+        "followers": 76,
+        "following": 108,
+        "photos_count": 187,
+        "rank_in_nomination": null,
+        "genres": [
+          "Landscape",
+          "Macro",
+          "Landscape - night"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 13795001,
+      "title": "Bound by Light",
+      "description": "Rim light revealing only the essence of two dogs.",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13795001",
+      "source_url": "https://35awards.com/gallery/photo/13795001/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2759/13795001_1500n.jpg",
+        "full": "photos/full/02_ulsiebert_13795001.jpg",
+        "thumb": "photos/thumb/02_ulsiebert_13795001.jpg",
+        "width": 1500,
+        "height": 1071
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 983,
+        "likes": 1,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "ulsiebert",
+        "name": "Ulrike Siebert",
+        "name_ru": "Ulrike Siebert",
+        "name_native": "Ulrike Siebert",
+        "profile_url": "https://35awards.com/author/ulsiebert",
+        "external_profile": "https://35photo.pro/ulsiebert/",
+        "avatar": "avatars/ulsiebert.jpg",
+        "country": "Germany",
+        "country_code": "",
+        "flag": "",
+        "city": "Monheim am Rhein",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 19,
+        "rank_in_nomination": null,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 17
+          },
+          {
+            "name": "Sony ILCE-1M2",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 7236948,
+      "title": "",
+      "description": "Lone wanderer",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_7236948",
+      "source_url": "https://35awards.com/gallery/photo/7236948/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1447/7236948_1500n.jpg",
+        "full": "photos/full/03_zubi29_7236948.jpg",
+        "thumb": "photos/thumb/03_zubi29_7236948.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 1542,
+        "likes": 0,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "zubi29",
+        "name": "Zubair Irshad",
+        "name_ru": "Zubair Irshad",
+        "name_native": "Zubair Irshad",
+        "profile_url": "https://35awards.com/author/zubi29",
+        "external_profile": "https://35photo.pro/zubi29/",
+        "avatar": "avatars/zubi29.jpg",
+        "country": "United Arab Emirates",
+        "country_code": "",
+        "flag": "",
+        "city": "Dubai",
+        "followers": 103,
+        "following": 29,
+        "photos_count": 498,
+        "rank_in_nomination": null,
+        "genres": [
+          "Street Photo",
+          "Portrait",
+          "Architecture",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 213
+          },
+          {
+            "name": "Nikon D6",
+            "count": 166
+          },
+          {
+            "name": "DJI Mavic Air 2 (FC3170)",
+            "count": 31
+          },
+          {
+            "name": "Apple iPhone 16 Pro Max",
+            "count": 29
+          },
+          {
+            "name": "DJI FC3411",
+            "count": 24
+          },
+          {
+            "name": "Tamron SP AF 150-600mm f/5-6.3 VC USD (A011)",
+            "count": 11
+          },
+          {
+            "name": "HUAWEI VOG-L29",
+            "count": 10
+          },
+          {
+            "name": "Nikon AF-S 24-70mm f/2,8G ED",
+            "count": 7
+          },
+          {
+            "name": "Sigma 12-24mm F4 DG HSM | A",
+            "count": 7
+          },
+          {
+            "name": "Nikon D4S",
+            "count": 6
+          },
+          {
+            "name": "Samsung SM-S908E",
+            "count": 5
+          },
+          {
+            "name": "Nikon D7200",
+            "count": 4
+          },
+          {
+            "name": "Nikon D810",
+            "count": 3
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 85mm f/1.4G",
+            "count": 2
+          },
+          {
+            "name": "HUAWEI CLT-L29",
+            "count": 2
+          },
+          {
+            "name": "Nikon AF-S Nikkor 24-70mm f/2.8E ED VR",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 24-120mm f/4G ED VR",
+            "count": 1
+          },
+          {
+            "name": "Nikon 70-200f/2,8G ED VR II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 13906589,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13906589",
+      "source_url": "https://35awards.com/gallery/photo/13906589/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2781/13906589_1500n.jpg",
+        "full": "photos/full/04_chavali_13906589.jpg",
+        "thumb": "photos/thumb/04_chavali_13906589.jpg",
+        "width": 1500,
+        "height": 1066
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 154,
+        "likes": 1,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "chavali",
+        "name": "Raghuvamsh Chavali",
+        "name_ru": "Raghuvamsh Chavali",
+        "name_native": "Raghuvamsh Chavali",
+        "profile_url": "https://35awards.com/author/chavali",
+        "external_profile": "https://35photo.pro/chavali/",
+        "avatar": "avatars/chavali.jpg",
+        "country": "Canada",
+        "country_code": "",
+        "flag": "",
+        "city": "Toronto",
+        "followers": 10,
+        "following": 0,
+        "photos_count": 143,
+        "rank_in_nomination": null,
+        "genres": [
+          "Animals",
+          "Black and white",
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 10
+          },
+          {
+            "name": "DJI FC7303",
+            "count": 6
+          },
+          {
+            "name": "Nikon D610",
+            "count": 2
+          },
+          {
+            "name": "Nikon D3100",
+            "count": 1
+          },
+          {
+            "name": "Nikon D300S",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 14 Pro Max",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 13775324,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13775324",
+      "source_url": "https://35awards.com/gallery/photo/13775324/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2755/13775324_1500n.jpg",
+        "full": "photos/full/05_olenaromanova_13775324.jpg",
+        "thumb": "photos/thumb/05_olenaromanova_13775324.jpg",
+        "width": 1500,
+        "height": 1125
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 1266,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "olenaromanova",
+        "name": "Olena Pfister",
+        "name_ru": "Olena Pfister",
+        "name_native": "Olena Pfister",
+        "profile_url": "https://35awards.com/author/olenaromanova",
+        "external_profile": "https://35photo.pro/olenaromanova/",
+        "avatar": "avatars/olenaromanova.jpg",
+        "country": "Germany",
+        "country_code": "",
+        "flag": "",
+        "city": "Мюнхен",
+        "followers": 4,
+        "following": 0,
+        "photos_count": 53,
+        "rank_in_nomination": null,
+        "genres": [
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D500",
+            "count": 31
+          },
+          {
+            "name": "Nikon D5600",
+            "count": 16
+          },
+          {
+            "name": "NIKON Z6_3",
+            "count": 5
+          },
+          {
+            "name": "Nikon AF-S 200-500mm f/5.6E ED VR",
+            "count": 2
+          },
+          {
+            "name": "Samsung SM-A525F",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 13785123,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13785123",
+      "source_url": "https://35awards.com/gallery/photo/13785123/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2757/13785123_1500n.jpg",
+        "full": "photos/full/06_nosovsamara_13785123.jpg",
+        "thumb": "photos/thumb/06_nosovsamara_13785123.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Conceptual Minimalism",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1041",
+          "under_id": "1550",
+          "link": "https://35awards.com/page/contests/num/1041/",
+          "badge": "TOP 6%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1293,
+        "likes": 1,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "nosovsamara",
+        "name": "Alexander Nosov",
+        "name_ru": "Alexander Nosov",
+        "name_native": "Alexander Nosov",
+        "profile_url": "https://35awards.com/author/nosovsamara",
+        "external_profile": "https://35photo.pro/nosovsamara/",
+        "avatar": "avatars/nosovsamara.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Самара",
+        "followers": 7,
+        "following": 0,
+        "photos_count": 242,
+        "rank_in_nomination": null,
+        "genres": [
+          "Street Photo",
+          "Architecture"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 650D",
+            "count": 153
+          },
+          {
+            "name": "Fujifilm X-S10",
+            "count": 67
+          },
+          {
+            "name": "HONOR RMO-NX1",
+            "count": 5
+          },
+          {
+            "name": "Canon EF-S 10-18 mm f/4.5-5.6 IS STM",
+            "count": 2
+          },
+          {
+            "name": "HUAWEI DUA-LX9",
+            "count": 2
+          },
+          {
+            "name": "Canon EF-S 55-250MM f4-5.6 IS",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 12832531,
+      "title": "Рассветные отражения",
+      "description": "Журавли-красавки на зеркальной глади степного озера в Калмыкии",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_12832531",
+      "source_url": "https://35awards.com/gallery/photo/12832531/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2566/12832531_1500n.jpg",
+        "full": "photos/full/07_ansad7635awards_12832531.jpg",
+        "thumb": "photos/thumb/07_ansad7635awards_12832531.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Wildlife: Birds",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "998",
+          "under_id": "1435",
+          "link": "https://35awards.com/page/contests/num/998/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Wildlife",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1214",
+          "link": "https://35awards.com/winners11th/nomination/1214/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1960,
+        "likes": 0,
+        "favorites": 25
+      },
+      "author": {
+        "slug": "ansad7635awards",
+        "name": "Анатолий Садовский",
+        "name_ru": "Анатолий Садовский",
+        "name_native": "Anatoliy Sadovskiy",
+        "profile_url": "https://35awards.com/author/ansad7635awards",
+        "external_profile": "https://35photo.pro/ansad7635awards/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Таганрог",
+        "followers": 17,
+        "following": 10,
+        "photos_count": 68,
+        "rank_in_nomination": null,
+        "genres": [
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Nikon Z6_2",
+            "count": 27
+          },
+          {
+            "name": "NIKON Z6_3",
+            "count": 20
+          },
+          {
+            "name": "Nikon D610",
+            "count": 11
+          },
+          {
+            "name": "Nikon NIKKOR Z 180-600mm f/5.6-6.3 VR",
+            "count": 8
+          },
+          {
+            "name": "Nikon D7500",
+            "count": 3
+          },
+          {
+            "name": "Nikon D40",
+            "count": 2
+          },
+          {
+            "name": "Fujifilm X-E2",
+            "count": 2
+          },
+          {
+            "name": "Nokia 7 plus",
+            "count": 1
+          },
+          {
+            "name": "Nikon D300",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 8472438,
+      "title": "Evening at Mundari cattle camp",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_8472438",
+      "source_url": "https://35awards.com/gallery/photo/8472438/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1694/8472438_1500n.jpg",
+        "full": "photos/full/08_skif19_8472438.jpg",
+        "thumb": "photos/thumb/08_skif19_8472438.jpg",
+        "width": 1500,
+        "height": 1230
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Human and Animal",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1000",
+          "under_id": "1445",
+          "link": "https://35awards.com/page/contests/num/1000/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "8th 35AWARDS",
+          "under_title": "Daily Life",
+          "type": "nomination",
+          "contest_id": "663",
+          "under_id": "775",
+          "link": "https://35awards.com/winners8th/nomination/775/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2830,
+        "likes": 2,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "skif19",
+        "name": "Илья Поляк",
+        "name_ru": "Илья Поляк",
+        "name_native": "ILIA POLIAK",
+        "profile_url": "https://35awards.com/author/skif19",
+        "external_profile": "https://35photo.pro/skif19/",
+        "avatar": "avatars/skif19.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 6,
+        "following": 0,
+        "photos_count": 349,
+        "rank_in_nomination": null,
+        "genres": [
+          "Landscape"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 322
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L III USM",
+            "count": 20
+          },
+          {
+            "name": "Canon 70-200mm f/2.8L IS III USM",
+            "count": 20
+          },
+          {
+            "name": "Canon EOS R5m2",
+            "count": 7
+          },
+          {
+            "name": "HUAWEI PCT-AL10",
+            "count": 6
+          },
+          {
+            "name": "Canon EOS 550D",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 13929704,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13929704",
+      "source_url": "https://35awards.com/gallery/photo/13929704/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2785/13929704_1500n.jpg",
+        "full": "photos/full/09_slavalad_13929704.jpg",
+        "thumb": "photos/thumb/09_slavalad_13929704.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 572,
+        "likes": 1,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "slavalad",
+        "name": "Вячеслав Ладанов",
+        "name_ru": "Вячеслав Ладанов",
+        "name_native": "Vyacheslav Ladanov",
+        "profile_url": "https://35awards.com/author/slavalad",
+        "external_profile": "https://35photo.pro/slavalad/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Самара",
+        "followers": 2,
+        "following": 8,
+        "photos_count": 208,
+        "rank_in_nomination": null,
+        "genres": [
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D500",
+            "count": 158
+          },
+          {
+            "name": "NIKON Z 8",
+            "count": 42
+          },
+          {
+            "name": "Nikon NIKKOR Z 180-600mm f/5.6-6.3 VR",
+            "count": 14
+          },
+          {
+            "name": "Nikon D7000",
+            "count": 7
+          },
+          {
+            "name": "Sigma 150-600mm F5-6.3 DG OS HSM | C",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 13941811,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1057/#photo_13941811",
+      "source_url": "https://35awards.com/gallery/photo/13941811/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2788/13941811_1500n.jpg",
+        "full": "photos/full/10_7mashina_13941811.jpg",
+        "thumb": "photos/thumb/10_7mashina_13941811.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Silhouette",
+        "contest_key": "theme:1057",
+        "contest_id": "1057",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1057/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Silhouette",
+          "contest_key": "theme:1057",
+          "contest_id": "1057",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1057/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "silhouette-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Silhouette",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1057",
+          "under_id": "1568",
+          "link": "https://35awards.com/page/contests/num/1057/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 190,
+        "likes": 0,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "7mashina",
+        "name": "Вера Машина",
+        "name_ru": "Вера Машина",
+        "name_native": "Vera Mashina",
+        "profile_url": "https://35awards.com/author/7mashina",
+        "external_profile": "https://35photo.pro/7mashina/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 13,
+        "following": 1,
+        "photos_count": 192,
+        "rank_in_nomination": null,
+        "genres": [
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R7",
+            "count": 168
+          },
+          {
+            "name": "Canon RF 100-500/4.5-7.1 L IS USM",
+            "count": 82
+          },
+          {
+            "name": "Panasonic DC-G9",
+            "count": 9
+          },
+          {
+            "name": "Canon RF 15-35/2.8 L IS USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS R5m2",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS R3",
+            "count": 2
+          },
+          {
+            "name": "Panasonic DC-S1R",
+            "count": 1
+          },
+          {
+            "name": "Panasonic DMC-G80",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

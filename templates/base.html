@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>{% block title %}{{ site.title_ru }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
+  <link rel="icon" href="{{ asset_prefix }}favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ asset_prefix }}css/site.css">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="brand" href="{{ root_prefix }}index.html" aria-label="На главную">
+        <span class="brand__mark">35</span><span class="brand__word">AWARDS</span>
+        <span class="brand__label">архив</span>
+      </a>
+      <nav class="site-nav" aria-label="Навигация">
+        <a href="{{ root_prefix }}index.html#catalog">Каталог</a>
+        <a href="{{ root_prefix }}index.html#nominations">Номинации</a>
+        <a href="{{ root_prefix }}index.html#themes">Темы</a>
+        <a href="{{ root_prefix }}index.html#about">О проекте</a>
+      </nav>
+    </div>
+  </header>
+
+  {% block content %}{% endblock %}
+
+  <footer class="site-footer" id="about">
+    <div class="site-footer__inner">
+      <div>
+        <div class="site-footer__brand">35AWARDS Archive</div>
+        <p>Неофициальный архив лучших работ и фотографов конкурса 35AWARDS.
+           Все фотографии принадлежат их авторам. Указаны ссылки на профили и исходные страницы.</p>
+      </div>
+      <div class="site-footer__meta">
+        <a href="https://35awards.com/" target="_blank" rel="noopener">35awards.com ↗</a>
+        <span>Данные собраны: {{ built_at|ru_date }}</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="{{ asset_prefix }}js/gallery.js" defer></script>
+</body>
+</html>

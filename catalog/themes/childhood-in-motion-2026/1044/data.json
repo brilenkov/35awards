@@ -1,0 +1,1449 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T12:25:58+00:00",
+  "theme": {
+    "slug": "childhood-in-motion-2026",
+    "title": "Childhood in Motion",
+    "name_ru": "Детство в движении 2026",
+    "contest_id": 1044,
+    "year": 2026,
+    "category": "portrait",
+    "description_ru": "Свежий завершённый конкурс 2026 года о детях в движении.",
+    "source_url": "https://35awards.com/page/contests/num/1044/",
+    "selection": "best_of_contest",
+    "selection_label": "BEST OF CONTEST"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 5543807,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_5543807",
+      "source_url": "https://35awards.com/gallery/photo/5543807/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1108/5543807_1500n.jpg",
+        "full": "photos/full/01_shukin79_5543807.jpg",
+        "thumb": "photos/thumb/01_shukin79_5543807.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "6th 35AWARDS",
+          "under_title": "Children photo",
+          "type": "nomination",
+          "contest_id": "557",
+          "under_id": "590",
+          "link": "https://35awards.com/winners6th/nomination/590/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 697,
+        "likes": 3,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "shukin79",
+        "name": "Щукина Елена Валерьевна",
+        "name_ru": "Щукина Елена Валерьевна",
+        "name_native": "Elena Shukina",
+        "profile_url": "https://35awards.com/author/shukin79",
+        "external_profile": "https://35photo.pro/shukin79/",
+        "avatar": "avatars/shukin79.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 82,
+        "following": 0,
+        "photos_count": 404,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Children staged photography",
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 328
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 76
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 39
+          },
+          {
+            "name": "Canon EF 35 mm F/1.4 L USM",
+            "count": 21
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 19
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 10298616,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_10298616",
+      "source_url": "https://35awards.com/gallery/photo/10298616/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2059/10298616_1500n.jpg",
+        "full": "photos/full/02_spirins_10298616.jpg",
+        "thumb": "photos/thumb/02_spirins_10298616.jpg",
+        "width": 1500,
+        "height": 843
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "9th 35AWARDS",
+          "under_title": "Children staged photography",
+          "type": "nomination",
+          "contest_id": "717",
+          "under_id": "847",
+          "link": "https://35awards.com/winners9th/nomination/847/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2223,
+        "likes": 3,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "spirins",
+        "name": "Сергей Спирин",
+        "name_ru": "Сергей Спирин",
+        "name_native": "Sergey Spirin",
+        "profile_url": "https://35awards.com/author/spirins",
+        "external_profile": "https://35photo.pro/spirins/",
+        "avatar": "avatars/spirins.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Раменское",
+        "followers": 458,
+        "following": 14,
+        "photos_count": 456,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Male portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 349
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 31
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 13
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L USM II",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 3
+          },
+          {
+            "name": "Canon EF 35 mm F/1.4 L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 13715782,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13715782",
+      "source_url": "https://35awards.com/gallery/photo/13715782/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2743/13715782_1500n.jpg",
+        "full": "photos/full/03_nastyamar_13715782.jpg",
+        "thumb": "photos/thumb/03_nastyamar_13715782.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 970,
+        "likes": 2,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "nastyamar",
+        "name": "Анастасия Чалар",
+        "name_ru": "Анастасия Чалар",
+        "name_native": "Анастасия Чалар",
+        "profile_url": "https://35awards.com/author/nastyamar",
+        "external_profile": "https://35photo.pro/nastyamar/",
+        "avatar": "avatars/nastyamar.jpg",
+        "country": "Turkey",
+        "country_code": "",
+        "flag": "",
+        "city": "Анталия",
+        "followers": 14,
+        "following": 0,
+        "photos_count": 205,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 105
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 87
+          },
+          {
+            "name": "Sigma 85mm f/1.4 DG HSM A016",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 13059225,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13059225",
+      "source_url": "https://35awards.com/gallery/photo/13059225/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2611/13059225_1500n.jpg",
+        "full": "photos/full/04_utochka98_13059225.jpg",
+        "thumb": "photos/thumb/04_utochka98_13059225.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Children staged photography",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1194",
+          "link": "https://35awards.com/winners11th/nomination/1194/",
+          "badge": "I stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 814,
+        "likes": 5,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "utochka98",
+        "name": "Юлия Уточкина",
+        "name_ru": "Юлия Уточкина",
+        "name_native": "Yulia Utochkina",
+        "profile_url": "https://35awards.com/author/utochka98",
+        "external_profile": "https://35photo.pro/utochka98/",
+        "avatar": "avatars/utochka98.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 20,
+        "following": 0,
+        "photos_count": 244,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Children staged photography",
+          "Child portrait",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 244
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 41
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 13691505,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13691505",
+      "source_url": "https://35awards.com/gallery/photo/13691505/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2738/13691505_1500n.jpg",
+        "full": "photos/full/05_kemerovigor_13691505.jpg",
+        "thumb": "photos/thumb/05_kemerovigor_13691505.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 260,
+        "likes": 2,
+        "favorites": 0
+      },
+      "author": {
+        "slug": "kemerovigor",
+        "name": "Кемеров Игорь",
+        "name_ru": "Кемеров Игорь",
+        "name_native": "Igor Kemerov",
+        "profile_url": "https://35awards.com/author/kemerovigor",
+        "external_profile": "https://35photo.pro/kemerovigor/",
+        "avatar": "avatars/kemerovigor.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Кемерово",
+        "followers": 41,
+        "following": 4,
+        "photos_count": 445,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Sport",
+          "Male portrait",
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 396
+          },
+          {
+            "name": "Canon RF 70-200mm F2.8L IS USM or Canon RF 70-200mm F2.8 L IS USM Z",
+            "count": 56
+          },
+          {
+            "name": "Canon EF 70-200 mm F/4.0 L IS USM",
+            "count": 32
+          },
+          {
+            "name": "Canon RF 50mm F1.8 STM",
+            "count": 31
+          },
+          {
+            "name": "Canon RF 100-400mm F5.6-8 IS USM",
+            "count": 24
+          },
+          {
+            "name": "Canon RF 28-70mm F2L USM",
+            "count": 17
+          },
+          {
+            "name": "Canon RF 16mm F2.8 STM",
+            "count": 11
+          },
+          {
+            "name": "Canon EF 24-105 mm F/4.0 L IS USM",
+            "count": 4
+          },
+          {
+            "name": "Xiaomi MI 9",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 13420145,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13420145",
+      "source_url": "https://35awards.com/gallery/photo/13420145/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2684/13420145_1500n.jpg",
+        "full": "photos/full/06_phti_13420145.jpg",
+        "thumb": "photos/thumb/06_phti_13420145.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Red + Yellow",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1016",
+          "under_id": "1470",
+          "link": "https://35awards.com/page/contests/num/1016/",
+          "badge": "TOP 4%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 473,
+        "likes": 7,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "phti",
+        "name": "lyphutai",
+        "name_ru": "Ly Phu Tai",
+        "name_native": "lyphutai",
+        "profile_url": "https://35awards.com/author/phti",
+        "external_profile": "https://35photo.pro/phti/",
+        "avatar": "avatars/phti.jpg",
+        "country": "Viet Nam",
+        "country_code": "",
+        "flag": "",
+        "city": "Ho Chi Minh City",
+        "followers": 8,
+        "following": 1,
+        "photos_count": 95,
+        "rank_in_nomination": null,
+        "genres": [
+          "Macro",
+          "Animals"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS-1D X Mark II",
+            "count": 39
+          },
+          {
+            "name": "Canon EOS 1D Mark III",
+            "count": 13
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 10
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 9
+          },
+          {
+            "name": "Canon EF 100 mm f/2.8L Macro IS USM",
+            "count": 8
+          },
+          {
+            "name": "Canon EF 70-200 mm F/2.8 L USM",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS 7D",
+            "count": 5
+          },
+          {
+            "name": "Sigma 70mm f/2.8 EX DG Macro EF",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 70-200 mm F/2.8 L IS USM",
+            "count": 3
+          },
+          {
+            "name": "Canon EF-S 18-135mm f/3.5-5.6 IS",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 7D Mark II",
+            "count": 3
+          },
+          {
+            "name": "Tamron SP AF 150-600mm f/5-6.3 Di VC USD G2 (A022)",
+            "count": 3
+          },
+          {
+            "name": "Canon EF 50mm f/2.5 Macro",
+            "count": 3
+          },
+          {
+            "name": "Canon EF 24-105 mm F/4.0 L IS USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 100-400mm f/4.5-5.6L IS II USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS-1D Mark IV",
+            "count": 2
+          },
+          {
+            "name": "GoPro HERO7 Black",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 24-70mm f/4L IS USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 16-35 mm f/2.8 L USM II",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 60D",
+            "count": 1
+          },
+          {
+            "name": "Tamron 90mm f/2.8",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 100 mm F/2.8 MACRO USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 13676889,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13676889",
+      "source_url": "https://35awards.com/gallery/photo/13676889/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2735/13676889_1500n.jpg",
+        "full": "photos/full/07_jana11182_13676889.jpg",
+        "thumb": "photos/thumb/07_jana11182_13676889.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 253,
+        "likes": 2,
+        "favorites": 1
+      },
+      "author": {
+        "slug": "jana11182",
+        "name": "Яна Нарбутович",
+        "name_ru": "Яна Нарбутович",
+        "name_native": "Яна Нарбутович",
+        "profile_url": "https://35awards.com/author/jana11182",
+        "external_profile": "https://35photo.pro/jana11182/",
+        "avatar": "avatars/jana11182.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Санкт-Петербург",
+        "followers": 105,
+        "following": 5,
+        "photos_count": 319,
+        "rank_in_nomination": null,
+        "genres": [
+          "Pets"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R8",
+            "count": 144
+          },
+          {
+            "name": "Canon RF 70-200mm F2.8L IS USM or Canon RF 70-200mm F2.8 L IS USM Z",
+            "count": 52
+          },
+          {
+            "name": "Canon EF 70-200 mm F/2.8 L USM",
+            "count": 7
+          },
+          {
+            "name": "Sigma 70mm f/2.8 DG Macro",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS 90D",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 13773624,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13773624",
+      "source_url": "https://35awards.com/gallery/photo/13773624/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2754/13773624_1500n.jpg",
+        "full": "photos/full/08_zagadka2284_13773624.jpg",
+        "thumb": "photos/thumb/08_zagadka2284_13773624.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 437,
+        "likes": 2,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "zagadka2284",
+        "name": "Наталья Шкроб",
+        "name_ru": "Наталья Шкроб",
+        "name_native": "Natalya Shkrob",
+        "profile_url": "https://35awards.com/author/zagadka2284",
+        "external_profile": "https://35photo.pro/zagadka2284/",
+        "avatar": "avatars/zagadka2284.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Брянск",
+        "followers": 4,
+        "following": 0,
+        "photos_count": 267,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Child portrait",
+          "Portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 136
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 131
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 13300051,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_13300051",
+      "source_url": "https://35awards.com/gallery/photo/13300051/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2660/13300051_1500n.jpg",
+        "full": "photos/full/09_almaxfoto_13300051.jpg",
+        "thumb": "photos/thumb/09_almaxfoto_13300051.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Children staged photography",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1194",
+          "link": "https://35awards.com/winners11th/nomination/1194/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1262,
+        "likes": 1,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "almaxfoto",
+        "name": "Максимов Алексей",
+        "name_ru": "Максимов Алексей",
+        "name_native": "ALEKSEY MAKSIMOV",
+        "profile_url": "https://35awards.com/author/almaxfoto",
+        "external_profile": "https://35photo.pro/almaxfoto/",
+        "avatar": "avatars/almaxfoto.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Ульяновск",
+        "followers": 155,
+        "following": 24,
+        "photos_count": 220,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 143
+          },
+          {
+            "name": "Canon EF 70-200 mm F/2.8 L USM",
+            "count": 32
+          },
+          {
+            "name": "Sigma 24-70mm f/2.8 IF EX DG HSM or Tamron SP 24-70mm f/2.8 Di VC USD",
+            "count": 28
+          },
+          {
+            "name": "Canon EOS 70D",
+            "count": 23
+          },
+          {
+            "name": "Sigma APO Macro 150mm f/2.8 EX DG HSM",
+            "count": 8
+          },
+          {
+            "name": "Fujifilm X-T20",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS R8",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 5447899,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1044/#photo_5447899",
+      "source_url": "https://35awards.com/gallery/photo/5447899/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1089/5447899_1500n.jpg",
+        "full": "photos/full/10_lyudmila967_5447899.jpg",
+        "thumb": "photos/thumb/10_lyudmila967_5447899.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Childhood in Motion",
+        "contest_key": "theme:1044",
+        "contest_id": "1044",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1044/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Childhood in Motion",
+          "contest_key": "theme:1044",
+          "contest_id": "1044",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1044/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "childhood-in-motion-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Childhood in Motion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1044",
+          "under_id": "1535",
+          "link": "https://35awards.com/page/contests/num/1044/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 265,
+        "likes": 2,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "lyudmila967",
+        "name": "Людмила Бобровская",
+        "name_ru": "LIUDMILA BABROUSKAYA",
+        "name_native": "LIUDMILA BABROUSKAYA",
+        "profile_url": "https://35awards.com/author/lyudmila967",
+        "external_profile": "https://35photo.pro/lyudmila967/",
+        "avatar": "avatars/lyudmila967.jpg",
+        "country": "Poland",
+        "country_code": "",
+        "flag": "",
+        "city": "Warszawa",
+        "followers": 90,
+        "following": 1,
+        "photos_count": 340,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Child portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 201
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 136
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 31
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 24
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM | A",
+            "count": 14
+          },
+          {
+            "name": "Canon RF 24-70 f 2.8 L IS USM",
+            "count": 13
+          }
+        ]
+      }
+    }
+  ]
+}

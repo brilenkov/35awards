@@ -1,0 +1,75 @@
+{% macro avatar(author, class_name='avatar') -%}
+  {% if author.avatar_url %}
+    <img class="{{ class_name }}" src="{{ root_prefix }}{{ author.avatar_url }}" alt="{{ author.name }}" loading="lazy">
+  {% elif author.avatar %}
+    <img class="{{ class_name }}" src="{{ media_base }}{{ author.avatar }}" alt="{{ author.name }}" loading="lazy">
+  {% else %}
+    <span class="{{ class_name }} avatar-fallback" aria-hidden="true">{{ author.name[:1]|upper }}</span>
+  {% endif %}
+{%- endmacro %}
+
+{% macro flag(author) -%}
+  {% if author.flag %}
+    <img class="flag" src="{{ root_prefix }}{{ author.flag }}" alt="" loading="lazy">
+  {% endif %}
+{%- endmacro %}
+
+{% macro location(author) -%}
+  <span class="location">{{ flag(author) }}{{ author.city or author.country }}{% if author.city and author.country %}, {{ author.country }}{% endif %}</span>
+{%- endmacro %}
+
+{% macro award_chip(photo, compact=false) -%}
+  {% if photo and photo.award and photo.award.tier == 'win' %}
+    <span class="award-chip award-chip--win{% if compact %} award-chip--compact{% endif %}">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3h8v2h3v3c0 2.2-1.8 4-4 4h-.4A4 4 0 0 1 13 14.9V18h3v2H8v-2h3v-3.1A4 4 0 0 1 9.4 12H9c-2.2 0-4-1.8-4-4V5h3V3Zm0 4H7v1c0 1.1.9 2 2 2V7Zm8 3c1.1 0 2-.9 2-2V7h-1v3h-1Z"/></svg>
+      WIN
+    </span>
+  {% elif photo and photo.award and photo.award.tier == 'best' %}
+    <span class="award-chip award-chip--best{% if compact %} award-chip--compact{% endif %}">BEST OF CONTEST</span>
+  {% elif photo and photo.award and photo.award.tier == 'top' %}
+    <span class="award-chip{% if compact %} award-chip--compact{% endif %}">{{ photo.award.label }}</span>
+  {% elif photo and photo.display_award %}
+    <span class="award-chip{% if photo.display_award_tier == 'win' %} award-chip--win{% elif photo.display_award_tier == 'best' %} award-chip--best{% endif %}{% if compact %} award-chip--compact{% endif %}" title="{{ photo.display_award_title }}">{{ photo.display_award }}</span>
+  {% elif photo and photo.rank %}
+    <span class="award-chip award-chip--rank{% if compact %} award-chip--compact{% endif %}">ТОП-{{ '10' if photo.rank <= 10 else '35' }}</span>
+  {% endif %}
+{%- endmacro %}
+
+{% macro photo_metrics(photo) -%}
+  <span title="Просмотры">
+    <svg class="metric-svg" viewBox="0 0 16 16" aria-hidden="true"><path d="M1.2 8s2.4-4.6 6.8-4.6S14.8 8 14.8 8s-2.4 4.6-6.8 4.6S1.2 8 1.2 8Z"/><circle cx="8" cy="8" r="2.2"/></svg>
+    {{ photo.metrics.views|num }}
+  </span>
+  <span title="Лайки">
+    <svg class="metric-svg metric-svg--fill" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 13.4 2.7 8.1a3.1 3.1 0 0 1 4.4-4.4L8 4.6l.9-.9a3.1 3.1 0 0 1 4.4 4.4L8 13.4Z"/></svg>
+    {{ photo.metrics.likes|num }}
+  </span>
+  <span title="В избранном">
+    <svg class="metric-svg metric-svg--fill" viewBox="0 0 16 16" aria-hidden="true"><path d="m8 1.8 1.9 3.9 4.3.6-3.1 3 .7 4.3L8 11.6l-3.8 2 .7-4.3-3.1-3 4.3-.6L8 1.8Z"/></svg>
+    {{ photo.metrics.favorites|num }}
+  </span>
+{%- endmacro %}
+
+{% macro photo_card(photo) -%}
+<article class="photo-card" data-photo-id="{{ photo.id }}" data-award="{{ photo.award.tier if photo.award else '' }}">
+  <a class="photo-card__media" href="{{ root_prefix }}{{ photo.image.full_url or photo.image.source }}" data-open-photo="{{ photo.id }}" aria-label="Открыть работу {{ photo.author.name }}">
+    {% if photo.image.thumb_url %}
+    <img src="{{ root_prefix }}{{ photo.image.thumb_url }}" alt="{{ photo.title or photo.nomination.name }} — {{ photo.author.name }}" loading="lazy" width="{{ photo.image.width }}" height="{{ photo.image.height }}">
+    {% endif %}
+    <span class="rank-badge">{{ '%02d'|format(photo.rank) }}</span>
+    {{ award_chip(photo, compact=true) }}
+    <span class="card-year">{{ photo.edition.year }}</span>
+  </a>
+  <div class="photo-card__body">
+    <div class="photo-card__author">
+      {{ avatar(photo.author, 'avatar avatar--sm') }}
+      <div class="photo-card__author-copy">
+        <a href="{{ photo.author.profile_url }}" target="_blank" rel="noopener">{{ photo.author.name }}</a>
+        {{ location(photo.author) }}
+        <div class="photo-card__source">{{ photo.nomination.name }}</div>
+      </div>
+    </div>
+    <div class="photo-card__metrics">{{ photo_metrics(photo) }}{% if photo.analysis %}<span class="card-analysis">разбор</span>{% endif %}</div>
+  </div>
+</article>
+{%- endmacro %}

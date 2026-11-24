@@ -1,0 +1,1472 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T09:12:13+00:00",
+  "theme": {
+    "slug": "female-portrait-flowers-2026",
+    "title": "Female Portrait with Flowers",
+    "name_ru": "Женский портрет с цветами 2026",
+    "contest_id": 1048,
+    "year": 2026,
+    "category": "portrait",
+    "description_ru": "Женский портрет с цветами: реквизит, цвет и пластика модели.",
+    "source_url": "https://35awards.com/page/contests/num/1048/"
+  },
+  "limit": 10,
+  "selection": "best_of_contest",
+  "photos": [
+    {
+      "rank": 1,
+      "id": 13758151,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_13758151",
+      "source_url": "https://35awards.com/gallery/photo/13758151/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2751/13758151_1500n.jpg",
+        "full": "photos/full/01_anastasia100_13758151.jpg",
+        "thumb": "photos/thumb/01_anastasia100_13758151.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Studio Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1072",
+          "under_id": "1606",
+          "link": "https://35awards.com/page/contests/num/1072/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 653,
+        "likes": 3,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "anastasia100",
+        "name": "Анастасия Бармина",
+        "name_ru": "Анастасия Бармина",
+        "name_native": "Barmina Anastasiya",
+        "profile_url": "https://35awards.com/author/anastasia100",
+        "external_profile": "https://35photo.pro/anastasia100/",
+        "avatar": "avatars/anastasia100.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Екатеринбург",
+        "followers": 1281,
+        "following": 8,
+        "photos_count": 433,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 384
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 14
+          },
+          {
+            "name": "Canon RF 85mm F1.2L USM or Canon RF 85mm F1.2L USM DS",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 13769950,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_13769950",
+      "source_url": "https://35awards.com/gallery/photo/13769950/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2753/13769950_1500n.jpg",
+        "full": "photos/full/02_ekaterinagitar_13769950.jpg",
+        "thumb": "photos/thumb/02_ekaterinagitar_13769950.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 309,
+        "likes": 1,
+        "favorites": 1
+      },
+      "author": {
+        "slug": "ekaterinagitar",
+        "name": "Екатерина Сигат",
+        "name_ru": "Екатерина Сигат",
+        "name_native": "Ekaterina Sigat",
+        "profile_url": "https://35awards.com/author/ekaterinagitar",
+        "external_profile": "https://35photo.pro/ekaterinagitar/",
+        "avatar": "avatars/ekaterinagitar.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Екатеринбург",
+        "followers": 140,
+        "following": 6,
+        "photos_count": 216,
+        "rank_in_nomination": null,
+        "genres": [
+          "Staged photography",
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6",
+            "count": 100
+          },
+          {
+            "name": "Canon EF 85mm f/1.4L IS USM",
+            "count": 19
+          },
+          {
+            "name": "Canon EF 50 mm f/1.8 stm",
+            "count": 11
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM | A",
+            "count": 9
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 6746506,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_6746506",
+      "source_url": "https://35awards.com/gallery/photo/6746506/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1349/6746506_1500n.jpg",
+        "full": "photos/full/03_parshina_6746506.jpg",
+        "thumb": "photos/thumb/03_parshina_6746506.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "7th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "614",
+          "under_id": "682",
+          "link": "https://35awards.com/winners7th/nomination/682/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 829,
+        "likes": 3,
+        "favorites": 8
+      },
+      "author": {
+        "slug": "parshina",
+        "name": "Паршина Настасья",
+        "name_ru": "Паршина Настасья",
+        "name_native": "Nastasya Parshina",
+        "profile_url": "https://35awards.com/author/parshina",
+        "external_profile": "https://35photo.pro/parshina/",
+        "avatar": "avatars/parshina.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 1247,
+        "following": 0,
+        "photos_count": 300,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 126
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 60
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 30
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM or Sigma 35mm f/1.5 FF High-Speed Prime | 017",
+            "count": 11
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 10311088,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_10311088",
+      "source_url": "https://35awards.com/gallery/photo/10311088/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2062/10311088_1500n.jpg",
+        "full": "photos/full/04_leravasilcheva_10311088.jpg",
+        "thumb": "photos/thumb/04_leravasilcheva_10311088.jpg",
+        "width": 1500,
+        "height": 1125
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Female studio portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "947",
+          "under_id": "1310",
+          "link": "https://35awards.com/page/contests/num/947/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "9th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "717",
+          "under_id": "850",
+          "link": "https://35awards.com/winners9th/nomination/850/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3883,
+        "likes": 11,
+        "favorites": 34
+      },
+      "author": {
+        "slug": "leravasilcheva",
+        "name": "Лера Васильчева",
+        "name_ru": "Лера Васильчева",
+        "name_native": "Lera Vasilcheva",
+        "profile_url": "https://35awards.com/author/leravasilcheva",
+        "external_profile": "https://35photo.pro/leravasilcheva/",
+        "avatar": "avatars/leravasilcheva.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Челябинск",
+        "followers": 114,
+        "following": 1,
+        "photos_count": 380,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 210
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 160
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 10
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 8
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 4
+          },
+          {
+            "name": "Xiaomi 23117RA68G",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 13789088,
+      "title": "",
+      "description": "Смутные нарциссы",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_13789088",
+      "source_url": "https://35awards.com/gallery/photo/13789088/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2757/13789088_1500n.jpg",
+        "full": "photos/full/05_nataliadrepina_13789088.jpg",
+        "thumb": "photos/thumb/05_nataliadrepina_13789088.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 315,
+        "likes": 3,
+        "favorites": 3
+      },
+      "author": {
+        "slug": "nataliadrepina",
+        "name": "Natalia Drepina",
+        "name_ru": "Natalia Drepina",
+        "name_native": "Natalia Drepina",
+        "profile_url": "https://35awards.com/author/nataliadrepina",
+        "external_profile": "https://35photo.pro/nataliadrepina/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Липецк",
+        "followers": 1,
+        "following": 0,
+        "photos_count": 6,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 50 mm f/1.2 L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 12564151,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_12564151",
+      "source_url": "https://35awards.com/gallery/photo/12564151/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2512/12564151_1500n.jpg",
+        "full": "photos/full/06_karimovlenar_12564151.jpg",
+        "thumb": "photos/thumb/06_karimovlenar_12564151.jpg",
+        "width": 1500,
+        "height": 1001
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1733,
+        "likes": 4,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "karimovlenar",
+        "name": "Ленар Карим",
+        "name_ru": "Ленар Карим",
+        "name_native": "LENAR KARIM",
+        "profile_url": "https://35awards.com/author/karimovlenar",
+        "external_profile": "https://35photo.pro/karimovlenar/",
+        "avatar": "avatars/karimovlenar.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Казань",
+        "followers": 38,
+        "following": 1,
+        "photos_count": 150,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 70
+          },
+          {
+            "name": "Nikon Z5",
+            "count": 21
+          },
+          {
+            "name": "Nikon D300S",
+            "count": 6
+          },
+          {
+            "name": "Nikon NIKKOR Z 24-50mm f/4-6.3",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 11",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 1
+          },
+          {
+            "name": "Leica D-LUX 4",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm X-T20",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 11805927,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_11805927",
+      "source_url": "https://35awards.com/gallery/photo/11805927/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2361/11805927_1500n.jpg",
+        "full": "photos/full/07_ganich_11805927.jpg",
+        "thumb": "photos/thumb/07_ganich_11805927.jpg",
+        "width": 997,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Цветовой портрет с красными маками на бирюзовом фоне. Комплементарный контраст и мягкий свет делают кадр почти плакатным, но веснушки и фактура кожи возвращают его к человеку.",
+        "light": {
+          "scheme": "Мягкий студийный свет, боковой",
+          "direction": "Слева, чуть сверху",
+          "ratio": "Примерно 1:3",
+          "notes": "Свет лепит скулу и нос, оставляя правую сторону в мягкой тени. Красные лепестки не пересвечены."
+        },
+        "color": {
+          "palette": "Красный, бирюзовый, медные волосы, веснушки",
+          "temperature": "Нейтрально-тёплая",
+          "contrast": "Высокий",
+          "notes": "Комплементарная пара красный/бирюзовый — главный приём. Насыщенность высокая, но кожа остаётся естественной."
+        },
+        "lens": {
+          "estimate": "85–105 мм",
+          "aperture": "f/2.8",
+          "perspective": "Крупный план, дистанция 1,5–2 м",
+          "notes": "Малая ГРИП удерживает лицо и цветок, фон растворяется."
+        },
+        "background": "Бирюзовая ткань/фон с мягким градиентом.",
+        "nuances": [
+          "Маки работают как цветовой якорь и как рамка вокруг лица.",
+          "Рука с цветком добавляет жест нежности.",
+          "Веснушки поддерживают естественность на фоне насыщенного цвета.",
+          "Взгляд в камеру удерживает контакт в декоративной композиции."
+        ],
+        "facets": {
+          "light": [
+            "studio",
+            "soft",
+            "loop"
+          ],
+          "color": [
+            "color",
+            "saturated",
+            "warm"
+          ],
+          "emotion": [
+            "tender",
+            "mystery"
+          ],
+          "image": [
+            "beauty",
+            "fine-art"
+          ],
+          "season": [
+            "summer"
+          ],
+          "technique": [
+            "studio",
+            "fine-art"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "studio",
+          "soft",
+          "loop"
+        ],
+        "color": [
+          "color",
+          "saturated",
+          "warm"
+        ],
+        "emotion": [
+          "tender",
+          "mystery"
+        ],
+        "image": [
+          "beauty",
+          "fine-art"
+        ],
+        "season": [
+          "summer"
+        ],
+        "technique": [
+          "studio",
+          "fine-art"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Female studio portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "947",
+          "under_id": "1310",
+          "link": "https://35awards.com/page/contests/num/947/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "Staged portrait in natural light",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "971",
+          "under_id": "1369",
+          "link": "https://35awards.com/page/contests/num/971/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1009",
+          "link": "https://35awards.com/winners10th/nomination/1009/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 3839,
+        "likes": 3,
+        "favorites": 22
+      },
+      "author": {
+        "slug": "ganich",
+        "name": "Ирина Ганич",
+        "name_ru": "Ирина Ганич",
+        "name_native": "Irina Ganich",
+        "profile_url": "https://35awards.com/author/ganich",
+        "external_profile": "https://35photo.pro/ganich/",
+        "avatar": "avatars/ganich.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Донецк",
+        "followers": 510,
+        "following": 18,
+        "photos_count": 455,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D780",
+            "count": 201
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 27
+          },
+          {
+            "name": "Nikon D600",
+            "count": 7
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 7965622,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_7965622",
+      "source_url": "https://35awards.com/gallery/photo/7965622/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/1593/7965622_1500n.jpg",
+        "full": "photos/full/08_mennahossam_7965622.jpg",
+        "thumb": "photos/thumb/08_mennahossam_7965622.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "Woman portrait with flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "682",
+          "under_id": "801",
+          "link": "https://35awards.com/page/contests/num/682/",
+          "badge": "TOP 11%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 658,
+        "likes": 1,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "mennahossam",
+        "name": "Menna Hossam",
+        "name_ru": "Hossam Menna",
+        "name_native": "Menna Hossam",
+        "profile_url": "https://35awards.com/author/mennahossam",
+        "external_profile": "https://35photo.pro/mennahossam/",
+        "avatar": "avatars/mennahossam.jpg",
+        "country": "Egypt",
+        "country_code": "",
+        "flag": "",
+        "city": "Cairo",
+        "followers": 36,
+        "following": 2,
+        "photos_count": 47,
+        "rank_in_nomination": null,
+        "genres": [
+          "Fashion",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 16
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 10
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 7D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 10161571,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_10161571",
+      "source_url": "https://35awards.com/gallery/photo/10161571/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2032/10161571_1500n.jpg",
+        "full": "photos/full/09_tarabrinaa_10161571.jpg",
+        "thumb": "photos/thumb/09_tarabrinaa_10161571.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "9th 35AWARDS",
+          "under_title": "Black and white",
+          "type": "nomination",
+          "contest_id": "717",
+          "under_id": "867",
+          "link": "https://35awards.com/winners9th/nomination/867/",
+          "badge": "II stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1054,
+        "likes": 1,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "tarabrinaa",
+        "name": "Anna Tarabrina",
+        "name_ru": "Anna Tarabrina",
+        "name_native": "Anna Tarabrina",
+        "profile_url": "https://35awards.com/author/tarabrinaa",
+        "external_profile": "https://35photo.pro/tarabrinaa/",
+        "avatar": "avatars/tarabrinaa.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Москва",
+        "followers": 8,
+        "following": 0,
+        "photos_count": 22,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 10
+          },
+          {
+            "name": "Sony ILCE-7SM3",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 24-105 mm F/4.0 L IS USM",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 11267639,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/page/contests/num/1048/#photo_11267639",
+      "source_url": "https://35awards.com/gallery/photo/11267639/",
+      "top35": false,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2253/11267639_1500n.jpg",
+        "full": "photos/full/10_irinagarsh_11267639.jpg",
+        "thumb": "photos/thumb/10_irinagarsh_11267639.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best"
+        ],
+        "source": [
+          "theme"
+        ],
+        "theme": [
+          "female-portrait-flowers-2026"
+        ],
+        "year": [
+          "2026"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        },
+        {
+          "name": "10th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "795",
+          "under_id": "1009",
+          "link": "https://35awards.com/winners10th/nomination/1009/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2028,
+        "likes": 2,
+        "favorites": 20
+      },
+      "author": {
+        "slug": "irinagarsh",
+        "name": "Ирина Гарш",
+        "name_ru": "Ирина Гарш",
+        "name_native": "Irina Garsh",
+        "profile_url": "https://35awards.com/author/irinagarsh",
+        "external_profile": "https://35photo.pro/irinagarsh/",
+        "avatar": "avatars/irinagarsh.jpg",
+        "country": "Russian Federation",
+        "country_code": "",
+        "flag": "",
+        "city": "Киров",
+        "followers": 228,
+        "following": 1,
+        "photos_count": 304,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 263
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 5
+          }
+        ]
+      }
+    }
+  ]
+}

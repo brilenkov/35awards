@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block title %}{{ theme.name_ru or theme.title }} — тематический конкурс — 35AWARDS Archive{% endblock %}
+{% block description %}{{ theme.description_ru }}{% endblock %}
+
+{% block content %}
+<main>
+  <div class="container breadcrumbs">
+    <a href="{{ root_prefix }}index.html">Главная</a>
+    <span aria-hidden="true">/</span>
+    <a href="{{ root_prefix }}index.html#themes">Темы</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ theme.title }}</span>
+  </div>
+
+  <section class="edition-hero container">
+    <div>
+      <div class="hero__kicker">{{ theme.category_label }} · {{ theme.year }}</div>
+      <h1>{{ theme.name_ru or theme.title }}</h1>
+      <div class="edition-hero__original">{{ theme.title }} <span>·</span> subcontest {{ theme.contest_id }}</div>
+    </div>
+    <div class="edition-hero__stats">
+      <div class="stat"><b>{{ photos|length }}</b><span>{{ theme.selection_label }}</span></div>
+      <div class="stat"><b>{{ theme.year }}</b><span>год</span></div>
+      <div class="stat"><b>{{ theme.category_label }}</b><span>категория</span></div>
+    </div>
+  </section>
+
+  <section class="container edition-body">
+    <p class="catalog-intro">{{ theme.description_ru }}</p>
+    <div class="toolbar">
+      <div class="filter">
+        <a class="filter__btn is-active" href="{{ root_prefix }}index.html?theme={{ theme.slug }}#catalog">Все работы темы в каталоге →</a>
+      </div>
+      <div class="toolbar__hint">{{ theme.selection_label }} · {{ photos|length }} работ</div>
+    </div>
+
+    <div class="photo-grid" id="photoGrid">
+      {% for photo in photos %}
+      {{ ui.photo_card(photo) }}
+      {% endfor %}
+    </div>
+    <div class="load-more-wrap"><button class="button button--ghost" id="loadMore" type="button" hidden>Показать ещё</button></div>
+  </section>
+
+  <section class="section section--muted">
+    <div class="container edition-source">
+      <div>
+        <div class="kicker">Источник</div>
+        <p>Официальные результаты тематического конкурса «{{ theme.title }}» на сайте 35AWARDS.</p>
+      </div>
+      <div class="source-links">
+        <a class="button" href="{{ theme.source_url }}" target="_blank" rel="noopener">Страница результатов ↗</a>
+        <a class="button button--ghost" href="{{ root_prefix }}index.html#catalog">Срез по темам →</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+{% include "_lightbox.html" %}
+
+<script>
+  window.CATALOG_ROOT = "{{ root_prefix }}";
+  window.CATALOG_DATA = {{ page_data|tojson }};
+</script>
+{% endblock %}

@@ -1,0 +1,5367 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T08:13:32+00:00",
+  "nomination": {
+    "slug": "female-portrait",
+    "name": "Female portrait",
+    "name_ru": "Женский портрет",
+    "description_ru": "Женский портрет — одна из самых массовых номинаций конкурса. В подборке — работы, прошедшие второй этап голосования и занявшие верхние строчки рейтинга номинации.",
+    "source_url": "https://35awards.com/winners11th/nomination/1197/",
+    "works_count": "41.8K",
+    "authors_count": "21.2K"
+  },
+  "edition": {
+    "slug": "11th",
+    "year": 2025,
+    "title": "11th 35AWARDS",
+    "source_url": "https://35awards.com/winners11th/nomination/1197/",
+    "photographers_url": "https://35awards.com/winners11th/nomination/1197/photographers/"
+  },
+  "limit": 35,
+  "photos": [
+    {
+      "rank": 1,
+      "id": 12868266,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12868266",
+      "source_url": "https://35awards.com/gallery/photo/12868266/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2573/12868266_1500n.jpg",
+        "full": "photos/full/01_anabell_12868266.jpg",
+        "thumb": "photos/thumb/01_anabell_12868266.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": {
+        "summary": "Студийный крупный план, в котором образ строится на графичных линиях на коже. Гладкая пластика лица контрастирует с почти каллиграфическим рисунком, а сдержанный свет не даёт изображению уйти в декоративность.",
+        "light": {
+          "scheme": "Мягкий направленный свет, петлевой (loop)",
+          "direction": "Верхне-боковой, слева от камеры",
+          "ratio": "Примерно 1:3",
+          "notes": "Похоже на один большой софтбокс или окно с заполнением от стены. Тень от носа образует мягкую петлю, а не выраженный треугольник Рембрандта; блик в глазах точечный, фактура кожи сохранена."
+        },
+        "color": {
+          "palette": "Оливково-зелёный фон, тёплые бежевые полутона кожи, чёрный графичный акцент",
+          "temperature": "Нейтрально-тёплая",
+          "contrast": "Средний, без пересветов",
+          "notes": "Приглушённая насыщенность и зелёный фон поддерживают цвет глаз. Кожа не выбелена, веснушки и текстура читаются."
+        },
+        "lens": {
+          "estimate": "85–135 мм",
+          "aperture": "f/2–f/4",
+          "perspective": "Компрессия черт, дистанция примерно 2–3 м",
+          "notes": "Фон мягко размыт, но фактура стены остаётся различимой. Для такого крупного плана длинное фокусное даёт естественные пропорции."
+        },
+        "background": "Оливково-зелёная стена или задник с мягким градиентом, без отвлекающих деталей.",
+        "nuances": [
+          "Линии на коже работают как самостоятельный графический сюжет и ведут взгляд к глазам.",
+          "Плечи и шея образуют диагональ, которая уравновешивает строгую фронтальную композицию.",
+          "Взгляд в камеру удерживает контакт, но выражение остаётся сдержанным.",
+          "Ретушь деликатная: сохранены веснушки, поры и естественная неровность тона."
+        ],
+        "facets": {
+          "light": [
+            "studio",
+            "soft",
+            "loop"
+          ],
+          "color": [
+            "color",
+            "muted",
+            "cool"
+          ],
+          "emotion": [
+            "calm",
+            "mystery"
+          ],
+          "image": [
+            "beauty",
+            "fine-art"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "studio",
+            "fine-art"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "studio",
+          "soft",
+          "loop"
+        ],
+        "color": [
+          "color",
+          "muted",
+          "cool"
+        ],
+        "emotion": [
+          "calm",
+          "mystery"
+        ],
+        "image": [
+          "beauty",
+          "fine-art"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "studio",
+          "fine-art"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1530,
+        "likes": 4,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "anabell",
+        "name": "Alimpieva Anna",
+        "name_ru": "Алимпиева Анна",
+        "name_native": "Alimpieva Anna",
+        "profile_url": "https://35awards.com/author/anabell/",
+        "external_profile": "https://35photo.pro/anabell/",
+        "avatar": "avatars/anabell.jpg",
+        "country": "Finland",
+        "country_code": "FI",
+        "flag": "assets/flags/fi.svg",
+        "city": "Joensuu",
+        "followers": 232,
+        "following": 51,
+        "photos_count": 272,
+        "rank_in_nomination": 20,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D750",
+            "count": 183
+          },
+          {
+            "name": "Nikon D850",
+            "count": 72
+          },
+          {
+            "name": "Sigma 35mm F1.4 DG HSM",
+            "count": 12
+          },
+          {
+            "name": "Sigma 85mm F1.4 DG HSM | A",
+            "count": 9
+          },
+          {
+            "name": "Nikon D7100",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 12235293,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12235293",
+      "source_url": "https://35awards.com/gallery/photo/12235293/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2447/12235293_1500n.jpg",
+        "full": "photos/full/02_lisitskayaphoto_12235293.jpg",
+        "thumb": "photos/thumb/02_lisitskayaphoto_12235293.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "WIN",
+        "kind": "win",
+        "tier": "win",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "WIN",
+          "kind": "win",
+          "tier": "win",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [
+        "assets/badges/100-best-photos.png"
+      ],
+      "analysis": {
+        "summary": "Портрет на грани fashion и репортажа: жёсткий боковой свет и ветер создают ощущение движения. Чёрно-белое решение усиливает графику скул и взгляда.",
+        "light": {
+          "scheme": "Жёсткий боковой/контровой, естественное солнце",
+          "direction": "Справа-сзади, почти скользящий",
+          "ratio": "Примерно 1:4–1:6",
+          "notes": "Свет лепит скулу, нос и губы, левая часть лица уходит в глубокую тень. Блик на коже и волосах добавляет объём."
+        },
+        "color": {
+          "palette": "Чёрно-белая гамма с глубоким чёрным и светлыми полутонами",
+          "temperature": "Нейтральная",
+          "contrast": "Высокий",
+          "notes": "Монохром убирает цветовые отвлечения и переводит внимание на форму, фактуру и движение волос."
+        },
+        "lens": {
+          "estimate": "85 мм",
+          "aperture": "f/1.8–f/2.8",
+          "perspective": "Чуть ниже уровня глаз",
+          "notes": "Малая глубина резкости растворяет фон; резкость держится на глазах и губах. Компрессия мягкая, без «телескопичности»."
+        },
+        "background": "Размытый пейзаж с дымкой и светлым небом, без читаемых деталей.",
+        "nuances": [
+          "Волосы, поднятые ветром, работают как второй графический центр.",
+          "Асимметрия лица подчёркнута светом и поворотом головы.",
+          "Акцент на губах и глазах удерживает внимание в верхней трети кадра.",
+          "Кроп по плечу усиливает интимность и ощущение непосредственного наблюдения."
+        ],
+        "facets": {
+          "light": [
+            "natural",
+            "hard",
+            "backlight"
+          ],
+          "color": [
+            "bw",
+            "monochrome"
+          ],
+          "emotion": [
+            "strength",
+            "tense"
+          ],
+          "image": [
+            "fashion",
+            "fine-art"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "natural-light",
+            "fashion"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "natural",
+          "hard",
+          "backlight"
+        ],
+        "color": [
+          "bw",
+          "color",
+          "muted"
+        ],
+        "emotion": [
+          "strength",
+          "tense"
+        ],
+        "image": [
+          "fashion",
+          "fine-art"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "natural-light",
+          "fashion"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "win",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "WIN",
+          "tier": "win"
+        }
+      ],
+      "metrics": {
+        "views": 1580,
+        "likes": 2,
+        "favorites": 14
+      },
+      "author": {
+        "slug": "lisitskayaphoto",
+        "name": "Ekaterina Lisitskaya",
+        "name_ru": "Ekaterina Lisitskaya",
+        "name_native": "Ekaterina Lisitskaya",
+        "profile_url": "https://35awards.com/author/lisitskayaphoto/",
+        "external_profile": "https://35photo.pro/lisitskayaphoto/",
+        "avatar": "avatars/lisitskayaphoto.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Новороссийск",
+        "followers": 6,
+        "following": 0,
+        "photos_count": 7,
+        "rank_in_nomination": 23,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "id": 13209701,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13209701",
+      "source_url": "https://35awards.com/gallery/photo/13209701/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2641/13209701_1500n.jpg",
+        "full": "photos/full/03_wadaa_13209701.jpg",
+        "thumb": "photos/thumb/03_wadaa_13209701.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Низкоключевой портрет пожилой женщины, построенный на фактуре кожи, ткани и рук. Свет вырывает лицо из черноты, превращая морщины в главный изобразительный материал.",
+        "light": {
+          "scheme": "Жёсткий боковой свет, низкий ключ",
+          "direction": "Слева, почти 90° к лицу",
+          "ratio": "Примерно 1:8",
+          "notes": "Свет подчёркивает морщины, рельеф кожи и фактуру платка. Правая сторона лица и фон уходят в глубокую тень, но детали не проваливаются полностью."
+        },
+        "color": {
+          "palette": "Чёрный, тёмно-коричневый, тёплые охристые тона кожи",
+          "temperature": "Тёплая",
+          "contrast": "Высокий",
+          "notes": "Палитра почти монохромная; цвет работает как акцент на коже и руках, а не как самостоятельная тема."
+        },
+        "lens": {
+          "estimate": "85–135 мм",
+          "aperture": "f/2.8–f/4",
+          "perspective": "Профильный ракурс, дистанция 2–3 м",
+          "notes": "Компрессия подчёркивает нос и подбородок, фон полностью растворяется. Резкость держится на ресницах и коже."
+        },
+        "background": "Чёрный драпированный фон и чёрный платок, без отвлекающих деталей.",
+        "nuances": [
+          "Рука на груди становится вторым смысловым центром и рифмуется с морщинами лица.",
+          "Опущенные глаза и профиль создают ощущение прожитой истории.",
+          "Фактура ткани платка и пятнистой одежды работает наравне с кожей.",
+          "Кадрирование по плечу оставляет достаточно воздуха, но не теряет крупность."
+        ],
+        "facets": {
+          "light": [
+            "natural",
+            "hard",
+            "split",
+            "low-key"
+          ],
+          "color": [
+            "color",
+            "muted",
+            "warm"
+          ],
+          "emotion": [
+            "dramatic",
+            "sadness",
+            "strength"
+          ],
+          "image": [
+            "character",
+            "fine-art"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "natural-light",
+            "fine-art"
+          ],
+          "focal": [
+            "short-tele",
+            "tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "natural",
+          "hard",
+          "split",
+          "low-key"
+        ],
+        "color": [
+          "color",
+          "muted",
+          "warm"
+        ],
+        "emotion": [
+          "dramatic",
+          "sadness",
+          "strength"
+        ],
+        "image": [
+          "character",
+          "fine-art"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "natural-light",
+          "fine-art"
+        ],
+        "focal": [
+          "short-tele",
+          "tele"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1222,
+        "likes": 2,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "wadaa",
+        "name": "wadaa Alaumry",
+        "name_ru": "wadaa Alaumry",
+        "name_native": "wadaa Alaumry",
+        "profile_url": "https://35awards.com/author/wadaa/",
+        "external_profile": "https://35photo.pro/wadaa/",
+        "avatar": "avatars/wadaa.jpg",
+        "country": "Iraq",
+        "country_code": "IQ",
+        "flag": "assets/flags/iq.svg",
+        "city": "Dhi Qar",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 24,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D800",
+            "count": 7
+          },
+          {
+            "name": "Canon EOS 700D",
+            "count": 2
+          },
+          {
+            "name": "Canon EF-S 18-55mm f/3.5-5.6 IS STM",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 24-120mm f/4G ED VR",
+            "count": 1
+          },
+          {
+            "name": "Nikon D750",
+            "count": 1
+          },
+          {
+            "name": "Nikon D5300",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 13253962,
+      "title": "小钰",
+      "description": "小钰-清汉女",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13253962",
+      "source_url": "https://35awards.com/gallery/photo/13253962/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2650/13253962_1500n.jpg",
+        "full": "photos/full/04_leehu0617_13253962.jpg",
+        "thumb": "photos/thumb/04_leehu0617_13253962.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Fashion & Glamour",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1196",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1196/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Fashion & Glamour",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1196",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1196/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Постановочный портрет в китайском историческом костюме. Тёплый студийный свет и насыщенная фактура шёлка превращают кадр в почти живописное полотно.",
+        "light": {
+          "scheme": "Мягкий студийный свет, петлевой (loop)",
+          "direction": "Слева-сверху",
+          "ratio": "Примерно 1:2",
+          "notes": "Большой софтбокс даёт мягкую тень от подбородка и объём на щеке. Свет не форсирует блики на шёлке, сохраняя благородную матовость."
+        },
+        "color": {
+          "palette": "Тёплая охра, чёрный шёлк с золотом, приглушённый синий и кремовый",
+          "temperature": "Тёплая",
+          "contrast": "Средний",
+          "notes": "Богатая, но не пересвеченная палитра. Красные акценты в причёске и цветах поддерживают тёплый фон."
+        },
+        "lens": {
+          "estimate": "85 мм",
+          "aperture": "f/2.8–f/4",
+          "perspective": "Лёгкий верхний ракурс, дистанция 2–3 м",
+          "notes": "Перспектива спокойная, без широкоугольных искажений. Фон мягко уходит из фокуса."
+        },
+        "background": "Коричневый фактурный задник, поддерживающий тёплую гамму костюма.",
+        "nuances": [
+          "Костюм, веер и причёска работают как культурный код, а не просто реквизит.",
+          "Наклон головы и линия плеч создают мягкую диагональ.",
+          "Руки поддерживают композицию и не дают фигуре «повиснуть».",
+          "Взгляд в камеру уравновешивает статичность позы."
+        ],
+        "facets": {
+          "light": [
+            "studio",
+            "soft",
+            "loop"
+          ],
+          "color": [
+            "color",
+            "warm",
+            "muted"
+          ],
+          "emotion": [
+            "calm",
+            "tender",
+            "mystery"
+          ],
+          "image": [
+            "fashion",
+            "vintage",
+            "staged"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "studio",
+            "staged"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "studio",
+          "soft",
+          "loop"
+        ],
+        "color": [
+          "color",
+          "warm",
+          "muted"
+        ],
+        "emotion": [
+          "calm",
+          "tender",
+          "mystery"
+        ],
+        "image": [
+          "fashion",
+          "vintage",
+          "staged"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "studio",
+          "staged"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Fashion & Glamour",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1196",
+          "link": "https://35awards.com/winners11th/nomination/1196/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2215,
+        "likes": 3,
+        "favorites": 19
+      },
+      "author": {
+        "slug": "leehu0617",
+        "name": "李 虎",
+        "name_ru": "摄影师 虎",
+        "name_native": "摄影师虎",
+        "profile_url": "https://35awards.com/author/leehu0617/",
+        "external_profile": "https://35photo.pro/leehu0617/",
+        "avatar": "avatars/leehu0617.jpg",
+        "country": "China",
+        "country_code": "CN",
+        "flag": "assets/flags/cn.svg",
+        "city": "Shanghai",
+        "followers": 349,
+        "following": 26,
+        "photos_count": 31,
+        "rank_in_nomination": 9,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM5",
+            "count": 18
+          },
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 13215938,
+      "title": "В клетке",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13215938",
+      "source_url": "https://35awards.com/gallery/photo/13215938/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2643/13215938_1500n.jpg",
+        "full": "photos/full/05_ledily_13215938.jpg",
+        "thumb": "photos/thumb/05_ledily_13215938.jpg",
+        "width": 1250,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Сюрреалистический постановочный портрет с птичьей клеткой на голове. Мягкий свет и приглушённая палитра переводят метафору из пафоса в тихую меланхолию.",
+        "light": {
+          "scheme": "Мягкий студийный свет, низкий ключ",
+          "direction": "Фронтально-боковой, чуть слева",
+          "ratio": "Примерно 1:2",
+          "notes": "Клетка отбрасывает тонкие графические тени на лицо и шею. Свет мягкий, без жёстких бликов на металле."
+        },
+        "color": {
+          "palette": "Приглушённый беж, серо-коричневый, оливковые тени",
+          "temperature": "Нейтрально-тёплая",
+          "contrast": "Низкий",
+          "notes": "Почти сепийная гамма и десатурация поддерживают ощущение сна. Цвет не спорит с метафорой."
+        },
+        "lens": {
+          "estimate": "50–85 мм",
+          "aperture": "f/2.8–f/4",
+          "perspective": "Фронтальный, дистанция 1,5–2,5 м",
+          "notes": "Клетка и лицо находятся в одной плоскости, поэтому важна аккуратная работа с ГРИП: прутья не должны съедать лицо."
+        },
+        "background": "Серый студийный фон, мягко отделяющий фигуру от пространства.",
+        "nuances": [
+          "Клетка работает как метафора несвободы, но не превращает кадр в плакат.",
+          "Руки, удерживающие прутья, добавляют физического усилия.",
+          "Взгляд вниз и расслабленные губы создают ощущение усталости.",
+          "Фактура перьев на платье рифмуется с металлом клетки."
+        ],
+        "facets": {
+          "light": [
+            "studio",
+            "soft",
+            "low-key"
+          ],
+          "color": [
+            "color",
+            "muted",
+            "warm"
+          ],
+          "emotion": [
+            "sadness",
+            "mystery",
+            "tense"
+          ],
+          "image": [
+            "staged",
+            "fine-art",
+            "surreal"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "studio",
+            "staged"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "studio",
+          "soft",
+          "low-key"
+        ],
+        "color": [
+          "color",
+          "muted",
+          "warm"
+        ],
+        "emotion": [
+          "sadness",
+          "mystery",
+          "tense"
+        ],
+        "image": [
+          "staged",
+          "fine-art",
+          "surreal"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "studio",
+          "staged"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1236,
+        "likes": 3,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "ledily",
+        "name": "Елена Донская",
+        "name_ru": "Елена Донская",
+        "name_native": "Elena Donskaya",
+        "profile_url": "https://35awards.com/author/ledily/",
+        "external_profile": "https://35photo.pro/ledily/",
+        "avatar": "avatars/ledily.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Г.Томск",
+        "followers": 13,
+        "following": 4,
+        "photos_count": 163,
+        "rank_in_nomination": 28,
+        "genres": [
+          "Portrait",
+          "Conceptual Photo",
+          "Animals",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 159
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 19
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 12968013,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12968013",
+      "source_url": "https://35awards.com/gallery/photo/12968013/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2593/12968013_1500n.jpg",
+        "full": "photos/full/06_leravasilcheva_12968013.jpg",
+        "thumb": "photos/thumb/06_leravasilcheva_12968013.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Тихий постановочный портрет пожилой женщины в объятиях молодых рук. Тёплый рассеянный свет и пастельная палитра делают тему памяти и преемственности почти осязаемой.",
+        "light": {
+          "scheme": "Мягкий оконный/студийный свет",
+          "direction": "Слева, чуть сверху",
+          "ratio": "Примерно 1:2",
+          "notes": "Свет обволакивает лицо и руки, сохраняя фактуру морщин и ткани. Тени мягкие, без резких переходов."
+        },
+        "color": {
+          "palette": "Тёплый беж, оливковый, седые волосы, кремовая ткань",
+          "temperature": "Тёплая",
+          "contrast": "Низкий–средний",
+          "notes": "Пастельная гамма и приглушённая saturation создают ощущение домашнего архива."
+        },
+        "lens": {
+          "estimate": "85 мм",
+          "aperture": "f/2–f/2.8",
+          "perspective": "Фронтальный, дистанция 1,5–2 м",
+          "notes": "Малая ГРИП аккуратно отделяет лицо, при этом руки на переднем плане остаются читаемыми."
+        },
+        "background": "Тёмно-оливковый фон и одежда, без бытовых деталей.",
+        "nuances": [
+          "Контраст старческих и молодых рук — главный драматургический приём.",
+          "Объятие читается не как поза, а как жест поддержки.",
+          "Взгляд вверх и в сторону оставляет пространство для воспоминания.",
+          "Морщины и пятна на коже не ретушируются, а становятся фактурой кадра."
+        ],
+        "facets": {
+          "light": [
+            "natural",
+            "soft",
+            "window"
+          ],
+          "color": [
+            "color",
+            "warm",
+            "muted"
+          ],
+          "emotion": [
+            "tender",
+            "sadness",
+            "calm"
+          ],
+          "image": [
+            "character",
+            "fine-art"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "natural-light",
+            "staged"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "natural",
+          "soft",
+          "window"
+        ],
+        "color": [
+          "color",
+          "warm",
+          "muted"
+        ],
+        "emotion": [
+          "tender",
+          "sadness",
+          "calm"
+        ],
+        "image": [
+          "character",
+          "fine-art"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "natural-light",
+          "staged"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1321,
+        "likes": 2,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "leravasilcheva",
+        "name": "Лера Васильчева",
+        "name_ru": "Лера Васильчева",
+        "name_native": "Lera Vasilcheva",
+        "profile_url": "https://35awards.com/author/leravasilcheva/",
+        "external_profile": "https://35photo.pro/leravasilcheva/",
+        "avatar": "avatars/leravasilcheva.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Челябинск",
+        "followers": 114,
+        "following": 1,
+        "photos_count": 380,
+        "rank_in_nomination": 5,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 210
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 160
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 10
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 8
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 4
+          },
+          {
+            "name": "Xiaomi 23117RA68G",
+            "count": 3
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 13285466,
+      "title": "",
+      "description": "Мягкий свет подчёркивает глубину морщин и серебро её волос, а спокойная улыбка и задумчивый взгляд передают мудрость, достоинство и внутреннюю силу, накопленные годами.",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13285466",
+      "source_url": "https://35awards.com/gallery/photo/13285466/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2657/13285466_1500n.jpg",
+        "full": "photos/full/07_pipkina_13285466.jpg",
+        "thumb": "photos/thumb/07_pipkina_13285466.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Камерный портрет пожилой женщины в чёрном, построенный на крупной фактуре лица и рук. Свет работает почти как скульптор, а чёрный фон убирает всё лишнее.",
+        "light": {
+          "scheme": "Жёсткий боковой свет, близкий к split",
+          "direction": "Слева, чуть сверху",
+          "ratio": "Примерно 1:4",
+          "notes": "Свет подчёркивает морщины и рельеф кожи, оставляя правую сторону в тени. Блик на лбу и носу добавляет объём."
+        },
+        "color": {
+          "palette": "Чёрный, тёплые охристые тона кожи, седые волосы",
+          "temperature": "Тёплая",
+          "contrast": "Высокий",
+          "notes": "Палитра сдержанная, почти монохромная; цвет кожи становится главным акцентом."
+        },
+        "lens": {
+          "estimate": "85–135 мм",
+          "aperture": "f/2.8–f/4",
+          "perspective": "Фронтальный, дистанция 2–3 м",
+          "notes": "Компрессия и малая ГРИП полностью растворяют фон, оставляя лицо и руки в резкости."
+        },
+        "background": "Глубокий чёрный фон, без деталей.",
+        "nuances": [
+          "Рука у лица поддерживает взгляд и добавляет жест размышления.",
+          "Лёгкая улыбка снимает пафос и делает образ человечным.",
+          "Седые волосы работают как светлый контрапункт к чёрному.",
+          "Фактура кожи и ногтей сохранена, ретушь минимальна."
+        ],
+        "facets": {
+          "light": [
+            "studio",
+            "hard",
+            "split",
+            "low-key"
+          ],
+          "color": [
+            "color",
+            "warm",
+            "muted"
+          ],
+          "emotion": [
+            "calm",
+            "strength",
+            "tender"
+          ],
+          "image": [
+            "character",
+            "fine-art",
+            "minimal"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "studio",
+            "fine-art"
+          ],
+          "focal": [
+            "short-tele",
+            "tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "studio",
+          "hard",
+          "split",
+          "low-key"
+        ],
+        "color": [
+          "color",
+          "warm",
+          "muted"
+        ],
+        "emotion": [
+          "calm",
+          "strength",
+          "tender"
+        ],
+        "image": [
+          "character",
+          "fine-art",
+          "minimal"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "studio",
+          "fine-art"
+        ],
+        "focal": [
+          "short-tele",
+          "tele"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1059,
+        "likes": 0,
+        "favorites": 7
+      },
+      "author": {
+        "slug": "pipkina",
+        "name": "Natalia Pipkina",
+        "name_ru": "Natalia Pipkina",
+        "name_native": "Natalia Pipkina",
+        "profile_url": "https://35awards.com/author/pipkina/",
+        "external_profile": "https://35photo.pro/pipkina/",
+        "avatar": "",
+        "country": "Norway",
+        "country_code": "NO",
+        "flag": "assets/flags/no.svg",
+        "city": "Осло",
+        "followers": 60,
+        "following": 12,
+        "photos_count": 103,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Male portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Fujifilm GFX100S",
+            "count": 46
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 33
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 3
+          },
+          {
+            "name": "Canon RF 24-105mm F4L IS USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS R6 Mark III",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "id": 12772297,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12772297",
+      "source_url": "https://35awards.com/gallery/photo/12772297/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2554/12772297_1500n.jpg",
+        "full": "photos/full/08_evgenii655_12772297.jpg",
+        "thumb": "photos/thumb/08_evgenii655_12772297.jpg",
+        "width": 989,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Women's Emotions",
+        "contest_key": "theme:1011",
+        "contest_id": "1011",
+        "under_id": "1467",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1011/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Women's Emotions",
+          "contest_key": "theme:1011",
+          "contest_id": "1011",
+          "under_id": "1467",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1011/"
+        },
+        {
+          "label": "TOP 4%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Female studio portrait",
+          "contest_key": "theme:947",
+          "contest_id": "947",
+          "under_id": "1310",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/947/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Кинематографичный кадр в ванной: солнечное пятно на плитке, пар и зеленоватый cast создают ощущение остановленного времени. Это скорее сцена, чем классический портрет.",
+        "light": {
+          "scheme": "Жёсткий естественный свет из окна",
+          "direction": "Слева-сверху, скользящий по стене",
+          "ratio": "Примерно 1:6",
+          "notes": "Солнечный луч рисует геометрию на плитке, лицо остаётся в полутени. Пар и дым рассеивают свет и добавляют глубину."
+        },
+        "color": {
+          "palette": "Зеленоватый cast, приглушённые тёплые полутона кожи, серо-белая плитка",
+          "temperature": "Холодная",
+          "contrast": "Средний",
+          "notes": "Палитра похожа на аналоговую плёнку: низкая saturation, мягкие переходы, ощущение старого кадра."
+        },
+        "lens": {
+          "estimate": "35–50 мм",
+          "aperture": "f/2.8–f/4",
+          "perspective": "Environmental portrait, дистанция 2–3 м",
+          "notes": "Широкий угол позволяет показать ванну и стену, сохраняя лицо главным объектом."
+        },
+        "background": "Кафельная стена, ванна, пар и дым — среда важнее фона.",
+        "nuances": [
+          "Дым и пар работают как светорассеивающая среда и второй сюжет.",
+          "Профиль и закрытые глаза создают ощущение private moment.",
+          "Геометрия солнечного пятна рифмуется с линиями плитки.",
+          "Кадр не боится пустоты и тёмных зон по краям."
+        ],
+        "facets": {
+          "light": [
+            "natural",
+            "hard",
+            "window",
+            "low-key"
+          ],
+          "color": [
+            "color",
+            "cool",
+            "muted"
+          ],
+          "emotion": [
+            "mystery",
+            "calm"
+          ],
+          "image": [
+            "fine-art",
+            "cinematic",
+            "staged"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "natural-light",
+            "experimental"
+          ],
+          "focal": [
+            "normal"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "natural",
+          "hard",
+          "window",
+          "low-key"
+        ],
+        "color": [
+          "color",
+          "cool",
+          "muted"
+        ],
+        "emotion": [
+          "mystery",
+          "calm"
+        ],
+        "image": [
+          "fine-art",
+          "cinematic",
+          "staged"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "natural-light",
+          "experimental"
+        ],
+        "focal": [
+          "normal"
+        ],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Women's Emotions",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1011",
+          "under_id": "1467",
+          "link": "https://35awards.com/page/contests/num/1011/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Female studio portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "947",
+          "under_id": "1310",
+          "link": "https://35awards.com/page/contests/num/947/",
+          "badge": "TOP 4%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1744,
+        "likes": 4,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "evgenii655",
+        "name": "EVGENII KOCHETKOV",
+        "name_ru": "EVGENII KOCHETKOV",
+        "name_native": "EVGENII KOCHETKOV",
+        "profile_url": "https://35awards.com/author/evgenii655/",
+        "external_profile": "https://35photo.pro/evgenii655/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Пермь",
+        "followers": 8,
+        "following": 0,
+        "photos_count": 142,
+        "rank_in_nomination": 54,
+        "genres": [
+          "Portrait",
+          "Fashion"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-6500",
+            "count": 13
+          },
+          {
+            "name": "Sony ILME-FX3",
+            "count": 13
+          },
+          {
+            "name": "Sony ILCE-7RM4",
+            "count": 5
+          },
+          {
+            "name": "NORITSU KOKI EZ Controller",
+            "count": 3
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 2
+          },
+          {
+            "name": "Apple iPhone",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 2
+          },
+          {
+            "name": "Apple iPhone 15 Pro Max",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone XS",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 12347082,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12347082",
+      "source_url": "https://35awards.com/gallery/photo/12347082/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2469/12347082_1500n.jpg",
+        "full": "photos/full/09_aloharihas_12347082.jpg",
+        "thumb": "photos/thumb/09_aloharihas_12347082.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Чёрно-белый уличный портрет у моря. Ветер, закрытые глаза и жест рукой создают ощущение усталости и внутреннего монолога.",
+        "light": {
+          "scheme": "Мягкий естественный свет, overcast",
+          "direction": "Сверху-сбоку",
+          "ratio": "Примерно 1:2",
+          "notes": "Рассеянный свет не даёт жёстких теней, но сохраняет объём в складках пальто и волосах."
+        },
+        "color": {
+          "palette": "Чёрно-белая гамма с мягкими полутонами",
+          "temperature": "Нейтральная",
+          "contrast": "Средний",
+          "notes": "Монохром подчёркивает графику позы и фактуру шерсти, не отвлекая цветом."
+        },
+        "lens": {
+          "estimate": "35–50 мм",
+          "aperture": "f/2.8–f/4",
+          "perspective": "Environmental portrait, дистанция 2–3 м",
+          "notes": "Умеренно широкий угол показывает набережную и море, сохраняя естественные пропорции."
+        },
+        "background": "Море, набережная и чайки, мягко размытые.",
+        "nuances": [
+          "Закрытые глаза и рука у головы читаются как жест усталости, а не поза.",
+          "Ветер в волосах добавляет динамику статичной фигуре.",
+          "Одинокая фигура на скамейке работает на тему изоляции.",
+          "Негативное пространство неба и воды уравновешивает крупную фигуру."
+        ],
+        "facets": {
+          "light": [
+            "natural",
+            "soft"
+          ],
+          "color": [
+            "bw",
+            "monochrome"
+          ],
+          "emotion": [
+            "sadness",
+            "tense"
+          ],
+          "image": [
+            "documentary",
+            "fine-art",
+            "minimal"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "natural-light",
+            "documentary"
+          ],
+          "focal": [
+            "normal"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "natural",
+          "soft"
+        ],
+        "color": [
+          "bw"
+        ],
+        "emotion": [
+          "sadness",
+          "tense"
+        ],
+        "image": [
+          "documentary",
+          "fine-art",
+          "minimal"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "natural-light",
+          "documentary"
+        ],
+        "focal": [
+          "normal"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1477,
+        "likes": 5,
+        "favorites": 13
+      },
+      "author": {
+        "slug": "aloharihas",
+        "name": "Irina Isaeva",
+        "name_ru": "Irina Isaeva",
+        "name_native": "Irina Isaeva",
+        "profile_url": "https://35awards.com/author/aloharihas/",
+        "external_profile": "https://35photo.pro/aloharihas/",
+        "avatar": "",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 2,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 13260973,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13260973",
+      "source_url": "https://35awards.com/gallery/photo/13260973/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2652/13260973_1500n.jpg",
+        "full": "photos/full/10_gofrozen_13260973.jpg",
+        "thumb": "photos/thumb/10_gofrozen_13260973.jpg",
+        "width": 1001,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": {
+        "summary": "Классический студийный портрет в красном вельвете. Комплементарное сочетание красного и тёмно-зелёного делает кадр почти ренессансным, а открытая спина добавляет современную чувственность.",
+        "light": {
+          "scheme": "Мягкий студийный свет, петлевой",
+          "direction": "Слева-сверху",
+          "ratio": "Примерно 1:3",
+          "notes": "Свет лепит щёку, плечо и спину, оставляя правую сторону лица в мягкой тени. Вельвет сохраняет глубокий цвет без пересвета."
+        },
+        "color": {
+          "palette": "Красный вельвет, тёмно-зелёный фон, светлая кожа",
+          "temperature": "Тёплая",
+          "contrast": "Средний",
+          "notes": "Комплементарная пара красный/зелёный работает на контрасте, но saturation умеренная, без «открытки»."
+        },
+        "lens": {
+          "estimate": "85 мм",
+          "aperture": "f/2–f/2.8",
+          "perspective": "Взгляд через плечо, дистанция 2–3 м",
+          "notes": "Компрессия и малая ГРИП отделяют фигуру от фона; резкость на глазах и губах."
+        },
+        "background": "Тёмно-зелёный студийный фон с мягким градиентом.",
+        "nuances": [
+          "Открытая спина и поворот головы создают сложную линию взгляда.",
+          "Жемчуг и вельвет работают как фактурные акценты.",
+          "Рука поддерживает ткань и не даёт позе стать статичной.",
+          "Классическая живописная референция сочетается с современной откровенностью."
+        ],
+        "facets": {
+          "light": [
+            "studio",
+            "soft",
+            "loop"
+          ],
+          "color": [
+            "color",
+            "warm",
+            "saturated"
+          ],
+          "emotion": [
+            "strength",
+            "mystery",
+            "tense"
+          ],
+          "image": [
+            "fashion",
+            "fine-art"
+          ],
+          "season": [
+            "unspecified"
+          ],
+          "technique": [
+            "studio",
+            "fine-art"
+          ],
+          "focal": [
+            "short-tele"
+          ]
+        }
+      },
+      "facets": {
+        "light": [
+          "studio",
+          "soft",
+          "loop"
+        ],
+        "color": [
+          "color",
+          "warm",
+          "saturated"
+        ],
+        "emotion": [
+          "strength",
+          "mystery",
+          "tense"
+        ],
+        "image": [
+          "fashion",
+          "fine-art"
+        ],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [
+          "studio",
+          "fine-art"
+        ],
+        "focal": [
+          "short-tele"
+        ],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1131,
+        "likes": 1,
+        "favorites": 15
+      },
+      "author": {
+        "slug": "gofrozen",
+        "name": "Куренной Александр",
+        "name_ru": "Куренной Александр",
+        "name_native": "Aleksandr Kurennoi",
+        "profile_url": "https://35awards.com/author/gofrozen/",
+        "external_profile": "https://35photo.pro/gofrozen/",
+        "avatar": "avatars/gofrozen.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Ярославль",
+        "followers": 310,
+        "following": 51,
+        "photos_count": 307,
+        "rank_in_nomination": 11,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 53
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "id": 13106236,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13106236",
+      "source_url": "https://35awards.com/gallery/photo/13106236/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2621/13106236_1500n.jpg",
+        "full": "photos/full/11_irinagarsh_13106236.jpg",
+        "thumb": "photos/thumb/11_irinagarsh_13106236.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Female Color Portrait",
+        "contest_key": "theme:1083",
+        "contest_id": "1083",
+        "under_id": "1636",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1083/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Female Color Portrait",
+          "contest_key": "theme:1083",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1083/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Color Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1083",
+          "under_id": "1636",
+          "link": "https://35awards.com/page/contests/num/1083/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1570,
+        "likes": 2,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "irinagarsh",
+        "name": "Ирина Гарш",
+        "name_ru": "Ирина Гарш",
+        "name_native": "Irina Garsh",
+        "profile_url": "https://35awards.com/author/irinagarsh/",
+        "external_profile": "https://35photo.pro/irinagarsh/",
+        "avatar": "avatars/irinagarsh.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Киров",
+        "followers": 228,
+        "following": 1,
+        "photos_count": 304,
+        "rank_in_nomination": 2,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 263
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "id": 13008897,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13008897",
+      "source_url": "https://35awards.com/gallery/photo/13008897/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2601/13008897_1500n.jpg",
+        "full": "photos/full/12_didrisa_13008897.jpg",
+        "thumb": "photos/thumb/12_didrisa_13008897.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1410,
+        "likes": 1,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "didrisa",
+        "name": "Irina Denisova",
+        "name_ru": "Irina Denisova",
+        "name_native": "Irina Denisova",
+        "profile_url": "https://35awards.com/author/didrisa/",
+        "external_profile": "https://35photo.pro/didrisa/",
+        "avatar": "avatars/didrisa.jpg",
+        "country": "Australia",
+        "country_code": "AU",
+        "flag": "assets/flags/au.svg",
+        "city": "Melbourne",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 38,
+        "rank_in_nomination": 63,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D7200",
+            "count": 30
+          },
+          {
+            "name": "Sigma 17-50mm F2.8 EX DC OS HSM",
+            "count": 3
+          },
+          {
+            "name": "Fujifilm X-T20",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "id": 12256203,
+      "title": "",
+      "description": "Юность",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12256203",
+      "source_url": "https://35awards.com/gallery/photo/12256203/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2451/12256203_1500n.jpg",
+        "full": "photos/full/13_yakimenko1969_12256203.jpg",
+        "thumb": "photos/thumb/13_yakimenko1969_12256203.jpg",
+        "width": 1014,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1573,
+        "likes": 0,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "yakimenko1969",
+        "name": "Александр Якименко",
+        "name_ru": "Александр Якименко",
+        "name_native": "Yakimenko Aleksandr",
+        "profile_url": "https://35awards.com/author/yakimenko1969/",
+        "external_profile": "https://35photo.pro/yakimenko1969/",
+        "avatar": "avatars/yakimenko1969.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Новосибирск",
+        "followers": 44,
+        "following": 3,
+        "photos_count": 295,
+        "rank_in_nomination": 60,
+        "genres": [
+          "Portrait",
+          "Child portrait",
+          "Staged photography",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 231
+          },
+          {
+            "name": "Nikon D600",
+            "count": 51
+          },
+          {
+            "name": "Nikon Z5",
+            "count": 10
+          },
+          {
+            "name": "Nikon AF-S 24-70mm f/2,8G ED",
+            "count": 2
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 50mm f/1.4G",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "id": 12235280,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12235280",
+      "source_url": "https://35awards.com/gallery/photo/12235280/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2447/12235280_1500n.jpg",
+        "full": "photos/full/14_lisitskayaphoto_12235280.jpg",
+        "thumb": "photos/thumb/14_lisitskayaphoto_12235280.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color",
+          "muted"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1356,
+        "likes": 1,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "lisitskayaphoto",
+        "name": "Ekaterina Lisitskaya",
+        "name_ru": "Ekaterina Lisitskaya",
+        "name_native": "Ekaterina Lisitskaya",
+        "profile_url": "https://35awards.com/author/lisitskayaphoto/",
+        "external_profile": "https://35photo.pro/lisitskayaphoto/",
+        "avatar": "avatars/lisitskayaphoto.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Новороссийск",
+        "followers": 6,
+        "following": 0,
+        "photos_count": 7,
+        "rank_in_nomination": 23,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "id": 13119581,
+      "title": "",
+      "description": "вся серия доступна по подписке на https://boosty.to/ermakovph\r\nthe entire series is available by subscription to https://boosty.to/ermakovph",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13119581",
+      "source_url": "https://35awards.com/gallery/photo/13119581/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2623/13119581_1500n.jpg",
+        "full": "photos/full/15_ermakovpavel_13119581.jpg",
+        "thumb": "photos/thumb/15_ermakovpavel_13119581.jpg",
+        "width": 1500,
+        "height": 997
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1998,
+        "likes": 1,
+        "favorites": 17
+      },
+      "author": {
+        "slug": "ermakovpavel",
+        "name": "ермаков павел",
+        "name_ru": "Ермаков Павел",
+        "name_native": "Pavel Ermakov",
+        "profile_url": "https://35awards.com/author/ermakovpavel/",
+        "external_profile": "https://35photo.pro/ermakovpavel/",
+        "avatar": "avatars/ermakovpavel.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Нижний Новгород",
+        "followers": 3623,
+        "following": 0,
+        "photos_count": 406,
+        "rank_in_nomination": 30,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "LEICA S (Typ 006)",
+            "count": 121
+          },
+          {
+            "name": "Canon EOS-1D X",
+            "count": 39
+          },
+          {
+            "name": "Leica S2",
+            "count": 36
+          },
+          {
+            "name": "Canon EOS R6",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS-1D X Mark II",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 20D",
+            "count": 3
+          },
+          {
+            "name": "Apple iPhone X",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS 5D Mark II",
+            "count": 1
+          },
+          {
+            "name": "Apple iPhone 7 Plus",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "id": 13375381,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13375381",
+      "source_url": "https://35awards.com/gallery/photo/13375381/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2675/13375381_1500n.jpg",
+        "full": "photos/full/16_safouraparren_13375381.jpg",
+        "thumb": "photos/thumb/16_safouraparren_13375381.jpg",
+        "width": 1188,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1103,
+        "likes": 1,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "safouraparren",
+        "name": "safoura parren",
+        "name_ru": "safoura parren",
+        "name_native": "safoura parren",
+        "profile_url": "https://35awards.com/author/safouraparren/",
+        "external_profile": "https://35photo.pro/safouraparren/",
+        "avatar": "",
+        "country": "Malta",
+        "country_code": "MT",
+        "flag": "assets/flags/mt.svg",
+        "city": "Gzira",
+        "followers": 3,
+        "following": 0,
+        "photos_count": 3,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": []
+      }
+    },
+    {
+      "rank": 17,
+      "id": 13246464,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13246464",
+      "source_url": "https://35awards.com/gallery/photo/13246464/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2649/13246464_1500n.jpg",
+        "full": "photos/full/17_losiewicz_13246464.jpg",
+        "thumb": "photos/thumb/17_losiewicz_13246464.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1200,
+        "likes": 2,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "losiewicz",
+        "name": "Marta Losiewicz",
+        "name_ru": "Marta Losiewicz",
+        "name_native": "Marta Losiewicz",
+        "profile_url": "https://35awards.com/author/losiewicz/",
+        "external_profile": "https://35photo.pro/losiewicz/",
+        "avatar": "avatars/losiewicz.jpg",
+        "country": "Poland",
+        "country_code": "PL",
+        "flag": "assets/flags/pl.svg",
+        "city": "Krakow",
+        "followers": 45,
+        "following": 0,
+        "photos_count": 99,
+        "rank_in_nomination": 35,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 98
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "id": 12112856,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12112856",
+      "source_url": "https://35awards.com/gallery/photo/12112856/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2422/12112856_1500n.jpg",
+        "full": "photos/full/18_ternikov_12112856.jpg",
+        "thumb": "photos/thumb/18_ternikov_12112856.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 22%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Female studio portrait",
+        "contest_key": "theme:947",
+        "contest_id": "947",
+        "under_id": "1310",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/947/"
+      },
+      "honours": [
+        {
+          "label": "TOP 22%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Female studio portrait",
+          "contest_key": "theme:947",
+          "contest_id": "947",
+          "under_id": "1310",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/947/"
+        },
+        {
+          "label": "TOP 8%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Monochrome Fashion",
+          "contest_key": "theme:942",
+          "contest_id": "942",
+          "under_id": "1298",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/942/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female studio portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "947",
+          "under_id": "1310",
+          "link": "https://35awards.com/page/contests/num/947/",
+          "badge": "TOP 22%",
+          "tier": "top"
+        },
+        {
+          "name": "Monochrome Fashion",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "942",
+          "under_id": "1298",
+          "link": "https://35awards.com/page/contests/num/942/",
+          "badge": "TOP 8%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2151,
+        "likes": 2,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "ternikov",
+        "name": "Терников Александр",
+        "name_ru": "Терников Александр",
+        "name_native": "Alexander Ternikov",
+        "profile_url": "https://35awards.com/author/ternikov/",
+        "external_profile": "https://35photo.pro/ternikov/",
+        "avatar": "avatars/ternikov.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Ростов-на-Дону",
+        "followers": 86,
+        "following": 41,
+        "photos_count": 49,
+        "rank_in_nomination": 13,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R6m2",
+            "count": 5
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 5
+          },
+          {
+            "name": "Nikon D700",
+            "count": 5
+          },
+          {
+            "name": "Pentax Ricoh GR III",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "id": 13363105,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13363105",
+      "source_url": "https://35awards.com/gallery/photo/13363105/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2672/13363105_1500n.jpg",
+        "full": "photos/full/19_vitia_13363105.jpg",
+        "thumb": "photos/thumb/19_vitia_13363105.jpg",
+        "width": 1001,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 985,
+        "likes": 1,
+        "favorites": 16
+      },
+      "author": {
+        "slug": "vitia",
+        "name": "Виктор Циркин",
+        "name_ru": "Виктор Циркин",
+        "name_native": "Viktor Tsirkin",
+        "profile_url": "https://35awards.com/author/vitia/",
+        "external_profile": "https://35photo.pro/vitia/",
+        "avatar": "avatars/vitia.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 211,
+        "following": 0,
+        "photos_count": 24,
+        "rank_in_nomination": 7,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D800",
+            "count": 3
+          },
+          {
+            "name": "Sigma 35mm F1.4 DG HSM",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "id": 13152478,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13152478",
+      "source_url": "https://35awards.com/gallery/photo/13152478/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2630/13152478_1500n.jpg",
+        "full": "photos/full/20_irinagarsh_13152478.jpg",
+        "thumb": "photos/thumb/20_irinagarsh_13152478.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1222,
+        "likes": 2,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "irinagarsh",
+        "name": "Ирина Гарш",
+        "name_ru": "Ирина Гарш",
+        "name_native": "Irina Garsh",
+        "profile_url": "https://35awards.com/author/irinagarsh/",
+        "external_profile": "https://35photo.pro/irinagarsh/",
+        "avatar": "avatars/irinagarsh.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Киров",
+        "followers": 228,
+        "following": 1,
+        "photos_count": 304,
+        "rank_in_nomination": 2,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 263
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 15
+          },
+          {
+            "name": "Canon EOS 600D",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 21,
+      "id": 13285159,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13285159",
+      "source_url": "https://35awards.com/gallery/photo/13285159/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2657/13285159_1500n.jpg",
+        "full": "photos/full/21_aliesfehaniyan_13285159.jpg",
+        "thumb": "photos/thumb/21_aliesfehaniyan_13285159.jpg",
+        "width": 1050,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1165,
+        "likes": 2,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "aliesfehaniyan",
+        "name": "ali esfehaniyan",
+        "name_ru": "ali esfehaniyan",
+        "name_native": "ali esfehaniyan",
+        "profile_url": "https://35awards.com/author/aliesfehaniyan/",
+        "external_profile": "https://35photo.pro/aliesfehaniyan/",
+        "avatar": "avatars/aliesfehaniyan.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "tehran",
+        "followers": 17,
+        "following": 0,
+        "photos_count": 33,
+        "rank_in_nomination": 14,
+        "genres": [
+          "Female portrait",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 22,
+      "id": 13189000,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13189000",
+      "source_url": "https://35awards.com/gallery/photo/13189000/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2637/13189000_1500n.jpg",
+        "full": "photos/full/22_aliesfehaniyan_13189000.jpg",
+        "thumb": "photos/thumb/22_aliesfehaniyan_13189000.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1104,
+        "likes": 2,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "aliesfehaniyan",
+        "name": "ali esfehaniyan",
+        "name_ru": "ali esfehaniyan",
+        "name_native": "ali esfehaniyan",
+        "profile_url": "https://35awards.com/author/aliesfehaniyan/",
+        "external_profile": "https://35photo.pro/aliesfehaniyan/",
+        "avatar": "avatars/aliesfehaniyan.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "tehran",
+        "followers": 17,
+        "following": 0,
+        "photos_count": 33,
+        "rank_in_nomination": 14,
+        "genres": [
+          "Female portrait",
+          "Portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 23,
+      "id": 13368418,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13368418",
+      "source_url": "https://35awards.com/gallery/photo/13368418/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2673/13368418_1500n.jpg",
+        "full": "photos/full/23_uyriy_13368418.jpg",
+        "thumb": "photos/thumb/23_uyriy_13368418.jpg",
+        "width": 1500,
+        "height": 1003
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color",
+          "muted"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1070,
+        "likes": 0,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "uyriy",
+        "name": "Serebrov Uyriy",
+        "name_ru": "Uyriy Serebrov",
+        "name_native": "Uyriy Serebrov",
+        "profile_url": "https://35awards.com/author/uyriy/",
+        "external_profile": "https://35photo.pro/uyriy/",
+        "avatar": "avatars/uyriy.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Смоленск",
+        "followers": 14,
+        "following": 4,
+        "photos_count": 93,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R",
+            "count": 35
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 24
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 22
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 2
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 2
+          },
+          {
+            "name": "Canon RF 24-70 f 2.8 L IS USM",
+            "count": 2
+          },
+          {
+            "name": "Canon RF 70-200mm F2.8L IS USM or Canon RF 70-200mm F2.8 L IS USM Z",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 24,
+      "id": 12536508,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12536508",
+      "source_url": "https://35awards.com/gallery/photo/12536508/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2507/12536508_1500n.jpg",
+        "full": "photos/full/24_charlydeejay_12536508.jpg",
+        "thumb": "photos/thumb/24_charlydeejay_12536508.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 5%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Conceptual Shot – No Compositing",
+        "contest_key": "theme:983",
+        "contest_id": "983",
+        "under_id": "1398",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/983/"
+      },
+      "honours": [
+        {
+          "label": "TOP 5%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Conceptual Shot – No Compositing",
+          "contest_key": "theme:983",
+          "contest_id": "983",
+          "under_id": "1398",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/983/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Conceptual Shot – No Compositing",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "983",
+          "under_id": "1398",
+          "link": "https://35awards.com/page/contests/num/983/",
+          "badge": "TOP 5%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1606,
+        "likes": 5,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "charlydeejay",
+        "name": "CHARLY DEE JAY",
+        "name_ru": "CHARLY DEE JAY",
+        "name_native": "Carlos Alberto Soto Bartumeu",
+        "profile_url": "https://35awards.com/author/charlydeejay/",
+        "external_profile": "https://35photo.pro/charlydeejay/",
+        "avatar": "avatars/charlydeejay.jpg",
+        "country": "United States",
+        "country_code": "US",
+        "flag": "assets/flags/us.svg",
+        "city": "Miami",
+        "followers": 2,
+        "following": 0,
+        "photos_count": 5,
+        "rank_in_nomination": null,
+        "genres": [],
+        "gear": [
+          {
+            "name": "Nikon D7100",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "rank": 25,
+      "id": 12692139,
+      "title": "Density of Shadow",
+      "description": "This portrait employs a refined low-key lighting setup with a controlled contrast ratio. Light falls from camera-left, illuminating one side of the face while the opposite side remains in deep yet detailed shadow. This distribution enhances bone structure and defines the bridge of the nose and cheek contours with precision.\r\n\r\nThe dark shawl frames the face closely, creating a contained visual structure that directs attention toward the eyes. The fabric functions as negative space rather than a decorative element, compressing the composition and strengthening subject isolation. Midtones are carefully preserved to avoid abrupt tonal transitions. The direct gaze, combined with the balanced shadow density, establishes a strong central focal point within a disciplined tonal range.",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12692139",
+      "source_url": "https://35awards.com/gallery/photo/12692139/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2538/12692139_1500n.jpg",
+        "full": "photos/full/25_samirahesami_12692139.jpg",
+        "thumb": "photos/thumb/25_samirahesami_12692139.jpg",
+        "width": 1071,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1344,
+        "likes": 1,
+        "favorites": 10
+      },
+      "author": {
+        "slug": "samirahesami",
+        "name": "samira hesami",
+        "name_ru": "samira hesami",
+        "name_native": "samira hesami",
+        "profile_url": "https://35awards.com/author/samirahesami/",
+        "external_profile": "https://35photo.pro/samirahesami/",
+        "avatar": "avatars/samirahesami.jpg",
+        "country": "Iran",
+        "country_code": "IR",
+        "flag": "assets/flags/ir.svg",
+        "city": "Tehran",
+        "followers": 425,
+        "following": 9,
+        "photos_count": 139,
+        "rank_in_nomination": 4,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS R8",
+            "count": 30
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 10
+          },
+          {
+            "name": "Sigma 85mm f/1.4 DG HSM A016",
+            "count": 9
+          }
+        ]
+      }
+    },
+    {
+      "rank": 26,
+      "id": 12896419,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12896419",
+      "source_url": "https://35awards.com/gallery/photo/12896419/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2579/12896419_1500n.jpg",
+        "full": "photos/full/26_sdtarasova_12896419.jpg",
+        "thumb": "photos/thumb/26_sdtarasova_12896419.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1284,
+        "likes": 1,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "sdtarasova",
+        "name": "Светлана Тарасова",
+        "name_ru": "Светлана Тарасова",
+        "name_native": "Светлана Тарасова",
+        "profile_url": "https://35awards.com/author/sdtarasova/",
+        "external_profile": "https://35photo.pro/sdtarasova/",
+        "avatar": "avatars/sdtarasova.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 134,
+        "following": 0,
+        "photos_count": 56,
+        "rank_in_nomination": 53,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 56
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM or Sigma 35mm f/1.5 FF High-Speed Prime | 017",
+            "count": 8
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "rank": 27,
+      "id": 13291419,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13291419",
+      "source_url": "https://35awards.com/gallery/photo/13291419/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2658/13291419_1500n.jpg",
+        "full": "photos/full/27_lyashenkomarina_13291419.jpg",
+        "thumb": "photos/thumb/27_lyashenkomarina_13291419.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1125,
+        "likes": 3,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "lyashenkomarina",
+        "name": "Щеглова Марина",
+        "name_ru": "Марина Щеглова",
+        "name_native": "Marina Sheglova",
+        "profile_url": "https://35awards.com/author/lyashenkomarina/",
+        "external_profile": "https://35photo.pro/lyashenkomarina/",
+        "avatar": "avatars/lyashenkomarina.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 1856,
+        "following": 31,
+        "photos_count": 674,
+        "rank_in_nomination": 3,
+        "genres": [
+          "Portrait",
+          "Male portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Nikon D850",
+            "count": 155
+          },
+          {
+            "name": "Apple iPhone 14 Pro",
+            "count": 9
+          },
+          {
+            "name": "Apple iPhone 11 Pro",
+            "count": 8
+          },
+          {
+            "name": "Apple iPhone X",
+            "count": 3
+          },
+          {
+            "name": "Apple iPhone 17 Pro Max",
+            "count": 2
+          },
+          {
+            "name": "Canon EOS R",
+            "count": 2
+          },
+          {
+            "name": "Nikon AF-S NIKKOR 50 мм f/1,8G",
+            "count": 1
+          },
+          {
+            "name": "Nikon AF Zoom-Nikkor 35-70mm f/2.8D",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS R5",
+            "count": 1
+          },
+          {
+            "name": "Fujifilm GFX100S",
+            "count": 1
+          },
+          {
+            "name": "Nikon D3000",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 28,
+      "id": 12668892,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12668892",
+      "source_url": "https://35awards.com/gallery/photo/12668892/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2533/12668892_1500n.jpg",
+        "full": "photos/full/28_parshina_12668892.jpg",
+        "thumb": "photos/thumb/28_parshina_12668892.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 1%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Staged portrait in natural light",
+        "contest_key": "theme:971",
+        "contest_id": "971",
+        "under_id": "1369",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/971/"
+      },
+      "honours": [
+        {
+          "label": "TOP 1%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Staged portrait in natural light",
+          "contest_key": "theme:971",
+          "contest_id": "971",
+          "under_id": "1369",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/971/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Staged portrait in natural light",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "971",
+          "under_id": "1369",
+          "link": "https://35awards.com/page/contests/num/971/",
+          "badge": "TOP 1%",
+          "tier": "top"
+        }
+      ],
+      "metrics": {
+        "views": 1845,
+        "likes": 3,
+        "favorites": 11
+      },
+      "author": {
+        "slug": "parshina",
+        "name": "Паршина Настасья",
+        "name_ru": "Паршина Настасья",
+        "name_native": "Nastasya Parshina",
+        "profile_url": "https://35awards.com/author/parshina/",
+        "external_profile": "https://35photo.pro/parshina/",
+        "avatar": "avatars/parshina.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 1247,
+        "following": 0,
+        "photos_count": 300,
+        "rank_in_nomination": 8,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 126
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 60
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 30
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM or Sigma 35mm f/1.5 FF High-Speed Prime | 017",
+            "count": 11
+          }
+        ]
+      }
+    },
+    {
+      "rank": 29,
+      "id": 13245264,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13245264",
+      "source_url": "https://35awards.com/gallery/photo/13245264/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2649/13245264_1500n.jpg",
+        "full": "photos/full/29_erasky_13245264.jpg",
+        "thumb": "photos/thumb/29_erasky_13245264.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 2%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Female Portrait with Flowers",
+        "contest_key": "theme:1048",
+        "contest_id": "1048",
+        "under_id": "1543",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/1048/"
+      },
+      "honours": [
+        {
+          "label": "TOP 2%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Female Portrait with Flowers",
+          "contest_key": "theme:1048",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/1048/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Female Portrait with Flowers",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "1048",
+          "under_id": "1543",
+          "link": "https://35awards.com/page/contests/num/1048/",
+          "badge": "TOP 2%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1387,
+        "likes": 1,
+        "favorites": 4
+      },
+      "author": {
+        "slug": "erasky",
+        "name": "Stas Pushkarev",
+        "name_ru": "Stas Pushkarev",
+        "name_native": "Stas Pushkarev",
+        "profile_url": "https://35awards.com/author/erasky/",
+        "external_profile": "https://35photo.pro/erasky/",
+        "avatar": "avatars/erasky.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 1496,
+        "following": 1,
+        "photos_count": 55,
+        "rank_in_nomination": null,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 7
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 5
+          },
+          {
+            "name": "Sony ILCE-7M4",
+            "count": 2
+          },
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 1
+          },
+          {
+            "name": "Canon EOS 6D",
+            "count": 1
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM or Sigma 35mm f/1.5 FF High-Speed Prime | 017",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 30,
+      "id": 13341439,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13341439",
+      "source_url": "https://35awards.com/gallery/photo/13341439/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2668/13341439_1500n.jpg",
+        "full": "photos/full/30_parshina_13341439.jpg",
+        "thumb": "photos/thumb/30_parshina_13341439.jpg",
+        "width": 1500,
+        "height": 1200
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1029,
+        "likes": 0,
+        "favorites": 2
+      },
+      "author": {
+        "slug": "parshina",
+        "name": "Паршина Настасья",
+        "name_ru": "Паршина Настасья",
+        "name_native": "Nastasya Parshina",
+        "profile_url": "https://35awards.com/author/parshina/",
+        "external_profile": "https://35photo.pro/parshina/",
+        "avatar": "avatars/parshina.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 1247,
+        "following": 0,
+        "photos_count": 300,
+        "rank_in_nomination": 8,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D",
+            "count": 126
+          },
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 60
+          },
+          {
+            "name": "Canon EF 85 mm F/1.8 USM",
+            "count": 30
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM or Sigma 35mm f/1.5 FF High-Speed Prime | 017",
+            "count": 11
+          }
+        ]
+      }
+    },
+    {
+      "rank": 31,
+      "id": 12121828,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12121828",
+      "source_url": "https://35awards.com/gallery/photo/12121828/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2424/12121828_1500n.jpg",
+        "full": "photos/full/31_zaykovpavel_12121828.jpg",
+        "thumb": "photos/thumb/31_zaykovpavel_12121828.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "TOP 15%",
+        "kind": "top",
+        "tier": "top",
+        "contest": "Black and white woman portrait",
+        "contest_key": "theme:917",
+        "contest_id": "917",
+        "under_id": "1230",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/917/"
+      },
+      "honours": [
+        {
+          "label": "TOP 15%",
+          "kind": "top",
+          "tier": "top",
+          "contest": "Black and white woman portrait",
+          "contest_key": "theme:917",
+          "contest_id": "917",
+          "under_id": "1230",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/917/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "bw"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "top",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "Black and white woman portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "917",
+          "under_id": "1230",
+          "link": "https://35awards.com/page/contests/num/917/",
+          "badge": "TOP 15%",
+          "tier": "top"
+        },
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 2151,
+        "likes": 0,
+        "favorites": 5
+      },
+      "author": {
+        "slug": "zaykovpavel",
+        "name": "Павел Зайков",
+        "name_ru": "Зайков Павел",
+        "name_native": "Pavel Zaykov",
+        "profile_url": "https://35awards.com/author/zaykovpavel/",
+        "external_profile": "https://35photo.pro/zaykovpavel/",
+        "avatar": "avatars/zaykovpavel.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Москва",
+        "followers": 128,
+        "following": 0,
+        "photos_count": 131,
+        "rank_in_nomination": 32,
+        "genres": [
+          "Portrait",
+          "Female portrait",
+          "Fashion",
+          "Male portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7M3",
+            "count": 85
+          },
+          {
+            "name": "Sony ILCE-7S",
+            "count": 13
+          },
+          {
+            "name": "Sony ILCE-7M2",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "rank": 32,
+      "id": 12270463,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12270463",
+      "source_url": "https://35awards.com/gallery/photo/12270463/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2454/12270463_1500n.jpg",
+        "full": "photos/full/32_anastasia100_12270463.jpg",
+        "thumb": "photos/thumb/32_anastasia100_12270463.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1559,
+        "likes": 2,
+        "favorites": 9
+      },
+      "author": {
+        "slug": "anastasia100",
+        "name": "Анастасия Бармина",
+        "name_ru": "Анастасия Бармина",
+        "name_native": "Barmina Anastasiya",
+        "profile_url": "https://35awards.com/author/anastasia100/",
+        "external_profile": "https://35photo.pro/anastasia100/",
+        "avatar": "avatars/anastasia100.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Екатеринбург",
+        "followers": 1281,
+        "following": 8,
+        "photos_count": 433,
+        "rank_in_nomination": 29,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Female portrait",
+          "Child portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 384
+          },
+          {
+            "name": "Canon EOS R6m2",
+            "count": 14
+          },
+          {
+            "name": "Canon RF 85mm F1.2L USM or Canon RF 85mm F1.2L USM DS",
+            "count": 6
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 4
+          },
+          {
+            "name": "Canon EF 24-70 mm f/2.8L II USM",
+            "count": 1
+          },
+          {
+            "name": "Canon EF 135 mm f/2.0 L USM",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "rank": 33,
+      "id": 12889442,
+      "title": "Shape of the girl",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_12889442",
+      "source_url": "https://35awards.com/gallery/photo/12889442/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2577/12889442_1500n.jpg",
+        "full": "photos/full/33_ostroverhovilya_12889442.jpg",
+        "thumb": "photos/thumb/33_ostroverhovilya_12889442.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1249,
+        "likes": 0,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "ostroverhovilya",
+        "name": "Илья Ост",
+        "name_ru": "Илья Ост",
+        "name_native": "Ost Elias",
+        "profile_url": "https://35awards.com/author/ostroverhovilya/",
+        "external_profile": "https://35photo.pro/ostroverhovilya/",
+        "avatar": "avatars/ostroverhovilya.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Санкт-Петербург",
+        "followers": 0,
+        "following": 0,
+        "photos_count": 51,
+        "rank_in_nomination": 73,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 6D Mark II",
+            "count": 40
+          },
+          {
+            "name": "Canon EF 50 mm f/1.4 USM",
+            "count": 7
+          },
+          {
+            "name": "Sigma 35mm f/1.4 DG HSM | A",
+            "count": 7
+          },
+          {
+            "name": "NORITSU KOKI EZ Controller",
+            "count": 3
+          },
+          {
+            "name": "Apple iPhone 11",
+            "count": 3
+          },
+          {
+            "name": "NORITSU KOKI QSS-32_33",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "rank": 34,
+      "id": 13268158,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13268158",
+      "source_url": "https://35awards.com/gallery/photo/13268158/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2653/13268158_1500n.jpg",
+        "full": "photos/full/34_gofrozen_13268158.jpg",
+        "thumb": "photos/thumb/34_gofrozen_13268158.jpg",
+        "width": 1200,
+        "height": 1500
+      },
+      "award": {
+        "label": "III stage",
+        "kind": "stage",
+        "tier": "stage",
+        "contest": "Female portrait",
+        "contest_key": "nomination:910",
+        "contest_id": "910",
+        "under_id": "1197",
+        "type": "nomination",
+        "link": "https://35awards.com/winners11th/nomination/1197/"
+      },
+      "honours": [
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        }
+      ],
+      "metrics": {
+        "views": 1203,
+        "likes": 2,
+        "favorites": 12
+      },
+      "author": {
+        "slug": "gofrozen",
+        "name": "Куренной Александр",
+        "name_ru": "Куренной Александр",
+        "name_native": "Aleksandr Kurennoi",
+        "profile_url": "https://35awards.com/author/gofrozen/",
+        "external_profile": "https://35photo.pro/gofrozen/",
+        "avatar": "avatars/gofrozen.jpg",
+        "country": "Russian Federation",
+        "country_code": "RU",
+        "flag": "assets/flags/ru.svg",
+        "city": "Ярославль",
+        "followers": 310,
+        "following": 51,
+        "photos_count": 307,
+        "rank_in_nomination": 11,
+        "genres": [
+          "Portrait",
+          "Female portrait"
+        ],
+        "gear": [
+          {
+            "name": "Sony ILCE-7RM3",
+            "count": 53
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 10
+          }
+        ]
+      }
+    },
+    {
+      "rank": 35,
+      "id": 13076395,
+      "title": "",
+      "description": "",
+      "page_url": "https://35awards.com/winners11th/nomination/1197/#photo_13076395",
+      "source_url": "https://35awards.com/gallery/photo/13076395/",
+      "top35": true,
+      "image": {
+        "source": "https://35awards.com/photos_temp/sizes/2615/13076395_1500n.jpg",
+        "full": "photos/full/35_voinichj_13076395.jpg",
+        "thumb": "photos/thumb/35_voinichj_13076395.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "award": {
+        "label": "BEST OF CONTEST",
+        "kind": "best",
+        "tier": "best",
+        "contest": "Snowy Adult Portrait",
+        "contest_key": "theme:988",
+        "contest_id": "988",
+        "under_id": "1408",
+        "type": "theme",
+        "link": "https://35awards.com/page/contests/num/988/"
+      },
+      "honours": [
+        {
+          "label": "BEST OF CONTEST",
+          "kind": "best",
+          "tier": "best",
+          "contest": "Snowy Adult Portrait",
+          "contest_key": "theme:988",
+          "contest_id": "988",
+          "under_id": "1408",
+          "type": "theme",
+          "link": "https://35awards.com/page/contests/num/988/"
+        },
+        {
+          "label": "III stage",
+          "kind": "stage",
+          "tier": "stage",
+          "contest": "Female portrait",
+          "contest_key": "nomination:910",
+          "contest_id": "910",
+          "under_id": "1197",
+          "type": "nomination",
+          "link": "https://35awards.com/winners11th/nomination/1197/"
+        }
+      ],
+      "badge_images": [],
+      "analysis": null,
+      "facets": {
+        "light": [],
+        "color": [
+          "color"
+        ],
+        "emotion": [],
+        "image": [],
+        "season": [
+          "unspecified"
+        ],
+        "technique": [],
+        "focal": [],
+        "award": [
+          "best",
+          "stage",
+          "top35"
+        ],
+        "nomination": [
+          "female-portrait"
+        ],
+        "year": [
+          "2025"
+        ],
+        "source": [
+          "nomination"
+        ]
+      },
+      "memberships": [
+        {
+          "name": "11th 35AWARDS",
+          "under_title": "Female portrait",
+          "type": "nomination",
+          "contest_id": "910",
+          "under_id": "1197",
+          "link": "https://35awards.com/winners11th/nomination/1197/",
+          "badge": "III stage",
+          "tier": "stage"
+        },
+        {
+          "name": "Snowy Adult Portrait",
+          "under_title": "",
+          "type": "theme",
+          "contest_id": "988",
+          "under_id": "1408",
+          "link": "https://35awards.com/page/contests/num/988/",
+          "badge": "BEST OF CONTEST",
+          "tier": "best"
+        }
+      ],
+      "metrics": {
+        "views": 1943,
+        "likes": 3,
+        "favorites": 6
+      },
+      "author": {
+        "slug": "voinichj",
+        "name": "Юлия Войнич",
+        "name_ru": "Юлия Войнич",
+        "name_native": "Julia Voinich",
+        "profile_url": "https://35awards.com/author/voinichj/",
+        "external_profile": "https://35photo.pro/voinichj/",
+        "avatar": "avatars/voinichj.jpg",
+        "country": "Belarus",
+        "country_code": "BY",
+        "flag": "assets/flags/by.svg",
+        "city": "Минск",
+        "followers": 393,
+        "following": 188,
+        "photos_count": 501,
+        "rank_in_nomination": 85,
+        "genres": [
+          "Portrait",
+          "Staged photography",
+          "Child portrait",
+          "Children staged photography"
+        ],
+        "gear": [
+          {
+            "name": "Canon EOS 5D Mark IV",
+            "count": 14
+          },
+          {
+            "name": "Canon EF 85 mm f/1.2 L II USM",
+            "count": 4
+          },
+          {
+            "name": "Canon EOS 5D Mark III",
+            "count": 2
+          }
+        ]
+      }
+    }
+  ]
+}
