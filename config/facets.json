@@ -112,5 +112,12 @@
       "multi_nomination": "2+ номинации",
       "multi_theme": "2+ темы"
     }
+  },
+  "review": {
+    "title": "Разбор",
+    "options": {
+      "analysis": "есть разбор",
+      "recipe": "есть рецепт"
+    }
   }
 }

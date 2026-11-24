@@ -84,9 +84,9 @@
       <span>Тонкие настройки</span>
       <small>свет · цвет · техника · образ · эмоция · мульти-участие</small>
     </summary>
-    <div class="filters-advanced__note">Свет, техника, образ и эмоции размечены для части работ. Цвет и ч/б определены автоматически для всего архива. Фокусное и сезон убраны: по изображению они определяются ненадёжно.</div>
+    <div class="filters-advanced__note">Свет, техника, образ и эмоции размечены у {{ facet_counts['review'].get('analysis', 0) }} работ; естественный свет — у {{ facet_counts['light'].get('natural', 0) }}. Цвет и ч/б определены автоматически для всего архива. Фокусное и сезон убраны: по изображению они определяются ненадёжно.</div>
     <div class="filters-advanced__grid">
-      {% for group in ['light', 'color', 'technique', 'image', 'emotion'] %}
+      {% for group in ['light', 'color', 'technique', 'image', 'emotion', 'review'] %}
       <div class="filter-group" data-filter-group="{{ group }}">
         <div class="filter-group__title">{{ facets[group].title }}</div>
         <div class="filter-group__options">

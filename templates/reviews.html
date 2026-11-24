@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% import "macros.html" as ui with context %}
+
+{% block title %}Разборы и рецепты — 35AWARDS Archive{% endblock %}
+{% block description %}Разборы избранных работ 35AWARDS: свет, оптика, настройки камеры и практические рецепты повторения кадра.{% endblock %}
+
+{% block content %}
+<main>
+  <div class="container breadcrumbs">
+    <a href="{{ root_prefix }}index.html">Главная</a>
+    <span aria-hidden="true">/</span>
+    <span>Разборы</span>
+  </div>
+
+  <section class="hero" style="padding-bottom:30px">
+    <div class="container">
+      <div class="hero__kicker">Разборы фотографа</div>
+      <h1 class="hero__title" style="font-size:clamp(44px,6.5vw,92px)">Что видно<br><em>в кадре</em></h1>
+      <p class="hero__lead">
+        {{ photos|length }} работ с разбором света, цвета и оптики. У {{ recipe_count }}
+        есть практический рецепт: режим камеры, диапазоны настроек, схема света,
+        альтернативы и тест-протокол. Разбор открывается в лайтбоксе работы.
+      </p>
+    </div>
+  </section>
+
+  <section class="container edition-body">
+    <div class="toolbar">
+      <div class="filter">
+        <a class="filter__btn is-active" href="{{ root_prefix }}index.html?review=analysis#catalog">Показать в каталоге</a>
+      </div>
+      <div class="toolbar__hint">{{ photos|length }} {{ photos|length|plural('разбор', 'разбора', 'разборов') }}</div>
+    </div>
+
+    <div class="review-list">
+      {% for photo in photos %}
+      <article class="review-card">
+        <a class="review-card__media" href="{{ root_prefix }}{{ photo.detail_url }}">
+          <img src="{{ root_prefix }}{{ photo.image.thumb_url }}" alt="{{ photo.title or photo.nomination.name }} — {{ photo.author.name }}" loading="lazy">
+        </a>
+        <div class="review-card__body">
+          <div class="kicker">{{ photo.nomination.name }}{% if photo.edition.year %} · {{ photo.edition.year }}{% endif %}</div>
+          <h2>{% if photo.title %}{{ photo.title }}{% else %}Работа {{ photo.author.name }}{% endif %}</h2>
+          <div class="review-card__author">{{ photo.author.name }}{% if photo.author.city %} · {{ photo.author.city }}{% endif %}</div>
+          <p class="review-card__summary">{{ photo.analysis.summary }}</p>
+          <div class="review-card__badges">
+            <span class="review-badge">разбор</span>
+            {% if photo.analysis.recipe %}<span class="review-badge review-badge--recipe">рецепт съёмки</span>{% endif %}
+          </div>
+          <a class="review-card__link" href="{{ root_prefix }}{{ photo.detail_url }}">Открыть разбор →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</main>
+{% endblock %}

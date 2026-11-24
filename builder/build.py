@@ -31,6 +31,11 @@ def attach_analysis(item: dict[str, Any]) -> dict[str, Any]:
         current = set(facets.get(group) or [])
         current |= set(values)
         facets[group] = sorted(current)
+    review = facets.setdefault("review", [])
+    if "analysis" not in review:
+        review.append("analysis")
+    if analysis.get("recipe") and "recipe" not in review:
+        review.append("recipe")
     return item
 
 
@@ -612,7 +617,7 @@ def build() -> None:
     facet_counts: dict[str, dict[str, int]] = {}
     for group in ("source", "nomination", "theme", "year", "award", "multi", "contest"):
         facet_counts[group] = {}
-    for group in ("light", "color", "technique", "image", "emotion", "season", "focal"):
+    for group in ("light", "color", "technique", "image", "emotion", "season", "focal", "review"):
         facet_counts[group] = {}
     for photo in all_photos:
         for group, values in (photo.get("facets") or {}).items():
@@ -970,6 +975,43 @@ def build() -> None:
         media_base="",
     )
     output = CATALOG / "multi" / "index.html"
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(html, encoding="utf-8")
+    print(f"built {output}")
+
+    # --------------------------------------------------------------- reviews page
+    review_photos = [photo for photo in all_photos if photo.get("analysis")]
+    for photo in review_photos:
+        if photo.get("entity_type") == "theme" and photo.get("theme"):
+            theme = photo["theme"]
+            photo["detail_url"] = (
+                f"themes/{theme['slug']}/{theme['contest_id']}/index.html"
+                f"#photo_{photo['id']}"
+            )
+        else:
+            photo["detail_url"] = (
+                f"nominations/{photo['nomination']['slug']}/"
+                f"{photo['edition']['slug']}/index.html#photo_{photo['id']}"
+            )
+    review_photos.sort(
+        key=lambda photo: (
+            0 if (photo.get("analysis") or {}).get("recipe") else 1,
+            -int((photo.get("edition") or {}).get("year") or 0),
+            photo.get("rank") or 999,
+        )
+    )
+    recipe_count = sum(
+        1 for photo in review_photos if (photo.get("analysis") or {}).get("recipe")
+    )
+    html = env.get_template("reviews.html").render(
+        **base_context,
+        photos=review_photos,
+        recipe_count=recipe_count,
+        asset_prefix="../assets/",
+        root_prefix="../",
+        media_base="",
+    )
+    output = CATALOG / "reviews" / "index.html"
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(html, encoding="utf-8")
     print(f"built {output}")
