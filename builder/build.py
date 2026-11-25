@@ -36,6 +36,8 @@ def attach_analysis(item: dict[str, Any]) -> dict[str, Any]:
         review.append("analysis")
     if analysis.get("recipe") and "recipe" not in review:
         review.append("recipe")
+    if not analysis.get("auto") and "curated" not in review:
+        review.append("curated")
     return item
 
 
@@ -980,7 +982,15 @@ def build() -> None:
     print(f"built {output}")
 
     # --------------------------------------------------------------- reviews page
-    review_photos = [photo for photo in all_photos if photo.get("analysis")]
+    review_photos = [
+        photo
+        for photo in all_photos
+        if photo.get("analysis")
+        and (
+            not (photo.get("analysis") or {}).get("auto")
+            or (photo.get("analysis") or {}).get("recipe")
+        )
+    ]
     for photo in review_photos:
         if photo.get("entity_type") == "theme" and photo.get("theme"):
             theme = photo["theme"]
@@ -1007,6 +1017,7 @@ def build() -> None:
         **base_context,
         photos=review_photos,
         recipe_count=recipe_count,
+        total_analyzed=sum(1 for photo in all_photos if photo.get("analysis")),
         asset_prefix="../assets/",
         root_prefix="../",
         media_base="",

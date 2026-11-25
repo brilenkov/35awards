@@ -218,7 +218,7 @@
 
     return `
       <div class="lb-section lb-analysis">
-        <h4>Разбор фотографа</h4>
+        <h4>${analysis.auto ? "Автоматическая VLM-разметка" : "Разбор фотографа"}</h4>
         <p class="lb-analysis__summary">${escapeHtml(analysis.summary)}</p>
         <div class="lb-analysis__grid">
           ${rows
@@ -231,6 +231,7 @@
             )
             .join("")}
         </div>
+        ${analysis.auto ? '<p class="lb-analysis__confidence">Автоматическая оценка по изображению; параметры съёмки не EXIF.</p>' : ''}
         ${confidence}
         ${lighting}
         ${notes}
